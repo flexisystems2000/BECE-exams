@@ -1,0 +1,304 @@
+{
+  "Agricultural Science": [
+    {
+      "q": "The deliberate cultivation of land, raising of crops, and rearing of livestock for human use and economic benefit is ________.",
+      "o": ["Horticulture", "Agriculture", "Agronomy", "Forestry", "Silviculture"],
+      "a": 1
+    },
+    {
+      "q": "Which branch of agriculture deals explicitly with the scientific study of soil management and crop production loops?",
+      "o": ["Animal Science", "Agronomy", "Agricultural Economics", "Fisheries", "Agricultural Engineering"],
+      "a": 1
+    },
+    {
+      "q": "The branch of agriculture that involves cultivating ornamental flowers, fruits, and vegetables within gardens is ________.",
+      "o": ["Fisheries", "Horticulture", "Forestry", "Animal Husbandry", "Extension"],
+      "a": 1
+    },
+    {
+      "q": "Agriculture provides all the following essential benefits to the Nigerian economy EXCEPT ________.",
+      "o": ["Provision of food items", "Generation of foreign exchange tracking", "Supply of raw industrial materials", "Production of synthetic computer chips", "Source of rural employment positions"],
+      "a": 3
+    },
+    {
+      "q": "Which of the following industrial raw materials is produced directly from a rubber plantation?",
+      "o": ["Cocoa butter", "Latex (Natural rubber)", "Cotton fibers", "Pulpwood sheets", "Palm oil reserves"],
+      "a": 1
+    },
+    {
+      "q": "A type of agricultural system where a farmer cultivates a small piece of land strictly to feed their immediate family cell is ________.",
+      "o": ["Subsistence agriculture", "Commercial agriculture", "Plantation farming", "Mechanized agriculture", "Mixed farming"],
+      "a": 0
+    },
+    {
+      "q": "A major characteristic of modern commercial agriculture frameworks is the ________.",
+      "o": ["Use of crude hand tools exclusively", "Utilization of large hectares of land and heavy machinery", "Low capital investment layouts", "Production of crops solely for family feeding", "Total dependence on manual family labor"],
+      "a": 1
+    },
+    {
+      "q": "The loose, outermost natural layer of the earth's surface in which plants grow and stretch their root tracks is ________.",
+      "o": ["Bedrock", "Soil", "Humus", "Parent rock", "Topography"],
+      "a": 1
+    },
+    {
+      "q": "Which soil component consists of completely decayed plant and animal tissues that enrich soil fertility parameters?",
+      "o": ["Mineral matter", "Organic matter (Humus)", "Soil water content", "Soil air bubbles", "Microorganisms"],
+      "a": 1
+    },
+    {
+      "q": "A type of soil characterized by very large particles, high drainage rates, and extremely low water retention properties is ________.",
+      "o": ["Clay soil", "Sandy soil", "Loamy soil", "Silt soil", "Laterite soil"],
+      "a": 1
+    },
+    {
+      "q": "Which soil type is considered the best and most ideal for cultivating standard agricultural crops due to its balanced drainage and fertility?",
+      "o": ["Sandy soil", "Clay soil", "Loamy soil", "Gravelly soil", "Acidic soil"],
+      "a": 2
+    },
+    {
+      "q": "The property of clay soil that makes it sticky when wet and moldable into stable ceramic structures is its ________.",
+      "o": ["Porosity", "Plasticity", "Permeability", "Granulation", "Acidity"],
+      "a": 1
+    },
+    {
+      "q": "The vertical cross-section of the soil showing its different structural layers or horizons from top to bottom is the ________.",
+      "o": ["Soil texture map", "Soil profile", "Soil structure layout", "Soil pH scale", "Soil erosion gradient"],
+      "a": 1
+    },
+    {
+      "q": "Which soil layer or horizon contains the highest concentration of organic matter and active soil microorganisms?",
+      "o": ["Horizon A (Topsoil)", "Horizon B (Subsoil)", "Horizon C (Parent material)", "Horizon D (Bedrock)", "Horizon E"],
+      "a": 0
+    },
+    {
+      "q": "The process of losing essential soil nutrients when heavy rainfall washes them down beyond the reach of plant roots is ________.",
+      "o": ["Erosion", "Leaching", "Evrapolation", "Capillarity", "Weathering"],
+      "a": 1
+    },
+    {
+      "q": "Which macro-nutrient element is primarily responsible for encouraging rapid vegetative green leaf growth in agricultural crops?",
+      "o": ["Phosphorus", "Nitrogen", "Potassium", "Calcium", "Magnesium"],
+      "a": 1
+    },
+    {
+      "q": "The process where rocks are broken down into smaller soil particles by physical, chemical, or biological forces is ________.",
+      "o": ["Decomposition", "Weathering", "Erosion", "Sedimentation", "Leaching"],
+      "a": 1
+    },
+    {
+      "q": "Which agricultural lime material can a farmer add to a farm plot to correct high soil acidity levels?",
+      "o": ["Ammonium sulfate", "Calcium carbonate (Slaked lime)", "Sodium chloride", "Urea crystals", "Sulfur powder"],
+      "a": 1
+    },
+    {
+      "q": "An example of a farm crop classified botanically as a typical monocotyledonous plant because its seed has one cotyledon is ________.",
+      "o": ["Cowpea (Bean)", "Maize (Corn)", "Groundnut", "Cocoa tree", "Mango plant"],
+      "a": 1
+    },
+    {
+      "q": "Crops that complete their entire growth life cycle, from seed germination to seed production, within a single year or season are ________.",
+      "o": ["Biennial crops", "Annual crops", "Perennial crops", "Ephemeral crops", "Tree crops"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following farm crops is classified as a typical root and tuber crop asset?",
+      "o": ["Sorghum grain", "Cassava", "Millet", "Soybeans", "Oil palm fruit"],
+      "a": 1
+    },
+    {
+      "q": "The agricultural process of separating unwanted, competing wild plants from a cultivated farm field is termed ________.",
+      "o": ["Thinning", "Weeding", "Pruning", "Mulching", "Supplying"],
+      "a": 1
+    },
+    {
+      "q": "The manual field practice of removing excess weak seedlings from a stand to leave one or two vigorous plants is ________.",
+      "o": ["Supplying", "Thinning", "Weeding", "Pruning", "Staking"],
+      "a": 1
+    },
+    {
+      "q": "The practice of covering the surface of the soil around crops with dry grasses, leaves, or plastic sheets to conserve moisture is ________.",
+      "o": ["Staking", "Mulching", "Mounding", "Fallowing", "Pruning"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following field operations involves providing mechanical wooden structures to support weak-stemmed climbing crops like yams?",
+      "o": ["Pruning", "Staking", "Thinning", "Mounding", "Supplying"],
+      "a": 1
+    },
+    {
+      "q": "The post-harvest operation that involves separating mature grain seeds from their outer husks or pods using mechanical impacts is ________.",
+      "o": ["Winnowing", "Threshing", "Milling", "Parboiling", "Shelling"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following insect pests is notorious for boring into stored grain seeds like cowpeas and maize, reducing them to powder?",
+      "o": ["Weevil", "Aphid", "Grasshopper", "Armyworm", "Capsid bug"],
+      "a": 0
+    },
+    {
+      "q": "The systematic method of farming where different types of crops are grown on the same piece of land in a pre-planned order season after season is ________.",
+      "o": ["Mono-cropping", "Crop rotation", "Mixed cropping", "Shifting cultivation", "Continuous cropping"],
+      "a": 1
+    },
+    {
+      "q": "A simple hand tool designed with a curved metal blade attached to a wooden handle, used primarily for clearing light weeds and harvesting rice is a ________.",
+      "o": ["Spade", "Sickle", "Pickaxe", "Mattock", "Hand trowel"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following farm tools is most ideal for lifting and moving loose soil items, compost manure, or construction sand blocks?",
+      "o": ["Garden rake", "Spade", "Hand fork", "Pruning shears", "Secateur"],
+      "a": 1
+    },
+    {
+      "q": "The farm tool equipped with a series of strong metal teeth attached to a long wooden shaft, used for leveling seedbeds and collecting trash items is the ________.",
+      "o": ["Garden hoe", "Garden rake", "Hand trowel", "Pickaxe", "Spade"],
+      "a": 1
+    },
+    {
+      "q": "Which simple tool is used specifically by horticultural farmers to transplant delicate seedlings from nursery boxes into field plots?",
+      "o": ["Digging shovel", "Hand trowel", "Garden fork", "Mattock", "Axe"],
+      "a": 1
+    },
+    {
+      "q": "A prominent farm implement attached to a tractor unit designed to shatter hard subsoil pans and aerate the earth deeply is the ________.",
+      "o": ["Disc harrow", "Subsoiler (Chisel plow)", "Disc plow", "Ridger", "Planter"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following tractor-driven farm implements is used to break down large clods of soil and smooth out the seedbed surface after plowing?",
+      "o": ["Mouldboard plow", "Disc harrow", "Ridger implement", "Seed drill", "Harvester"],
+      "a": 1
+    },
+    {
+      "q": "The primary agricultural function of a mechanical implement called a 'ridger' is to ________.",
+      "o": ["Clear heavy forest trees", "Create continuous soil ridges for planting root and tuber crops", "Spray chemical fertilizers over large crops", "Mill grains into flour packs", "Irrigate dry farm valleys"],
+      "a": 1
+    },
+    {
+      "q": "A modern machine used to supply artificial water streams to farm fields during intense dry seasons is a/an ________.",
+      "o": ["Erosion channel", "Irrigation system", "Drainage pump", "Fertilizer injector", "Thresher tool"],
+      "a": 1
+    },
+    {
+      "q": "The artificial removal of excess water logs from saturated soil fields to prevent crop root asphyxiation is ________.",
+      "o": ["Irrigation", "Drainage", "Evaporation", "Leaching", "Infiltration"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following farm animals is classified scientifically as a typical non-ruminant or monogastric animal because it possesses a single simple stomach?",
+      "o": ["Goat", "Pig", "Sheep", "Cow (Cattle)", "Camel"],
+      "a": 1
+    },
+    {
+      "q": "Ruminant animals like cows and sheep are capable of digesting complex grasses effectively because their stomach is divided into ________ distinct chambers.",
+      "o": ["Two", "Three", "Four", "Five", "Six"],
+      "a": 2
+    },
+    {
+      "q": "The largest compartment of a ruminant animal's stomach, which serves as the primary fermentation vat for swallowed fiber, is the ________.",
+      "o": ["Reticulum", "Rumen", "Omasum", "Abomasum", "Proventriculus"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following stomach chambers represents the true, enzymatic stomach section of a ruminant animal?",
+      "o": ["Rumen", "Reticulum", "Abomasum", "Omasum", "Crop"],
+      "a": 2
+    },
+    {
+      "q": "An example of a poultry bird raised in large agricultural units for both meat and egg yield traits is the ________.",
+      "o": ["Rabbit", "Domestic fowl (Chicken)", "Guinea pig", "Goat kid", "Snail"],
+      "a": 1
+    },
+    {
+      "q": "What is the specific name given to a castrated male cattle animal raised primarily for beef production or draught work?",
+      "o": ["Bull", "Steer (Ox)", "Heifer", "Cow", "Calf"],
+      "a": 1
+    },
+    {
+      "q": "The technical term used to describe a mature female pig that has given birth to a litter of piglets is a ________.",
+      "o": ["Gilt", "Sow", "Boar", "Ewe", "Doe"],
+      "a": 1
+    },
+    {
+      "q": "A highly concentrated, nutritious animal feed material that is low in crude fiber but high in energy or protein particles is a/an ________.",
+      "o": ["Roughage feed", "Concentrate feed", "Succulent fodder", "Silage feed", "Hay stalk"],
+      "a": 1
+    },
+    {
+      "q": "The green forage grass crop preserved in an airtight container or pit under anaerobic conditions to ferment for livestock feeding during dry periods is ________.",
+      "o": ["Hay", "Silage", "Straw", "Chaff", "Pellet"],
+      "a": 1
+    },
+    {
+      "q": "The management practice that involves cutting off a portion of a young chicken's beak to prevent cannibalism and egg-pecking vices is ________.",
+      "o": ["Dehorning", "Debeaking", "Castration", "Docking", "Tattooing"],
+      "a": 1
+    },
+    {
+      "q": "The agricultural practice of removing the testes of male farm animals to control breeding tracks and improve meat quality parameters is ________.",
+      "o": ["Docking", "Castration", "Dehorning", "Branding", "Vaccination"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following farm animal diseases is caused by a viral pathogen and spreads rapidly within poultry units, causing green diarrhea and high mortality?",
+      "o": ["Anthrax", "Newcastle disease", "Brucellosis", "Aspergillosis", "Coccidiosis"],
+      "a": 1
+    },
+    {
+      "q": "The ectoparasite that lives externally on the skin of cattle and sucks blood while transmitting dangerous protozoan diseases is the ________.",
+      "o": ["Tapeworm", "Tick", "Liver fluke", "Roundworm", "Louse fly"],
+      "a": 1
+    },
+    {
+      "q": "An endoparasite that resides inside the liver tissues of sheep and cattle, causing liver rot, is the ________.",
+      "o": ["Fleas", "Liver fluke", "Mite", "Louse", "Tick"],
+      "a": 1
+    },
+    {
+      "q": "The structural enclosure constructed in water bodies or ponds to breed and rear harvestable fish configurations under human control is a/an ________.",
+      "o": ["Aquarium box", "Fish cage/pond", "Hatchery tray", "Reservoir tank", "Sluice gate"],
+      "a": 1
+    },
+    {
+      "q": "The introduction of young, juvenile fish fingerlings into a newly prepared fish pond facility is a practice known as ________.",
+      "o": ["Harvesting", "Stocking", "Cropping", "Culling", "Breeding"],
+      "a": 1
+    },
+    {
+      "q": "The systematic planting of forest trees in an area where there were originally no trees or forest cover is defined as ________.",
+      "o": ["Deforestation", "Afforestation", "Reforestation", "Selective logging", "Taungya farming"],
+      "a": 1
+    },
+    {
+      "q": "The specialized farming system that allows a farmer to cultivate agricultural crops concurrently alongside managed forest trees on the same piece of land is the ________ system.",
+      "o": ["Silviculture", "Taungya (Agroforestry)", "Monoculture", "Pasture management", "Shifting cultivation"],
+      "a": 1
+    },
+    {
+      "q": "The physical economic platform or process that encompasses all activities involved in moving agricultural products from farm points to final consumers is ________.",
+      "o": ["Agricultural production", "Agricultural marketing", "Agricultural storage", "Agricultural processing", "Agricultural finance"],
+      "a": 1
+    },
+    {
+      "q": "An individual middleman who buys massive quantities of agricultural farm produce directly from rural farmers and resells them in smaller lots to urban retailers is a/an ________.",
+      "o": ["Consumer", "Wholesaler", "Retailer", "Extension agent", "Broker"],
+      "a": 1
+    },
+    {
+      "q": "A critical problem that limits efficient agricultural marketing and increases product spoilage across rural farming networks in Nigeria is ________.",
+      "o": ["Abundance of modern refrigeration trucks", "Poor road infrastructure and lack of adequate storage facilities", "Low consumer demand for local food items", "Excessive government financial grants", "Over-supply of processing industries"],
+      "a": 1
+    },
+    {
+      "q": "The systematic process of teaching local farmers modern, scientific agricultural techniques to improve their productivity index is agricultural ________.",
+      "o": ["Marketing", "Extension", "Education", "Economics", "Research"],
+      "a": 1
+    },
+    {
+      "q": "Which type of agricultural credit or loan asset is most suitable for a farmer looking to purchase a multi-million naira tractor machine to be repaid over ten years?",
+      "o": ["Short-term credit", "Intermediate-term credit", "Long-term credit", "Seasonal subsidy", "Micro-grant"],
+      "a": 2
+    }
+  ]
+}
