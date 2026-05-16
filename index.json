@@ -1,0 +1,304 @@
+{
+  "Mathematics": [
+    {
+      "q": "Express 0.0030752 correct to three significant figures.",
+      "o": ["0.003", "0.00308", "0.0031", "0.00307", "0.00375"],
+      "a": 1
+    },
+    {
+      "q": "Convert 11011&sub2; to a base ten (denary) number.",
+      "o": ["27", "11", "31", "25", "19"],
+      "a": 0
+    },
+    {
+      "q": "Find the sum of prime factors in 60.",
+      "o": ["5", "7", "8", "10", "12"],
+      "a": 3
+    },
+    {
+      "q": "Express &Ntilde;32.00 as a ratio of &Ntilde;72.00 in its simplest form.",
+      "o": ["34:16", "16:34", "9:4", "4:9", "1:2"],
+      "a": 3
+    },
+    {
+      "q": "Find the simple interest on &Ntilde;45,000 for 2&frac12; years at 4% per annum.",
+      "o": ["&Ntilde;4,500", "&Ntilde;11,250", "&Ntilde;2,250", "&Ntilde;4,800", "&Ntilde;9,000"],
+      "a": 0
+    },
+    {
+      "q": "Factorize completely the algebraic expression: 4<span class='math-sym'>a</span>&sup2; &minus; 9<span class='math-sym'>b</span>&sup2;.",
+      "o": ["(2<span class='math-sym'>a</span>&minus;3<span class='math-sym'>b</span>)(2<span class='math-sym'>a</span>&minus;3<span class='math-sym'>b</span>)", "(4<span class='math-sym'>a</span>&minus;9<span class='math-sym'>b</span>)(4<span class='math-sym'>a</span>+9<span class='math-sym'>b</span>)", "(2<span class='math-sym'>a</span>&minus;3<span class='math-sym'>b</span>)(2<span class='math-sym'>a</span>+3<span class='math-sym'>b</span>)", "(2<span class='math-sym'>a</span>+3<span class='math-sym'>b</span>)&sup2;", "(4<span class='math-sym'>a</span>&minus;3<span class='math-sym'>b</span>)&sup2;"],
+      "a": 2
+    },
+    {
+      "q": "The sum of the interior angles of a regular polygon is 1080&deg;. How many sides does this polygon have?",
+      "o": ["6 sides", "8 sides", "10 sides", "12 sides", "5 sides"],
+      "a": 1
+    },
+    {
+      "q": "A cylinder has a base radius of 7cm and a height of 10cm. Calculate its curved surface area. (Take &pi; = 22/7)",
+      "o": ["154 cm&sup2;", "220 cm&sup2;", "440 cm&sup2;", "1,540 cm&sup2;", "308 cm&sup2;"],
+      "a": 2
+    },
+    {
+      "q": "A ladder 13m long leans against a vertical school wall. If the foot of the ladder is 5m away from the base of the wall, how far up the wall does the ladder reach?",
+      "o": ["8 m", "12 m", "14 m", "18 m", "15 m"],
+      "a": 1
+    },
+    {
+      "q": "Determine the mode of the following set of student scores: 4, 7, 5, 6, 7, 8, 4, 7, 9, 3.",
+      "o": ["4", "6", "7", "8", "5"],
+      "a": 2
+    },
+    {
+      "q": "What is the square of 30?",
+      "o": ["60", "90", "270", "810", "900"],
+      "a": 4
+    },
+    {
+      "q": "Express 61782 in standard form.",
+      "o": ["6.1782 &times; 10&sup1;", "6.1782 &times; 10&sup2;", "6.1782 &times; 10&sup3;", "6.1782 &times; 10&sup4;", "6.1782 &times; 10&minus;&sup4;"],
+      "a": 3
+    },
+    {
+      "q": "Express 108 as a product of its prime factors in index form.",
+      "o": ["2&sup2; &times; 3&sup3;", "2&sup3; &times; 3&sup2;", "2 &times; 3&sup3;", "2&sup2; &times; 3&sup2;", "2&sup3; &times; 3&sup3;"],
+      "a": 0
+    },
+    {
+      "q": "If 6 men can do a piece of construction work in 4 days, how many days will it take 8 men to execute the same job working at the same structural rate?",
+      "o": ["2 days", "3 days", "4 days", "6 days", "8 days"],
+      "a": 1
+    },
+    {
+      "q": "The ratio of boys to girls in a mixed school is 4:5. If there are 375 girls in the school module, calculate the total population of boys.",
+      "o": ["275", "300", "325", "375", "675"],
+      "a": 1
+    },
+    {
+      "q": "At what rate per annum will &Ntilde;1,600.00 yield &Ntilde;400.00 as simple interest within a 2-year cycle?",
+      "o": ["5.5%", "7.2%", "8.0%", "10.5%", "12.5%"],
+      "a": 4
+    },
+    {
+      "q": "Solve the linear equation parameter: 3<span class='math-sym'>x</span> &minus; 4 = 11.",
+      "o": ["<span class='math-sym'>x</span> = 2", "<span class='math-sym'>x</span> = 3", "<span class='math-sym'>x</span> = 4", "<span class='math-sym'>x</span> = 5", "<span class='math-sym'>x</span> = 15"],
+      "a": 3
+    },
+    {
+      "q": "Find the value of <span class='math-sym'>p</span> if 2<span class='math-sym'>p</span> = 15 &minus; <span class='math-sym'>p</span>.",
+      "o": ["1", "2", "3", "5", "8"],
+      "a": 3
+    },
+    {
+      "q": "Solve the simultaneous equations: 2<span class='math-sym'>x</span> + <span class='math-sym'>y</span> = 4 and <span class='math-sym'>x</span> + <span class='math-sym'>y</span> = 2.",
+      "o": ["<span class='math-sym'>x</span>=2, <span class='math-sym'>y</span>=0", "<span class='math-sym'>x</span>=0, <span class='math-sym'>y</span>=2", "<span class='math-sym'>x</span>=1, <span class='math-sym'>y</span>=1", "<span class='math-sym'>x</span>=2, <span class='math-sym'>y=2</span>", "<span class='math-sym'>x</span>=&minus;1, <span class='math-sym'>y</span>=&minus;1"],
+      "a": 0
+    },
+    {
+      "q": "A desktop computer system is purchased for &Ntilde;45,000.00 and sold off for &Ntilde;30,000.00. Find the loss percent metric.",
+      "o": ["45.00%", "33.33%", "30.00%", "15.33%", "10.00%"],
+      "a": 1
+    },
+    {
+      "q": "Round off 6827 directly to the nearest ten boundary unit.",
+      "o": ["6820", "6821", "6830", "6900", "7000"],
+      "a": 2
+    },
+    {
+      "q": "Find the H.C.F of 108 and 72.",
+      "o": ["9", "18", "27", "36", "72"],
+      "a": 3
+    },
+    {
+      "q": "Increase 4500kg by 15%.",
+      "o": ["300kg", "675kg", "3825kg", "5175kg", "67500kg"],
+      "a": 3
+    },
+    {
+      "q": "Find the square root of 9 &times; 16 &times; 25.",
+      "o": ["3600", "360", "60", "25", "9"],
+      "a": 2
+    },
+    {
+      "q": "Arrange the following fractions in descending order of magnitude: 3/5, 1/2, 4/7.",
+      "o": ["3/5, 4/7, 1/2", "1/2, 4/7, 3/5", "3/5, 1/2, 4/7", "4/7, 3/5, 1/2", "1/2, 3/5, 4/7"],
+      "a": 0
+    },
+    {
+      "q": "On every sale of goods worth &Ntilde;10,000.00, there is a commission of &Ntilde;550.00. If an agent delivers &Ntilde;150,000.00 worth of sales, calculate the total commission.",
+      "o": ["&Ntilde;5,500.00", "&Ntilde;7,500.00", "&Ntilde;8,250.00", "&Ntilde;9,000.00", "&Ntilde;15,000.00"],
+      "a": 2
+    },
+    {
+      "q": "Approximate 5.7255 to the nearest thousandth decimal position.",
+      "o": ["5.7", "5.725", "5.7255", "5.726", "5.73"],
+      "a": 3
+    },
+    {
+      "q": "A vehicle uses 100 litres of fuel for a distance of 250km. How many litres of fuel will it consume to travel a distance of 150km?",
+      "o": ["50 litres", "60 litres", "80 litres", "133 litres", "375 litres"],
+      "a": 1
+    },
+    {
+      "q": "Find the reciprocal value of 0.65 to three significant figures.",
+      "o": ["1.54", "1.538", "1.53", "1.500", "0.54"],
+      "a": 0
+    },
+    {
+      "q": "The linear scale factor of two similar geometry objects is 5:8. What is their volume scale factor?",
+      "o": ["5:8", "25:64", "125:512", "64:125", "512:125"],
+      "a": 2
+    },
+    {
+      "q": "Find the size of one interior angle of a regular octagon shape format.",
+      "o": ["45&deg;", "60&deg;", "90&deg;", "120&deg;", "135&deg;"],
+      "a": 4
+    },
+    {
+      "q": "All the following are distinct properties of an equilateral triangle EXCEPT:",
+      "o": ["All the angles are equal", "All the sides are equal", "Each of the internal angles is 60&deg;", "There are three lines of symmetry", "There is only one line of symmetry"],
+      "a": 4
+    },
+    {
+      "q": "A regular polygon with 7 structural straight lines is classified as a/an:",
+      "o": ["Heptagon", "Hexagon", "Octagon", "Pentagon", "Nonagon"],
+      "a": 0
+    },
+    {
+      "q": "When 15 is added to &frac13; of a number, the final result is 4 times the number. Find the target number.",
+      "o": ["3", "4", "5", "6", "7"],
+      "a": 1
+    },
+    {
+      "q": "Simplify the fraction sequence value: (2/3) &divide; (4/9).",
+      "o": ["3/2", "2/3", "8/27", "4/9", "1/2"],
+      "a": 0
+    },
+    {
+      "q": "Evaluate: &minus;4(3 &minus; 5) + 10 &minus; 3(7 + 4) + 30.",
+      "o": ["&minus;1", "15", "56", "65", "12"],
+      "a": 1
+    },
+    {
+      "q": "An iron rod 15m long is chopped into 12 equal split parts. How long is each individual structural component part?",
+      "o": ["0.80 m", "1.25 m", "1.50 m", "3.00 m", "1.75 m"],
+      "a": 1
+    },
+    {
+      "q": "Convert the decimal base integer value 42 directly into a base two binary format.",
+      "o": ["100101&sub2;", "101001&sub2;", "101010&sub2;", "110010&sub2;", "101100&sub2;"],
+      "a": 2
+    },
+    {
+      "q": "A water tank holding reservoir contains 400 litres of water. If 100 litres is used out, what percentage of water remains left?",
+      "o": ["25%", "30%", "40%", "75%", "60%"],
+      "a": 3
+    },
+    {
+      "q": "In a right-angled triangle, the base is 3cm and the perpendicular height is 4cm. Find the hypotenuse length metric.",
+      "o": ["1 cm", "5 cm", "7 cm", "12 cm", "6 cm"],
+      "a": 1
+    },
+    {
+      "q": "Solve the linear inequality range expression: 2(<span class='math-sym'>x</span> &minus; 1) &gt; 4.",
+      "o": ["<span class='math-sym'>x</span> &gt; 3", "<span class='math-sym'>x</span> &gt; 2", "<span class='math-sym'>x</span> &gt; 1", "<span class='math-sym'>x</span> &lt; 3", "<span class='math-sym'>x</span> &gt; 4"],
+      "a": 0
+    },
+    {
+      "q": "If <span class='math-sym'>m</span> = 4, evaluate the value of 3<span class='math-sym'>m</span>&sup2; &minus; 5.",
+      "o": ["19", "43", "31", "11", "24"],
+      "a": 1
+    },
+    {
+      "q": "Find the volume of a cylinder whose height profile stands at 7cm with a base radius of 3cm. (Take &pi; = 22/7)",
+      "o": ["66 cm&sup3;", "198 cm&sup3;", "154 cm&sup3;", "440 cm&sup3;", "132 cm&sup3;"],
+      "a": 1
+    },
+    {
+      "q": "Calculate the gradient of the straight coordinate line passing through the points S(5, &minus;2) and T(3, 2).",
+      "o": ["&minus;2", "2", "&minus;1/2", "1/2", "&minus;4"],
+      "a": 0
+    },
+    {
+      "q": "A printing press tool machine logs 600 books in 3 hours. How many books will the machine structure output within 5 hours?",
+      "o": ["360 books", "1,000 books", "1,800 books", "3,000 books", "1,200 books"],
+      "a": 1
+    },
+    {
+      "q": "The bearing of point A from point B is mapped at 270&deg;. What is the back bearing profile of B from A?",
+      "o": ["180&deg;", "175&deg;", "090&deg;", "075&deg;", "360&deg;"],
+      "a": 2
+    },
+    {
+      "q": "Convert the decimal fraction asset value 3.75 directly into a standard mixed fraction profile.",
+      "o": ["3&frac12;", "3&frac14;", "3&frac34;", "3&frac15;", "3&frac23;"],
+      "a": 2
+    },
+    {
+      "q": "Convert 84 in base ten to a base five numeral layout.",
+      "o": ["413&sub5;", "314&sub5;", "114&sub5;", "3014&sub5;", "3140&sub5;"],
+      "a": 1
+    },
+    {
+      "q": "Find the value of <span class='math-sym'>x</span> if 5<span class='math-sym'>x</span> &minus; 3 = 2<span class='math-sym'>x</span> + 9.",
+      "o": ["2", "3", "4", "6", "12"],
+      "a": 2
+    },
+    {
+      "q": "Calculate the perimeter of a rectangle whose length property scales at 14cm and width scales at 6cm.",
+      "o": ["20 cm", "40 cm", "84 cm", "48 cm", "34 cm"],
+      "a": 1
+    },
+    {
+      "q": "A regular polygon contains 6 sides. Calculate the total sum value of its interior angles structure.",
+      "o": ["360&deg;", "540&deg;", "720&deg;", "900&deg;", "180&deg;"],
+      "a": 2
+    },
+    {
+      "q": "Find the value of <span class='math-sym'>x</span> in the equation: <span class='math-sym'>x</span>/4 + 2 = 5.",
+      "o": ["12", "14", "16", "20", "8"],
+      "a": 0
+    },
+    {
+      "q": "If the mean of the numbers 4, <span class='math-sym'>y</span>, 8, and 12 is 7, find the value of <span class='math-sym'>y</span>.",
+      "o": ["4", "5", "6", "7", "8"],
+      "a": 0
+    },
+    {
+      "q": "Simplify the expression: 7<span class='math-sym'>a</span> &minus; 3<span class='math-sym'>b</span> &minus; 4<span class='math-sym'>a</span> + 8<span class='math-sym'>b</span>.",
+      "o": ["3<span class='math-sym'>a</span> + 5<span class='math-sym'>b</span>", "3<span class='math-sym'>a</span> &minus; 5<span class='math-sym'>b</span>", "11<span class='math-sym'>a</span> + 5<span class='math-sym'>b</span>", "11<span class='math-sym'>a</span> + 11<span class='math-sym'>b</span>", "3<span class='math-sym'>a</span> + 11<span class='math-sym'>b</span>"],
+      "a": 0
+    },
+    {
+      "q": "What is the probability of picking a voucher card marked 'WIN' out of a box containing 15 'WIN' cards and 35 'LOSE' cards?",
+      "o": ["3/10", "7/10", "3/7", "5/7", "1/5"],
+      "a": 0
+    },
+    {
+      "q": "Calculate the area of a triangle whose base measures 12cm and vertical height measures 7cm.",
+      "o": ["19 cm&sup2;", "42 cm&sup2;", "84 cm&sup2;", "24 cm&sup2;", "38 cm&sup2;"],
+      "a": 1
+    },
+    {
+      "q": "Find the value of the square root of 0.04.",
+      "o": ["0.02", "0.2", "0.002", "2.0", "0.4"],
+      "a": 1
+    },
+    {
+      "q": "Factorize completely the expression: 5<span class='math-sym'>x</span> + 15<span class='math-sym'>x</span><span class='math-sym'>y</span>.",
+      "o": ["5(<span class='math-sym'>x</span>+3<span class='math-sym'>y</span>)", "5<span class='math-sym'>x</span>(1+3<span class='math-sym'>y</span>)", "<span class='math-sym'>x</span>(5+15<span class='math-sym'>y</span>)", "5<span class='math-sym'>x</span>(3<span class='math-sym'>y</span>)", "5(1+3<span class='math-sym'>y</span>)"],
+      "a": 1
+    },
+    {
+      "q": "Find the sum of the mean and the mode of the following data parameters: 9, 6, 7, 12, 20, 6.",
+      "o": ["5", "7", "16", "17", "20"],
+      "a": 2
+    },
+    {
+      "q": "If an asset item costing &Ntilde;8,000 is sold with a 10% profit margin addition, what is the final selling price?",
+      "o": ["&Ntilde;8,800", "&Ntilde;7,200", "&Ntilde;8,100", "&Ntilde;9,000", "&Ntilde;8,080"],
+      "a": 0
+    }
+  ]
+}
