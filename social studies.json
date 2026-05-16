@@ -1,0 +1,304 @@
+{
+  "Social Studies": [
+    {
+      "q": "The primary agent of socialization that an individual encounters immediately from birth is the ________.",
+      "o": ["School", "Peer group", "Family", "Mass media", "Religious institution"],
+      "a": 2
+    },
+    {
+      "q": "A type of marriage structure where a single man is legally married to more than one wife at the same time is called ________.",
+      "o": ["Monogamy", "Polyandry", "Polygyny", "Endogamy", "Exogamy"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following functions represents a primary socialization responsibility of the family?",
+      "o": ["Providing commercial bank loans", "Teaching basic moral values and language skills", "Arresting societal lawbreakers", "Issuing international driving licenses", "Organizing national election cycles"],
+      "a": 1
+    },
+    {
+      "q": "The total way of life of a specific group of people, including their language, dressing, food, and beliefs, is defined as ________.",
+      "o": ["Socialization", "Culture", "Modernization", "Assimilation", "Urbanization"],
+      "a": 1
+    },
+    {
+      "q": "Which component of culture can be physically touched, seen, and preserved in a museum?",
+      "o": ["Language", "Folklore", "Material culture (Artifacts/Tools)", "Religious beliefs", "Moral values"],
+      "a": 2
+    },
+    {
+      "q": "A dynamic characteristic of culture that enables it to adjust, expand, and change over time across generations is that it is ________.",
+      "o": ["Static", "Dynamic", "Isolated", "Inherited biologically", "Destructive"],
+      "a": 1
+    },
+    {
+      "q": "The systemic physical, emotional, or sexual harm inflicted on an individual within a domestic home environment is termed ________.",
+      "o": ["Social security", "Domestic violence", "Family bonding", "Home management", "Civil defense"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following actions directly promotes cultural integration and unity across Nigeria's diverse ethnic groups?",
+      "o": ["Encouraging regional discrimination", "Promoting inter-ethnic marriages", "Censoring minor local dialects", "Banning national youth cultural festivals", "Isolating minority communities"],
+      "a": 1
+    },
+    {
+      "q": "The legal union between a man and a woman to establish a family structure is defined as ________.",
+      "o": ["Friendship", "Adoption", "Marriage", "Courtship", "Cohabitation"],
+      "a": 2
+    },
+    {
+      "q": "A critical problem associated with the extended family system in modern economic structures is ________.",
+      "o": ["Lack of emotional support systems", "Heavy financial dependency on a single breadwinner", "Complete isolation of elderly relatives", "Inability to hold family meetings", "Rapid reduction in family size"],
+      "a": 1
+    },
+    {
+      "q": "The mental or behavioral condition where an individual depends on harmful chemical substances to function is ________.",
+      "o": ["Drug therapy", "Drug addiction", "Drug preservation", "Drug manufacturing", "Drug resistance"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a direct social consequence of cultism activities within secondary schools?",
+      "o": ["High academic performance index", "Breakdown of law, order, and personal safety", "Increased school funding tracking", "Peaceful student union operations", "Enhanced community reputation"],
+      "a": 1
+    },
+    {
+      "q": "The illegal act of transporting, selling, or distributing banned narcotic substances across international borders is ________.",
+      "o": ["Drug abuse", "Drug trafficking", "Pharmaceutical commerce", "Border migration", "Contraband hoarding"],
+      "a": 1
+    },
+    {
+      "q": "The virus responsible for attacking and breaking down the human immune system, leading to AIDS, is ________.",
+      "o": ["Influenza virus", "Hepatitis B virus", "Human Immunodeficiency Virus (HIV)", "Corona virus", "Ebola virus"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following represents a legitimate and safe method of interacting with individuals living with HIV/AIDS?",
+      "o": ["Sharing unsterilized sharp objects", "Unprotected sexual contact", "Shaking hands and sharing a study desk", "Transfusing untested blood units", "Isolating them from public spaces"],
+      "a": 2
+    },
+    {
+      "q": "The deceptive act of forcing, tricking, or transporting individuals away from their homes for commercial exploitation is ________.",
+      "o": ["Human migration", "Human trafficking", "Labor unionism", "Refugee relocation", "Social welfare tracking"],
+      "a": 1
+    },
+    {
+      "q": "A prominent factor that drives vulnerable individuals into becoming victims of human trafficking networks is ________.",
+      "o": ["High educational background", "Severe poverty and lack of employment opportunities", "Strong family protection systems", "Adequate public social security", "Awareness of civil rights laws"],
+      "a": 1
+    },
+    {
+      "q": "The absolute surroundings in which living and non-living things exist and interact with each other is the ________.",
+      "o": ["Atmosphere", "Ecosystem", "Environment", "Habitat", "Biosphere"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following human activities is a major driver of environmental deforestation across Nigeria?",
+      "o": ["Tree planting campaigns", "Uncontrolled commercial logging and bush burning", "Establishing wildlife conservation parks", "Practicing crop rotation sequences", "Constructing organic waste pits"],
+      "a": 1
+    },
+    {
+      "q": "The discharge of harmful, toxic, or solid industrial waste products into rivers, oceans, and streams causes ________.",
+      "o": ["Air pollution", "Water pollution", "Soil erosion", "Noise pollution", "Thermal radiation"],
+      "a": 1
+    },
+    {
+      "q": "The gradual washing away or removal of the fertile topsoil layer by heavy rainfall or wind actions is classified as ________.",
+      "o": ["Deforestation", "Soil erosion", "Desertification", "Afforestation", "Siltation"],
+      "a": 1
+    },
+    {
+      "q": "The total number of human beings residing within a defined geographical territory or country at a specific point in time is the ________.",
+      "o": ["Demography", "Population", "Census data", "Density metric", "Headcount index"],
+      "a": 1
+    },
+    {
+      "q": "The official, periodic, and systematic counting of all human citizens within a country by the government is termed a ________.",
+      "o": ["Voter registration drive", "Population census", "Demographic survey", "Civil headcount", "National identity audit"],
+      "a": 1
+    },
+    {
+      "q": "A critical socioeconomic challenge that arises when a nation's population grows faster than its available resource assets is ________.",
+      "o": ["Surplus employment vacancies", "Severe pressure on public infrastructure (hospitals, schools)", "Rapid reduction in food prices", "Adequate affordable housing units", "Improved national saving tracks"],
+      "a": 1
+    },
+    {
+      "q": "The movement of people away from rural farming communities to settle permanently in urban city centers is called ________.",
+      "o": ["Emigration", "Immigration", "Rural-urban migration", "Urban-rural migration", "Seasonal migration"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following features represents a major push factor causing individuals to migrate out of rural villages?",
+      "o": ["Availability of modern automated industries", "Lack of basic social amenities like clean water and electricity", "Presence of large university structures", "High standard of living facilities", "Adequate recreational centers"],
+      "a": 1
+    },
+    {
+      "q": "The state of processing complete control, authority, and independence over a geographical country without external influence is ________.",
+      "o": ["Colonialism", "Sovereignty", "Imperialism", "Dependency", "Neo-colonialism"],
+      "a": 1
+    },
+    {
+      "q": "The subversion of public funds, resources, or administrative positions for private personal enrichment is defined as ________.",
+      "o": ["Embezzlement (Corruption)", "Philanthropy", "Investment plotting", "Resource allocation", "Capital optimization"],
+      "a": 0
+    },
+    {
+      "q": "The international organization formed in 1975 to promote economic integration and cooperation across West African countries is ________.",
+      "o": ["The United Nations (UN)", "The African Union (AU)", "Economic Community of West African States (ECOWAS)", "The Commonwealth", "OPEC Commission"],
+      "a": 2
+    },
+    {
+      "q": "Where is the permanent administrative headquarters of the ECOWAS Commission officially located?",
+      "o": ["Accra, Ghana", "Dakar, Senegal", "Abuja, Nigeria", "Monrovia, Liberia", "Lomé, Togo"],
+      "a": 2
+    },
+    {
+      "q": "The physical condition of the atmosphere of a place regarding warmth, dryness, sunshine, wind, and rain over a short period is ________.",
+      "o": ["Climate", "Weather", "Temperature", "Humidity", "Pressure"],
+      "a": 1
+    },
+    {
+      "q": "The average weather conditions of a large geographical zone recorded systematically over a long duration of about 30 to 35 years is ________.",
+      "o": ["Meteorology", "Weather forecast", "Climate", "Atmospheric shift", "Seasonality"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following institutions is a secondary agent of socialization for an growing child?",
+      "o": ["The maternal family cell", "The school system", "The nuclear household", "The sibling circle", "The immediate caretakers"],
+      "a": 1
+    },
+    {
+      "q": "The social problem that involves young people deliberately refusing to engage in productive labor, instead demanding money violently on streets, is ________.",
+      "o": ["Juvenile delinquency", "Vagranism/Thuggery", "Employment seeking", "Student activism", "Social mobility"],
+      "a": 1
+    },
+    {
+      "q": "The shared moral principles, ideas, and standards that a society considers correct, desirable, and internally binding are ________.",
+      "o": ["Laws", "Social values", "Sanctions", "Taboos", "Decrees"],
+      "a": 1
+    },
+    {
+      "q": "An absolute behavior, action, or choice that is strictly forbidden by the traditional customs and religious norms of a community is a/an ________.",
+      "o": ["Law", "Folkway", "Taboo", "Fashion trend", "Mores"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following values helps to minimize or completely eliminate ethnic favoritism and nepotism in public organizations?",
+      "o": ["Sectionalism", "Tribal sentiment", "Social justice and fair meritocracy", "Greed", "Ethnocentrism"],
+      "a": 2
+    },
+    {
+      "q": "The intentional act of keeping our physical surroundings clean, orderly, and free from disease-causing agents is ________.",
+      "o": ["Environmental sanitation", "Resource depletion", "Deforestation tracking", "Urban planning block", "Industrial layout design"],
+      "a": 0
+    },
+    {
+      "q": "Which of the following is a prominent non-renewable natural resource asset currently backing Nigeria's economy?",
+      "o": ["Solar radiation", "Crude oil (Petroleum)", "Wind energy currents", "Timber wood structures", "Water reservoir flows"],
+      "a": 1
+    },
+    {
+      "q": "The international platform that brings together all independent countries that were formerly colonized by the British Empire is ________.",
+      "o": ["The European Union", "The Commonwealth of Nations", "The African Union", "The French Community", "The NATO Alliance"],
+      "a": 1
+    },
+    {
+      "q": "The official body responsible for managing and controlling population activities and conducting headcounts within Nigeria is the ________.",
+      "o": ["INEC", "National Population Commission (NPC)", "National Identity Management Commission", "Federal Bureau of Statistics", "Civil Service Union"],
+      "a": 1
+    },
+    {
+      "q": "The structural condition where an individual is completely unable to afford basic human survival needs like food, clothing, and shelter is ________.",
+      "o": ["Affluence", "Poverty", "Inflation", "Depression", "Austerity"],
+      "a": 1
+    },
+    {
+      "q": "The phenomenon where highly skilled professionals, scientists, and doctors leave their home country to work permanently abroad is ________.",
+      "o": ["Brain drain (Human capital flight)", "Labor optimization", "Cultural exchange tracking", "Tourist migration loop", "Professional tourism"],
+      "a": 0
+    },
+    {
+      "q": "Which of the following is an effective measure the government can deploy to control rapid environmental degradation?",
+      "o": ["Encouraging indiscriminate industrial dumping", "Enforcing strict environmental protection laws and recycling policies", "Promoting open bush burning practices", "Expanding charcoal fuel production loops", "Disabling local environmental sanitarians"],
+      "a": 1
+    },
+    {
+      "q": "The physical area of land mass characterized by very low annual rainfall, sparse vegetative cover, and extreme temperature spreads is a ________.",
+      "o": ["Rainforest", "Savanna grassland", "Desert", "Swamp forest", "Montane region"],
+      "a": 2
+    },
+    {
+      "q": "A type of family tracking setup where lineage, inheritance, and authority parameters run strictly through the maternal (mother's) line is ________.",
+      "o": ["Patrilineal", "Matrilineal", "Bilateral", "Monogamous", "Patrilocal"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a non-material component of human cultural heritage?",
+      "o": ["Traditional sculpture arts", "Woven clothing items", "Local music and folklore tales", "Ancient palace architecture structures", "Handicraft farming tools"],
+      "a": 2
+    },
+    {
+      "q": "The severe psychological and social pressure exerted on an individual by group members of the same age bracket to conform to certain behaviors is ________.",
+      "o": ["Parental control", "Peer pressure", "Administrative sanction", "Social mobility tracking", "Communal education"],
+      "a": 1
+    },
+    {
+      "q": "The systematic behavior that values one's own ethnic group above all others, viewing other cultures as inferior, is ________.",
+      "o": ["Patriotism", "Ethnocentrism", "Nationalism", "Cultural relativity", "Globalization"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following statements represents a major objective of establishing the African Union (AU)?",
+      "o": ["To recolonize small African states", "To promote unity, solidarity, and international cooperation among African nations", "To eliminate local currency instruments permanently", "To create a single military dictatorship command", "To restrict international trade with Europe"],
+      "a": 1
+    },
+    {
+      "q": "The act of deliberately setting fire to wild vegetation or forest bushes to clear agricultural land rapidly is ________.",
+      "o": ["Afforestation", "Bush burning", "Mulching", "Deforestation profiling", "Crop harvesting"],
+      "a": 1
+    },
+    {
+      "q": "The phenomenon where an individual or group experiences a shift in social status, either upward or downward, within a community structure is ________.",
+      "o": ["Social socialization", "Social mobility", "Social stratification", "Social isolation", "Social integration"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a non-governmental organization (NGO) actively providing humanitarian medical emergency relief across globe frames?",
+      "o": ["Doctors Without Borders (MSF)", "International Monetary Fund", "World Trade Organization", "ECOWAS Court of Justice", "Federal Ministry of Health"],
+      "a": 0
+    },
+    {
+      "q": "The operational process of making an individual or primitive community adopt modern global technologies, values, and industrial layouts is ________.",
+      "o": ["Traditionalization", "Modernization", "Sectionalism", "Isolationism", "Stratification"],
+      "a": 1
+    },
+    {
+      "q": "The legal mechanism used by a citizen to express dissatisfaction with political policies by voting out an inefficient leadership team is ________.",
+      "o": ["Civil war execution", "Periodic democratic election", "Military subversion plots", "Media censorship campaigns", "Tax evasion tactics"],
+      "a": 1
+    },
+    {
+      "q": "Which human sensory organ is exposed to direct long-term physiological deterioration due to high-intensity noise pollution factors?",
+      "o": ["The eyes", "The ears", "The skin", "The throat", "The nervous receptors"],
+      "a": 1
+    },
+    {
+      "q": "The legal allocation or distribution of child custody, property rights, and responsibilities after a marriage undergoes formal dissolution is associated with ________.",
+      "o": ["Courtship patterns", "Divorce", "Betrothal agreements", "Monogamic contracts", "Extended integration links"],
+      "a": 1
+    },
+    {
+      "q": "The systematic study of population parameters, structure spreads, birth metrics, and mortality indexes is called ________.",
+      "o": ["Geography", "Demography", "Sociology", "Anthropology", "Cartography"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following features represents a core value that safeguards traditional African family networks from rapid moral decay?",
+      "o": ["Extreme individualism", "Respect for elders and mutual community assistance", "Accumulation of illicit financial gains", "Rejection of local languages", "Total dependence on foreign lifestyles"],
+      "a": 1
+    },
+    {
+      "q": "The international organ created immediately after World War II in 1945 to maintain global peace and prevent future international conflicts is the ________.",
+      "o": ["League of Nations", "United Nations Organization (UNO)", "African Union Commission", "Commonwealth Secretariat", "NATO Defense Council"],
+      "a": 1
+    }
+  ]
+}
