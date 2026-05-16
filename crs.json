@@ -1,0 +1,305 @@
+{
+  "Christian Religious Studies": [
+    {
+      "q": "According to the Genesis account of creation, what did God create on the very first day?",
+      "o": ["The firmament and skies", "Light to separate day from night", "Dry land and vegetation", "The sun, moon, and stars", "Sea creatures and birds"],
+      "a": 1
+    },
+    {
+      "q": "On which day of creation did God create man in His own image and likeness?",
+      "o": ["Third day", "Fourth day", "Fifth day", "Sixth day", "Seventh day"],
+      "a": 3
+    },
+    {
+      "q": "What specific responsibility did God assign to man in the Garden of Eden?",
+      "o": ["To build high towers and cities", "To cultivate, guard, and keep the garden", "To hunt wild beasts for sacrifice", "To name the stars in the sky", "To explore lands beyond Eden"],
+      "a": 1
+    },
+    {
+      "q": "The primary consequence of Adam and Eve's disobedience to God's command in Eden was ________.",
+      "o": ["Immediate physical blindness", "Separation from God's presence and spiritual death", "The destruction of the garden by fire", "Total loss of speech capabilities", "Enslavement to neighboring tribes"],
+      "a": 1
+    },
+    {
+      "q": "Who was the first son of Adam and Eve who killed his brother Abel out of jealousy?",
+      "o": ["Seth", "Cain", "Enoch", "Lamech", "Noah"],
+      "a": 1
+    },
+    {
+      "q": "God instructed Noah to build a wooden ark because He intended to destroy the wicked world using ________.",
+      "o": ["A consuming fire-brimstone storm", "A massive global flood of water", "A severe three-year famine", "A violent swarm of locusts", "A deadly pestilence outbreak"],
+      "a": 1
+    },
+    {
+      "q": "What did God use as a divine sign of His covenant with Noah never to destroy the earth with water again?",
+      "o": ["A pillar of cloud", "A flaming altar", "A rainbow in the sky", "A continuous structural wind", "A budding staff"],
+      "a": 2
+    },
+    {
+      "q": "What was Abraham's original native homeland before God called him to journey to an unknown country?",
+      "o": ["Ur of the Chaldeans", "Haran", "Canaan", "Egypt", "Damascus"],
+      "a": 0
+    },
+    {
+      "q": "How old was Abraham when God explicitly called him to leave his father's house?",
+      "o": ["50 years old", "65 years old", "75 years old", "99 years old", "100 years old"],
+      "a": 2
+    },
+    {
+      "q": "God promised Abraham all the following blessings in His covenant EXCEPT ________.",
+      "o": ["Making his name great globally", "Making him a father of many great nations", "Giving the land of Canaan to his descendants", "Making him the ultimate king of Egypt", "Blessing all families of the earth through him"],
+      "a": 3
+    },
+    {
+      "q": "Who was Abraham's wife who miraculously gave birth to Isaac in her extreme old age?",
+      "o": ["Hagar", "Sarah", "Rebekah", "Rachel", "Leah"],
+      "a": 1
+    },
+    {
+      "q": "God tested Abraham's supreme faith and total obedience by commanding him to ________.",
+      "o": ["Build a massive stone tower in Haran", "Offer his only son Isaac as a burnt sacrifice", "Send his nephew Lot away to Sodom", "Fast for forty consecutive days and nights", "Wage war against the Philistine armies"],
+      "a": 1
+    },
+    {
+      "q": "Who were the twin sons born to Isaac and his wife Rebekah?",
+      "o": ["Cain and Abel", "Ephraim and Manasseh", "Esau and Jacob", "Joseph and Benjamin", "Pharez and Zarah"],
+      "a": 2
+    },
+    {
+      "q": "Esau foolishly traded away his highly valuable legal birthright to his brother Jacob in exchange for ________.",
+      "o": ["A flock of fine sheep", "A portion of red lentil stew", "A bag of silver coins", "A beautiful coat of many colors", "A plot of fertile farming land"],
+      "a": 1
+    },
+    {
+      "q": "Jacob's name was divinely changed to 'Israel' after he experienced a night-long spiritual wrestling encounter at ________.",
+      "o": ["Bethel", "Peniel", "Shechem", "Gilead", "Hebron"],
+      "a": 1
+    },
+    {
+      "q": "Why did Joseph's older brothers hate him intensely and plot to eliminate him?",
+      "o": ["Because he stole their flock of sheep", "Because of his prophetic dreams and their father's favoritism", "Because he refused to work on the family farm", "Because he was older and more arrogant", "Because he destroyed their family altars"],
+      "a": 1
+    },
+    {
+      "q": "Joseph rose from being an Egyptian prison inmate to become the Prime Minister of Egypt because he could ________.",
+      "o": ["Command large military chariots successfully", "Interpret Pharaoh's mysterious prophetic dreams", "Build massive crop storage pyramids rapidly", "Speak multiple foreign imperial languages", "Perform striking physical miracles with a staff"],
+      "a": 1
+    },
+    {
+      "q": "In which specific land within Egypt did Jacob and his sons settle during the severe global famine?",
+      "o": ["Alexandria", "Goshen", "Thebes", "Memphis", "Sinai"],
+      "a": 1
+    },
+    {
+      "q": "God uniquely appeared to Moses and called him to liberate Israel while he was tending sheep near Mount ________.",
+      "o": ["Sinai (Horeb)", "Carmel", "Nebo", "Ararat", "Tabor"],
+      "a": 0
+    },
+    {
+      "q": "What miraculous sign did God use to catch Moses' attention before speaking to him directly?",
+      "o": ["A sudden violent earthquake", "A bush that burned with fire but was not consumed", "A loud thunderclap from a clear sky", "A river that instantly turned into blood", "A massive flock of white doves landing"],
+      "a": 1
+    },
+    {
+      "q": "What was the tenth and final plague that forced Pharaoh to release the Israelites from bondage?",
+      "o": ["A dense swarm of locusts over fields", "The complete death of all firstborn humans and animals in Egypt", "Three days of total pitch darkness", "A severe outbreak of painful bodily boils", "Turning all water sources into thick blood"],
+      "a": 1
+    },
+    {
+      "q": "During the historic Exodus, God safely led the Israelites through the desert using a ________.",
+      "o": ["Golden map container", "Pillar of cloud by day and a pillar of fire by night", "Flock of trained tracking eagles", "Group of nomadic desert guides", "Continuous sound of a trumpet blowing"],
+      "a": 1
+    },
+    {
+      "q": "Moses miraculously parted the waters of the ________ to allow Israel to escape Pharaoh's charging armies.",
+      "o": ["River Jordan", "River Nile", "Red Sea", "Sea of Galilee", "River Euphrates"],
+      "a": 2
+    },
+    {
+      "q": "God provisioned the hungry Israelites with sweet bread-like food from heaven during their desert journey called ________.",
+      "o": ["Manna", "Myrrh", "Frankincense", "Locust beans", "Unleavened cakes"],
+      "a": 0
+    },
+    {
+      "q": "On which mountain did God formally deliver the Ten Commandments tablets to Moses?",
+      "o": ["Mount Nebo", "Mount Sinai", "Mount Carmel", "Mount Zion", "Mount Hermon"],
+      "a": 1
+    },
+    {
+      "q": "Who was Moses' loyal assistant and successor who safely led the Israelites across the River Jordan into Canaan?",
+      "o": ["Aaron", "Caleb", "Joshua", "Gideon", "Eleazar"],
+      "a": 2
+    },
+    {
+      "q": "The formidable walls of which Canaanite city collapsed completely after Israel marched around them for seven days?",
+      "o": ["Ai", "Jericho", "Gibeon", "Hebron", "Jerusalem"],
+      "a": 1
+    },
+    {
+      "q": "Who was the notable female prophet and judge in Israel who inspired Barak to defeat Sisera's Canaanite forces?",
+      "o": ["Hannah", "Deborah", "Ruth", "Esther", "Delilah"],
+      "a": 1
+    },
+    {
+      "q": "God miraculously reduced Gideon's large army to just ________ men to demonstrate that victory belongs to God alone.",
+      "o": ["100 men", "300 men", "700 men", "1,000 men", "12,000 men"],
+      "a": 1
+    },
+    {
+      "q": "Who was the strong Israelite judge whose immense physical strength lay in his uncut Nazirite hair?",
+      "o": ["Gideon", "Samson", "Jephthah", "Eli", "Samuel"],
+      "a": 1
+    },
+    {
+      "q": "Who was the pious child prophet who was dedicated to God's service at Shiloh and raised by High Priest Eli?",
+      "o": ["David", "Samuel", "Jeremiah", "Solomon", "Daniel"],
+      "a": 1
+    },
+    {
+      "q": "Who was formally anointed by Prophet Samuel as the very first human king over Israel?",
+      "o": ["David", "Saul", "Solomon", "Jonathan", "Rehoboth"],
+      "a": 1
+    },
+    {
+      "q": "King Saul was ultimately rejected by God from reigning over Israel because of his ________.",
+      "o": ["Lack of physical military bravery", "Disobedience to God's explicit commands regarding sacrifices", "Failure to build a stone temple", "Severe economic mismanagement tracks", "Decision to marry foreign princesses"],
+      "a": 1
+    },
+    {
+      "q": "David, the shepherd boy, defeated the towering Philistine giant champion Goliath using a ________.",
+      "o": ["Heavy bronze spear and shield", "Sling and a smooth stone", "Polished iron sword", "Bow and poisoned arrows", "Chariot unit tactical charge"],
+      "a": 1
+    },
+    {
+      "q": "Which king of Israel was blessed with unmatched wisdom and built the magnificent First Temple for God in Jerusalem?",
+      "o": ["David", "Solomon", "Hezekiah", "Josiah", "Jeroboam"],
+      "a": 1
+    },
+    {
+      "q": "Prophet Elijah staged a dramatic spiritual contest against the 450 false prophets of Baal at Mount ________.",
+      "o": ["Sinai", "Nebo", "Carmel", "Zion", "Tabor"],
+      "a": 2
+    },
+    {
+      "q": "Which prophet was thrown into a den of hungry lions because he refused to stop praying to the Almighty God?",
+      "o": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel", "Amos"],
+      "a": 3
+    },
+    {
+      "q": "Which prophet was swallowed by a massive fish after attempting to flee from God's command to preach in Nineveh?",
+      "o": ["Hosea", "Jonah", "Micah", "Malachi", "Joel"],
+      "a": 1
+    },
+    {
+      "q": "In which historical Judean town was Jesus Christ born, fulfilling ancient prophetic scriptures?",
+      "o": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum", "Jericho"],
+      "a": 2
+    },
+    {
+      "q": "Which angel formally announced the miraculous birth of Jesus to the Virgin Mary?",
+      "o": ["Michael", "Gabriel", "Raphael", "Uriel", "Phanuel"],
+      "a": 1
+    },
+    {
+      "q": "Who was the prophetic forerunner of Jesus who baptized Him in the waters of the River Jordan?",
+      "o": ["John the Baptist", "Elijah", "Elisha", "Samuel", "Peter"],
+      "a": 0
+    },
+    {
+      "q": "Immediately after His baptism, Jesus was led by the Holy Spirit into the wilderness to be tempted by the devil for ________.",
+      "o": ["Seven days", "Three weeks", "Forty days and forty nights", "Three months", "One full year"],
+      "a": 2
+    },
+    {
+      "q": "What was the very first public miracle performed by Jesus, as recorded in the Gospel of John at a wedding feast?",
+      "o": ["Healing a lame man at Bethesda", "Feeding five thousand hungry people", "Turning water into high-quality wine at Cana", "Calming a violent sea storm with a word", "Raising Lazarus from the dead"],
+      "a": 2
+    },
+    {
+      "q": "How many core disciples did Jesus select to form His inner circle of apostles for ministry?",
+      "o": ["7 disciples", "10 disciples", "12 disciples", "24 disciples", "70 disciples"],
+      "a": 2
+    },
+    {
+      "q": "Which disciple was a tax collector before being called by Jesus to become a fisher of men?",
+      "o": ["Peter", "Andrew", "Matthew", "John", "Thomas"],
+      "a": 2
+    },
+    {
+      "q": "Jesus utilized simple, short earthly stories with deep heavenly meanings to teach crowds. These stories are called ________.",
+      "o": ["Fables", "Myths", "Parables", "Proverbs", "Allegories"],
+      "a": 2
+    },
+    {
+      "q": "In the Parable of the Prodigal Son, what was the father's reaction when his repentant son returned home?",
+      "o": ["He locked him out of the family compound", "He welcomed him with immense joy, compassion, and a great feast", "He made him work as a slave to repay lost funds", "He disowned him permanently before elders", "He sent him to a distant city for correction"],
+      "a": 1
+    },
+    {
+      "q": "Which parable did Jesus share specifically to teach the ultimate lesson of loving and helping our neighbors unconditionally?",
+      "o": ["Parable of the Sower", "Parable of the Good Samaritan", "Parable of the Lost Sheep", "Parable of the Ten Virgins", "Parable of the Talents"],
+      "a": 1
+    },
+    {
+      "q": "Jesus demonstrated His supreme power over physical death by raising His friend ________ from the dead after four days in a tomb.",
+      "o": ["Jairus' son", "The widow's son at Nain", "Lazarus of Bethany", "Bartimaeus", "Zacchaeus"],
+      "a": 2
+    },
+    {
+      "q": "During the Last Supper with His disciples, the bread and wine shared by Jesus explicitly represented His ________.",
+      "o": ["Royal earthly crown and scepter", "Body and blood given for the remission of sins", "Great material wealth and inheritance", "Prophetic mantle and authority", "Judicial power over rulers"],
+      "a": 1
+    },
+    {
+      "q": "In which garden did Jesus experience deep agonizing prayer and distress before His arrest?",
+      "o": ["Garden of Eden", "Garden of Gethsemane", "Garden of Naboth", "Garden of Babylon", "Garden of Joseph"],
+      "a": 1
+    },
+    {
+      "q": "Which disciple deceptively betrayed Jesus into the hands of the chief priests for thirty pieces of silver?",
+      "o": ["Simon Peter", "Judas Iscariot", "Doubting Thomas", "James the son of Zebedee", "Philip"],
+      "a": 1
+    },
+    {
+      "q": "Who was the Roman Governor who presided over the judicial trial of Jesus and reluctantly sentenced Him to crucifixion?",
+      "o": ["King Herod", "Pontius Pilate", "Caesar Augustus", "Governor Felix", "King Agrippa"],
+      "a": 1
+    },
+    {
+      "q": "The specific hill site outside Jerusalem where Jesus Christ was crucified is known as ________.",
+      "o": ["Mount Zion", "Golgotha (Calvary)", "Mount of Olives", "Mount Sinai", "Mount Gerizim"],
+      "a": 1
+    },
+    {
+      "q": "On which day following His crucifixion and burial did Jesus triumphantly rise from the dead?",
+      "o": ["First day", "Second day", "Third day", "Fourth day", "Seventh day"],
+      "a": 2
+    },
+    {
+      "q": "The monumental event where Jesus was taken up into heaven in a cloud before the eyes of His apostles is the ________.",
+      "o": ["Transfiguration", "Resurrection", "Ascension", "Crucifixion", "Glorification"],
+      "a": 2
+    },
+    {
+      "q": "The spectacular descent of the Holy Spirit upon the gathered disciples, marked by tongues of fire, occurred on the Day of ________.",
+      "o": ["Passover", "Tabernacles", "Pentecost", "Purim", "Atonement"],
+      "a": 2
+    },
+    {
+      "q": "Who was the first Christian martyr who was stoned to death for boldly preaching the Gospel message?",
+      "o": ["Stephen", "Philip", "Barnabas", "Silas", "Paul"],
+      "a": 0
+    },
+    {
+      "q": "What was the original name of the zealous Pharisee who persecuted early Christians before his miraculous conversion on the road to Damascus?",
+      "o": ["Cornelius", "Saul of Tarsus", "Timothy", "Titus", "Apollos"],
+      "a": 1
+    },
+    {
+      "q": "According to Paul's epistle to the Galatians, all the following are attributes of the Fruit of the Spirit EXCEPT ________.",
+      "o": ["Love and Joy", "Peace and Patience", "Kindness and Goodness", "Arrogance and Selfish Ambition", "Gentleness and Self-control"],
+      "a": 3
+    }
+  ]
+    }
+      
