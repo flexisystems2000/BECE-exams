@@ -1,0 +1,304 @@
+{
+  "Civic Education": [
+    {
+      "q": "The total commitment to public honesty, moral principles, and correctness of character is defined as ________.",
+      "o": ["Discipline", "Integrity", "Cooperation", "Courage", "Loyalty"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a direct reward for maintaining a high level of integrity in a community?",
+      "o": ["Public isolation", "Trust and respect", "Financial punishment", "Political conflict", "Fear from neighbors"],
+      "a": 1
+    },
+    {
+      "q": "The act of working harmoniously with other individuals or groups to achieve a common societal goal is ________.",
+      "o": ["Selfishness", "Competition", "Cooperation", "Independence", "Nepotism"],
+      "a": 2
+    },
+    {
+      "q": "Which attribute represents a lack of discipline in a school environment configuration?",
+      "o": ["Punctuality at assembly", "Wearing the correct uniform", "Vandals destroying laboratory desks", "Obeying class prefects", "Submitting assignments early"],
+      "a": 2
+    },
+    {
+      "q": "A legal status that grants an individual full constitutional rights and responsibilities within a sovereign country is ________.",
+      "o": ["Alienation", "Citizenship", "Asylum", "Migration", "Diplomacy"],
+      "a": 1
+    },
+    {
+      "q": "A foreigner can achieve legal citizenship in Nigeria through the process of ________.",
+      "o": ["Birth", "Descent", "Naturalization", "Force", "Migration"],
+      "a": 2
+    },
+    {
+      "q": "The fundamental privileges that every human being is entitled to from birth, regardless of nationality or race, are ________.",
+      "o": ["Civic duties", "Human rights", "Political manifestos", "Social status markers", "Community decrees"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is an example of a fundamental civil right belonging to all Nigerian citizens?",
+      "o": ["Right to steal safely", "Right to life", "Right to evade taxes", "Right to destroy property", "Right to ignore court orders"],
+      "a": 1
+    },
+    {
+      "q": "The ultimate official document that contains the supreme laws, structural rules, and regulations guiding a nation is the ________.",
+      "o": ["Manifesto", "Gazette", "Constitution", "Hansard", "Decree"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following represents a compulsory civic obligation of a citizen to the state?",
+      "o": ["Receiving free meals", "Paying valid income taxes regularly", "Building private schools", "Traveling abroad", "Criticizing security structures"],
+      "a": 1
+    },
+    {
+      "q": "The designed graphic representation that uniquely identifies Nigeria globally as a sovereign nation is the ________.",
+      "o": ["National Passport", "National Anthem", "National Flag", "National Identity Card", "Coat of Arms"],
+      "a": 2
+    },
+    {
+      "q": "Who designed the original structural layout of the Nigerian National Flag in 1959?",
+      "o": ["Professor Wole Soyinka", "Mr. Michael Taiwo Akinkunmi", "Chief Taiwo Da-Silva", "Dr. Nnamdi Azikiwe", "Sir Ahmadu Bello"],
+      "a": 1
+    },
+    {
+      "q": "What do the prominent white horses on the Nigerian Coat of Arms symbolize?",
+      "o": ["Agricultural wealth", "Dignity and strength", "Peace and unity", "Fertile soil tracks", "Rivers Niger and Benue"],
+      "a": 1
+    },
+    {
+      "q": "The black shield situated at the center of the Nigerian Coat of Arms explicitly represents ________.",
+      "o": ["Mineral resources wealth", "Nigeria's fertile agricultural soil", "Peace and harmony", "The strength of our security forces", "The convergence of major rivers"],
+      "a": 1
+    },
+    {
+      "q": "The absolute system of government where power belongs to the citizens and is exercised directly or through elected representatives is ________.",
+      "o": ["Monarchy", "Oligarchy", "Democracy", "Autocracy", "Military dictatorship"],
+      "a": 2
+    },
+    {
+      "q": "Which arm of the Nigerian government is constitutionally charged with making laws for the nation?",
+      "o": ["The Judiciary", "The Executive", "The Legislature (National Assembly)", "The Civil Service", "The Armed Forces"],
+      "a": 2
+    },
+    {
+      "q": "The Judicial arm of government executes its primary civic role in society by ________.",
+      "o": ["Executing public contracts", "Drafting annual financial budgets", "Interpreting laws and resolving disputes", "Arresting traffic violators", "Constructing public interstate highways"],
+      "a": 2
+    },
+    {
+      "q": "A major characteristic of a true democratic system is the presence of ________.",
+      "o": ["A single political party block", "Free, fair, and periodic elections", "Permanent military leadership rules", "Complete censorship of social media platforms", "Arbitrary arrest of citizens"],
+      "a": 1
+    },
+    {
+      "q": "The federal agency primarily responsible for controlling traffic and safety parameters on Nigerian highways is the ________.",
+      "o": ["NAPTIP", "NDLEA", "FRSC", "EFCC", "ICPC"],
+      "a": 2
+    },
+    {
+      "q": "The universal flashing color on a standard traffic light module that mandates motorists to stop completely is ________.",
+      "o": ["Green", "Amber (Yellow)", "Red", "Blue", "White"],
+      "a": 2
+    },
+    {
+      "q": "An underground, secret fraternal organization within an educational institution whose activities are hidden and dangerous is a ________.",
+      "o": ["Debate club", "Cult group", "Boys Scout troupe", "Red Cross society", "Youth fellowship"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a major consequence of cultism activities in an academic community?",
+      "o": ["Academic excellence tracking", "Peaceful student coexistence", "Expulsion and untimely death", "Scholarship award allocations", "Rapid community development"],
+      "a": 2
+    },
+    {
+      "q": "The government law enforcement agency tasked with tracking down, arresting, and prosecuting drug traffickers in Nigeria is ________.",
+      "o": ["EFCC", "NAPTIP", "NDLEA", "NFDAC", "ICPC"],
+      "a": 2
+    },
+    {
+      "q": "The continuous use of chemical substances or drugs without a valid professional medical prescription is termed ________.",
+      "o": ["Drug therapy", "Drug distribution", "Drug abuse", "Drug production", "Drug testing"],
+      "a": 2
+    },
+    {
+      "q": "Which human organ faces the most severe direct damage due to heavy, long-term abuse of alcoholic substances?",
+      "o": ["The lungs", "The liver", "The skin", "The teeth", "The ears"],
+      "a": 1
+    },
+    {
+      "q": "A psychological state where an individual depends completely on a drug to function normally is known as ________.",
+      "o": ["Tolerance", "Resistance", "Addiction", "Immunity", "Recovery"],
+      "a": 2
+    },
+    {
+      "q": "The complete feeling of love, pride, devotion, and attachment to one's fatherland is called ________.",
+      "o": ["Tribalism", "Patriotism", "Nepotism", "Sectionalism", "Egoism"],
+      "a": 1
+    },
+    {
+      "q": "Which action actively promotes national unity and cohesion in Nigeria's multi-ethnic framework?",
+      "o": ["Encouraging ethnic hate speech lines", "Participating in the National Youth Service Corps (NYSC)", "Discriminating against non-indigenes in employment", "Refusing to honor national symbols", "Demanding regional isolation blocks"],
+      "a": 1
+    },
+    {
+      "q": "The illegal act of buying and selling human beings for forced labor or sexual exploitation is defined as ________.",
+      "o": ["Human migration", "Human trafficking", "Child adoption", "Kidnapping", "Refugee movement"],
+      "a": 1
+    },
+    {
+      "q": "Which government agency is explicitly mandated to fight human trafficking and rescue victim assets in Nigeria?",
+      "o": ["NDLEA", "NAPTIP", "EFCC", "FRSC", "NFDAC"],
+      "a": 1
+    },
+    {
+      "q": "The intentional act of helping or giving a hand to needy, disabled, or vulnerable members of society is ________.",
+      "o": ["Exploitation", "Philanthropy (Humanitarian service)", "Oppression", "Indifference", "Subversion"],
+      "a": 1
+    },
+    {
+      "q": "The political party system currently operated within the Nigerian democratic framework is the ________ system.",
+      "o": ["One-party", "Two-party", "Multi-party", "Zero-party", "Military-led"],
+      "a": 2
+    },
+    {
+      "q": "The formal body responsible for organizing, monitoring, and conducting federal and state elections in Nigeria is ________.",
+      "o": ["NPC", "INEC", "NUC", "NECO", "JAMB"],
+      "a": 1
+    },
+    {
+      "q": "The minimum legal age requirement for any citizen to vote in a public election layout in Nigeria is ________.",
+      "o": ["15 years", "16 years", "18 years", "21 years", "25 years"],
+      "a": 2
+    },
+    {
+      "q": "The phenomenon where state power is suddenly and violently seized by military officers is termed a ________.",
+      "o": ["Referendum", "Coup d'état", "Democratic transition", "By-election", "Impeachment process"],
+      "a": 1
+    },
+    {
+      "q": "Universal Basic Education (UBE) parameters guarantee that every child has a direct right to ________.",
+      "o": ["Free luxury transport", "Free foundational basic schooling", "Free political appointments", "Free overseas travel tickets", "Free banking loans"],
+      "a": 1
+    },
+    {
+      "q": "The deliberate refusal to obey civic laws, pay utility rates, or respect public orders leads directly to ________.",
+      "o": ["Economic prosperity", "Social progress and harmony", "Anarchy and breakdown of order", "International financial aids", "Political stability"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is a prominent non-governmental organization (NGO) that fights for human rights updates globally?",
+      "o": ["Amnesty International", "World Bank Group", "International Monetary Fund", "ECOWAS Commission", "European Union Council"],
+      "a": 0
+    },
+    {
+      "q": "The traditional values of ancient Nigerian societies emphasizes all the following constructive traits EXCEPT ________.",
+      "o": ["Respect for elderly citizens", "Honest workmanship tracking", "Accumulation of wealth via internet fraud", "Community solidarity networks", "Peaceful dispute settlement"],
+      "a": 2
+    },
+    {
+      "q": "The official motto of the Federal Republic of Nigeria as boldly written on the Coat of Arms is ________.",
+      "o": ["Peace, Progress and Prosperity", "Unity and Faith, Peace and Progress", "Justice, Freedom and Sovereign Unity", "One Nation, One Destiny, One God", "Forward Ever, Backward Never"],
+      "a": 1
+    },
+    {
+      "q": "The process where individual citizens check the excessive actions of political leaders using legal media expressions is called ________.",
+      "o": ["Public victimization", "Civil accountability and opinion", "Political rebellion plots", "National subversion operations", "Military mobilization"],
+      "a": 1
+    },
+    {
+      "q": "The maximum number of tenured years a single individual can serve as the Executive Governor of a state in Nigeria is ________.",
+      "o": ["4 years", "6 years", "8 years", "10 years", "Unlimited years"],
+      "a": 2
+    },
+    {
+      "q": "Which historical constitution formally made Nigeria a fully autonomous Federal Republic in 1963?",
+      "o": ["The Clifford Constitution", "The Richards Constitution", "The Republican Constitution", "The Independence Constitution", "The Macpherson Constitution"],
+      "a": 2
+    },
+    {
+      "q": "The state of being independent and free from any external control or foreign manipulation is labeled as ________.",
+      "o": ["Sovereignty", "Colonialism", "Dependency", "Imperialism", "Feudalism"],
+      "a": 0
+    },
+    {
+      "q": "The deliberate act of falsifying currency notes, food items, or medicine products is an economic crime classified as ________.",
+      "o": ["Smuggling", "Counterfeiting", "Hoarding", "Bargaining", "Auctioning"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a direct civic manifestation of a responsible citizen in times of national emergency?",
+      "o": ["Spreading unverified rumors online", "Hoarding essential food items to inflate prices", "Volunteering and obeying emergency agency directives", "Fleeing code checking parameters", "Damaging public communication lines"],
+      "a": 2
+    },
+    {
+      "q": "The societal cell that forms the basic structural foundation of any community framework is the ________.",
+      "o": ["Political party", "Family unit", "Peer group", "Trade union", "Religious house"],
+      "a": 1
+    },
+    {
+      "q": "A type of family setup that consists strictly of a father, mother, and their biological or adopted children is a ________ family.",
+      "o": ["Polygamous", "Nuclear", "Extended", "Blended", "Communal"],
+      "a": 1
+    },
+    {
+      "q": "The public institution created to resolve disputes between citizens and ensure equal justice parameters for all is the ________.",
+      "o": ["Police Station", "Court of Law", "Correctional Center", "Customs Terminal", "Civil Service Commission"],
+      "a": 1
+    },
+    {
+      "q": "The intentional destruction or defacement of public properties like electric transformers or rail tracks is ________.",
+      "o": ["Development", "Vandalism", "Modernization", "Rehabilitation", "Conservation"],
+      "a": 1
+    },
+    {
+      "q": "Which arm of government is responsible for implementing and enforcing laws passed by parliament?",
+      "o": ["The Judiciary", "The Executive", "The Legislature", "The Press", "The Academic Council"],
+      "a": 1
+    },
+    {
+      "q": "The peaceful resolution of community disputes without resorting to litigation or violence is known as ________.",
+      "o": ["Anarchy", "Alternative Dispute Resolution (ADR)", "Civil disobedience", "Armed confrontation", "Judicial trial"],
+      "a": 1
+    },
+    {
+      "q": "What do the green stripes on the Nigerian national flag stand for?",
+      "o": ["Peace and harmony", "Agriculture and rich natural land", "The blood of national heroes", "Mineral wealth deposits", "The beauty of the Atlantic coast"],
+      "a": 1
+    },
+    {
+      "q": "The official document given to a citizen to allow legitimate travel across international borders is a ________.",
+      "o": ["National ID slip", "Driver's license", "International Passport", "Tax clearance certificate", "Birth certificate"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following values helps to eliminate tribalism and favoritism in public offices?",
+      "o": ["Nepotism", "Sectionalism", "Social justice and meritocracy", "Greed", "Partisanship"],
+      "a": 2
+    },
+    {
+      "q": "The act of giving or receiving money or favors to subvert justice and alter professional duties is ________.",
+      "o": ["Empowerment", "Bribery and corruption", "Charity donations", "Investment return", "Trade facilitation"],
+      "a": 1
+    },
+    {
+      "q": "The legal mechanism used to remove an elected official like a President or Governor from office due to gross misconduct is ________.",
+      "o": ["Vetoing", "Impeachment", "Dissolution", "Suspension", "Disqualification"],
+      "a": 1
+    },
+    {
+      "q": "The primary objective of establishing traffic regulations on urban roads is to ________.",
+      "o": ["Generate revenue from fines", "Ensure free movement and minimize accidents", "Decorate city roads", "Provide jobs for traffic officials", "Restrict vehicle ownership"],
+      "a": 1
+    },
+    {
+      "q": "The absolute compliance of public officers with code of conduct guidelines showcases the trait of ________.",
+      "o": ["Lawlessness", "Accountability", "Favoritism", "Arrogance", "Secretiveness"],
+      "a": 1
+    },
+    {
+      "q": "Which stanza lines of the Nigerian National Anthem emphasizes our collective prayer for a nation bound in freedom, peace, and unity?",
+      "o": ["The first stanza", "The second stanza", "Both stanzas combined", "The national pledge lines", "The flag declaration text"],
+      "a": 1
+    }
+  ]
+}
