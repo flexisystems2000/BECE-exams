@@ -1,0 +1,304 @@
+{
+  "Yoruba": [
+    {
+      "q": "Konsonanti ede Yoruba pọ̀ rẹpẹtẹ. Kí ni iye àwọn alfabẹ́ẹ̀tì konsonanti tí ó wà nínú ede Yoruba?",
+      "o": ["Mẹ́ẹ̀ẹ́dọ́gbọ̀n (25)", "Mokanlelogun (21)", "Mẹ́rìndínlọ́gbọ̀n (26)", "Mẹ́rìn-lá—dín-lọ́gbọ̀n (18)", "Mẹ́tàdínlọ́gbọ̀n (27)"],
+      "a": 3
+    },
+    {
+      "q": "Àwọn fawẹ́ẹ̀tì wo ni a pè ní fawẹ́ẹ̀tì àránmúpúpọ̀ tàbí fawẹ́ẹ̀tì imú nínú èdè Yoruba?",
+      "o": ["a, e, ẹ, i, o", "an, ẹn, in, ọn, un", "b, d, g, j, k", "gb, p, ṣ, ch, nw", "am, em, im, om, um"],
+      "a": 1
+    },
+    {
+      "q": "Nínú ìsọ̀rí fawẹ́ẹ̀tì rẹwẹsì tàbí fawẹ́ẹ̀tì púpọ̀, iye fawẹ́ẹ̀tì ah́n-án-nú (oral vowels) tí ó wà nínú èdè Yoruba jẹ́ ________.",
+      "o": ["Mẹ́rin (4)", "Márùn-ún (5)", "Mẹ́fà (6)", "Mėje (7)", "Mẹ́wàá (10)"],
+      "a": 3
+    },
+    {
+      "q": "Kí ni iye konsonanti àrúpọ̀ tàbí konsonanti dídòpọ̀ (digraphs) tí ó wà nínú alfabẹ́ẹ̀tì èdè Yoruba?",
+      "o": ["Kan (1) - gb", "Meji (2) - gb, ch", "Mẹta (3) - gb, sh, ch", "Mẹrin (4) - gb, kp, sh, th", "Odo (0)"],
+      "a": 0
+    },
+    {
+      "q": "Fawẹ́ẹ̀tì wo ni kò le pèsè àyè rárá fún dídá duro tàbí bẹ̀rẹ̀ ọ̀rọ̀ nínú èdè Yoruba fún ti rẹ?",
+      "o": ["a", "i", "u", "o", "kò sí fawẹ́ẹ̀tì kankan tí kì í bẹ̀rẹ̀ ọ̀rọ̀ àyàfi 'u' nínú àwọn ọ̀rọ̀ àbínibí mọ́"],
+      "a": 4
+    },
+    {
+      "q": "Pínpín ọ̀rọ̀ sí kíkání-kíkání tàbí sí sẹ́ǹgẹ́-sẹ́ǹgẹ́ nípa sísọ rẹ̀ ni a mọ̀ sí ________.",
+      "o": ["Àyànmọ́", "Sílẹ́bù (Syllable)", "Rọpò orúkọ", "Àpólà ọ̀rọ̀-orúkọ", "Àmì ohùn"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni fídí múlẹ̀ ìhun sílẹ́bù fún ọ̀rọ̀ nínú èdè Yoruba? Ó le jẹ́ Konsonanti + Fawẹ́ẹ̀tì (KF) tàbí ________.",
+      "o": ["Konsonanti nìkan (K)", "Fawẹ́ẹ̀tì nìkan (F)", "Konsonanti + Konsonanti (KK)", "Fawẹ́ẹ̀tì + Konsonanti (FK)", "Konsonanti + Fawẹ́ẹ̀tì + Konsonanti (KFK)"],
+      "a": 1
+    },
+    {
+      "q": "Àmì ohùn melò ni ó wà nínú èdè Yoruba láti fi iyàtọ̀ sí ìtumọ̀ ọ̀rọ̀ tó jọra?",
+      "o": ["Kan (1)", "Meji (2)", "Mẹta (3)", "Mẹrin (4)", "Márùn-ún (5)"],
+      "a": 2
+    },
+    {
+      "q": "Àmì ohùn wo ni a máa ń gbé ka orí fawẹ́ẹ̀tì tí ohùn rẹ̀ bá rọ tàbí lọ sí ìsàlẹ̀ (low tone)?",
+      "o": ["Àmì Akòko ( ̄ )", "Àmì Àwúre ( ̌ )", "Àmì Òkè / Olùsorí ( ˊ )", "Àmì Ìsàlẹ̀ / Akúko ( ˋ )", "Àmì Àárín"],
+      "a": 3
+    },
+    {
+      "q": "Kí ni àmì ohùn tí ó tọ́ fún ọ̀rọ̀ orúkọ yìí: 'Àwòdì'?",
+      "o": ["Òkè-Òkè-Òkè", "Ìsàlẹ̀-Ìsàlẹ̀-Ìsàlẹ̀", "Ìsàlẹ̀-Ìsàlẹ̀-Òkè", "Ìsàlẹ̀-Àárín-Ìsàlẹ̀", "Àárín-Àárín-Àárín"],
+      "a": 1
+    },
+    {
+      "q": "Nínú ọ̀rọ̀-ìṣe (verbs) ati ọ̀rọ̀-orúkọ (nouns), ọ̀nà wo ni a gbà sọ 'ra ẹni' di 'rẹni' nínú fídí èdè?",
+      "o": ["Àpòpọ̀ fawẹ́ẹ̀tì", "Ìyọ́-fawẹ́ẹ̀tì (Vowel elision)", "Ìwúre gbolohun", "Àpólà àmì", "Ìpajẹ konsonanti"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni ìtumọ̀ ọ̀rọ̀ àpòpọ̀ yìí nínú àṣà itumọ̀: 'Ará ọ̀run'?",
+      "o": ["Ẹni tó ń gbé inú ọkọ̀ òfuurufú", "Òkú tàbí ẹni tó ti kù tàbí Olúwà nìkan", "Àwọn ọmọ ọba ní àfin", "Ẹni tó ní owó lọ́wọ́ púpọ̀", "Ẹni tó mọ̀ nípa sáyẹ́ǹsì"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni àpèjúwe tọ́ fún gbolohun yìí: 'Olú jẹun tán' nínú ìhun gbolohun?",
+      "o": ["Gbolohun Alákòso", "Gbolohun Oníbò dípò", "Gbolohun Gbanja", "Gbolohun Àpólà", "Gbolohun Alápòpọ̀"],
+      "a": 2
+    },
+    {
+      "q": "Àwọn ọ̀rọ̀ tí ó ní ìtumọ̀ ọ̀tọ̀ọ̀tọ̀ ṣùgbọ́n tí a kọ pẹ̀lú alfabẹ́ẹ̀tì kannáà jẹ́ ________.",
+      "o": ["Ọ̀rọ̀-asọyé", "Ọ̀rọ̀-atunmọ̀-púpọ̀ (Homographs)", "Ọ̀rọ̀-orúkọ àpàpà", "Ọ̀rọ̀-atọ́ka", "Ọ̀rọ̀ kòseémánìí"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni apinfunni tàbí àmì ìdarí tí a máa ń lò ní òpin gbolohun kọ̀ọ̀kan láti fi hàn pé ọ̀rọ̀ parí?",
+      "o": ["Àmì ìbéèrè ( ? )", "Kómà ( , )", "Tóbi ( . ) Kíkún", "Àmì ẹnu-yà ( ! )", "Sẹ́míkólo ( ; )"],
+      "a": 2
+    },
+    {
+      "q": "Tí a bá pín gbolohun 'Ọmọ náà lọ sí ilé-ìwé lana' sí àpólà, kí ni 'Lọ sí ilé-ìwé lana'?",
+      "o": ["Àpólà Ọ̀rọ̀-orúkọ", "Àpólà Ọ̀rọ̀-ìṣe", "Àpólà Ọ̀rọ̀-àpèjúwe", "Àpólà Ọ̀rọ̀-atọ́ka", "Àpólà Ìbátan"],
+      "a": 1
+    },
+    {
+      "q": "Yíyá ọ̀rọ̀ lò láti inú èdè míràn wọ inú èdè Yoruba (loaning) bi 'Rédíò' láti inú 'Radio' jẹ́ ọ̀nà ________.",
+      "o": ["Ìsọdọ̀tun", "Ìyáloò text / Ìmọ̀-ẹrọ yíyá lò", "Ìkésíni", "Àṣà àbínibí", "Ìparun èdè"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni òpó tọ́ tó rọpò 'Ṣadé ati Olú' nínú gbolohun: 'Ṣadé ati Olú lọ sí ọjà'?",
+      "o": ["Mo", "O", "Wọ́n", "A", "Ẹ"],
+      "a": 2
+    },
+    {
+      "q": "Kí ni àyípadà fawẹ́ẹ̀tì tí ó wáyé nínú kíkọ ọ̀rọ̀ yìí: 'Ra ẹja' tí ó di 'Rẹja'?",
+      "o": ["Fawẹ́ẹ̀tì 'a' rọ̀ sọnù", "Fawẹ́ẹ̀tì 'ẹ' rọ̀ sọnù", "Konsonanti 'R' sọnù", "Kò sí àyípadà rárá", "Fawẹ́ẹ̀tì 'a' ati 'ẹ' dọ̀kan"],
+      "a": 0
+    },
+    {
+      "q": "Èwo nínú àwọn ọ̀rọ̀ yìí ni kò ní àmì ohùn kankan lórí alfabẹ́ẹ̀tì rẹ̀ lẹ́yìn tí a bá kọ́ ọ́ nínú ohùn àárín (mid tone)?",
+      "o": ["Ọ̀rọ̀", "Ilé", "Ọmọ", "Àbá", "Baba"],
+      "a": 2
+    },
+    {
+      "q": "Nínú àṣà ìbí rẹ́rẹ́ ní ilẹ̀ Yoruba, kí ni orúkọ tí a ń sọ ọmọ àkọ́bí tí a bí nípa dídoríkodò tàbí tí ó dojúbolẹ̀ dandan?",
+      "o": ["Ige", "Ojo", "Ajàyí", "Àmùṣàn", "Dàda"],
+      "a": 2
+    },
+    {
+      "q": "Kí ni orúkọ àmúdọ̀ṣọ̀ tàbí orúkọ àmútọ̀runwá tí a ń sọ ọmọ tí a bí pẹ̀lú tita tàbí lupu iṣan ọrùn mọ́ ọrùn rẹ̀?",
+      "o": ["Taiwo", "Ojo", "Ige", "Aina", "Yetunde"],
+      "a": 2
+    },
+    {
+      "q": "Ní ilẹ̀ Yoruba, iye ọjọ́ melò ni a ń sọ ọmọ obìnrin ní orúkọ lẹ́yìn tí a bá bí i dandan?",
+      "o": ["Ọjọ́ keje (7)", "Ọjọ́ kẹjọ (8)", "Ọjọ́ kẹsán-án (9)", "Ọjọ́ kẹfà (6)", "Ọjọ́ kẹwàá (10)"],
+      "a": 0
+    },
+    {
+      "q": "Ọjọ́ melò ni a ń sọ ọmọkùnrin ní orúkọ nípa àṣà àbínibí ilẹ̀ Yoruba?",
+      "o": ["Ọjọ́ keje (7)", "Ọjọ́ kẹjọ (8)", "Ọjọ́ kẹsán-án (9)", "Ọjọ́ kẹwàá (10)", "Ọjọ́ kọkànlá (11)"],
+      "a": 2
+    },
+    {
+      "q": "Kí ni orúkọ àmútọ̀runwá fún ọmọ kejì tí a bí nínú àwọn ibeji (twins)?",
+      "o": ["Taiwo", "Kehinde", "Idowu", "Alaba", "Idogbe"],
+      "a": 1
+    },
+    {
+      "q": "Èwo nínú àwọn nǹkan wọ̀nyí ni kò kòseémánìí rárá nínú àwọn nǹkan ìwúre fún ìsọfọmọ lórúkọ ní ilẹ̀ Yoruba?",
+      "o": ["Oyin anamo", "Aata tàbí Ataare", "Iṣu yíyan", "Omi ati Iyọ̀", "Orogbo ati Obi"],
+      "a": 2
+    },
+    {
+      "q": "Nínú àṣà ìgbéyàwó, kí ni a ń pe obìnrin tuntun tí a gbé wọlé titun mọ́ ebí ọkọ rẹ̀?",
+      "o": ["Ìyáwó", "Ìyá-ẹgbẹ́", "Aya-ọba", "Ìyá-wlé", "Àbẹ̀fẹ́"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni orúkọ owó tàbí ẹrù tí mọ̀lẹ́bí ọkọ ń fún mọ̀lẹ́bí ìyáwó láti fi tọrọ ọmọ wọn lẹ́yìn kíkàwé tàbí itọrọ?",
+      "o": ["Owó bodè", "Owó orí (Dowry)", "Owó ọjà", "Owó iná", "Owó ìbádán"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni orúkọ iṣẹ́ àbínibí ti àwọn ará ilẹ̀ Yoruba tí wọ́n máa ń lò láti fi mú ẹja nínú odò tàbí adágún omi?",
+      "o": ["Iṣẹ́ Àgbẹ̀", "Iṣẹ́ Ọdẹ", "Iṣẹ́ Pẹja-pẹja (Apeja)", "Iṣẹ́ Alágbede", "Iṣẹ́ Gbẹ́nàgbẹ́nà"],
+      "a": 2
+    },
+    {
+      "q": "Iṣẹ́ àbínibí wo ni ó rọ̀mọ́ lilo iná, iṣẹ́-ẹwọ́, ati rí rọ irin mọ́ nǹkan iṣẹ́-ọwọ́ bi ọ̀kọ̀ ati àáké?",
+      "o": ["Iṣẹ́ Aláwo", "Iṣẹ́ Alágbede (Blacksmithing)", "Iṣẹ́ Àbẹ̀ṣẹ̀", "Iṣẹ́ Jálọ", "Iṣẹ́ Wòlíì"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni a ń pe ọba aláyélúwà ti ilẹ̀ Ile-Ife nínú àṣà itàn ati òye jije ilẹ̀ Yoruba?",
+      "o": ["Alaafin", "Ooni", "Awujale", "Alake", "Oluwo"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni orúkọ òye ọba ti ìlú Ọ̀yọ́ àtijọ́ ati ti nìṣìnsìnyí?",
+      "o": ["Ooni", "Alaafin", "Alake", "Olúbàdàn", "Ataoja"],
+      "a": 1
+    },
+    {
+      "q": "Nínú àwọn oúnjẹ àbínibí ilẹ̀ Yoruba, oúnjẹ wo ni a ń rọ láti inú àpòpọ̀ àlùbọ́sà tàbí gárí/iṣu gbigbẹ?",
+      "o": ["Àmàlà", "Ìyán", "Ẹ̀bà", "Tuwo", "Fúfú"],
+      "a": 0
+    },
+    {
+      "q": "Oúnjẹ àbínibí wo ni a ń gún nínú odó pẹ̀lú ọmọ-odó lẹ́yìn bólí tàbí sísọ iṣu nínú omi gbígbóná?",
+      "o": ["Àmàlà", "Ẹ̀bà", "Ìyán", "Ekuru", "Mọ́ín-mọ́ín"],
+      "a": 2
+    },
+    {
+      "q": "Àṣà kíki èèyàn tàbí kíki àwọn àgbàlagbà ní ilẹ̀ Yoruba láti fi hàn pé a ní ẹ̀kọ́ ilé gidi ni ________.",
+      "o": ["Ìdobálẹ̀ fún ọkùnrin, Ìpasẹ̀/Ìkúnlẹ̀ fún obìnrin", "Nínú nínà ọwọ́ mọ́ wọn", "Sísọ̀rọ̀ láìbọ̀wọ̀", "Kíkọ orin sínú fónù", "Míju mọ́ wọn"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni ẹni tí ó jẹ́ Olórí Ológun tàbí Balógun gbogboogbo ní ilẹ̀ Ọ̀yọ́ ń jẹ́ nínú àṣà àbínibí?",
+      "o": ["Basọ̀run", "Aare Ona Kakanfo", "Otunba", "Iyaloja", "Oluwo"],
+      "a": 1
+    },
+    {
+      "q": "Àwọn wo ni a mọ̀ sí igbìmọ̀ aṣòfin tàbí olùrànlọ́wọ́ ọba Aláàfin Ọ̀yọ́ tí wọ́n tún le yọ ọba kúrò lórí ire?",
+      "o": ["Ọ̀yọ́ Mèsì", "Ogboni", "Afafo", "Èṣù", "Ìyáwó-Ọba"],
+      "a": 0
+    },
+    {
+      "q": "Iru egbé wo ni a sọ pé ó wà fún àwọn ọmọ tí wọ́n ń lọ tí wọ́n ń bọ̀, tí wọ́n máa ń kú ní kékeré láti dín kù fún ìyá wọn?",
+      "o": ["Abiku (tí a tún ń pe ní Ègbé Ẹ̀gbẹ́ tàbí Ẹlẹ́gbẹ́)", "Ìbálègbe", "Ọmọ ọba", "Agbàwí", "Àbákú"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni àṣà ìsìnkú fún ẹni tí ó kú ní ògbólógbó àjùlọ tàbí arúgbó tí ó fi ọmọ rere sílẹ̀?",
+      "o": ["Ìsìnkú mọ̀lẹ́bí àbámọ̀", "Ìsìnkú ọlọ́jọ́-orí (Ìsìnkú Ayọ̀ pẹ̀lú ayẹyẹ)", "Sísọ nínú odò", "Kò sí ìsìnkú rárá", "Ìsìnkú òfò kíkore"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni orúkọ ohun èlò orin àbínibí ti ilẹ̀ Yoruba tí a máa ń lò láti sọ̀rọ̀ bi ènìyàn nípa fífún un tàbí yíyí ọwọ́ mọ́ iṣan rẹ̀?",
+      "o": ["Gangan (Tàbí Dùndún / Ìyá Àlùrọ̀)", "Fuluuti", "Gíttà", "Piánò", "Sákásófónù"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni àṣà 'Aró' ati 'Ọ̀wẹ̀' nínú àṣà iṣẹ́ àjọṣe ilẹ̀ Yoruba?",
+      "o": ["Àṣà ríràn ara ẹni lọ́wọ́ lórí iṣẹ́ oko tàbí ilé kíkọ láìsan owó rárá", "Àṣà jíjà olè", "Àṣà fífẹ́ ìyáwó púpọ̀", "Àṣà kíkọ orin òkú", "Àṣà ríròyìn fún ọba"],
+      "a": 0
+    },
+    {
+      "q": "Àṣà wo ni a ń lò láti fi mọ ẹni tí ó jẹ́ olè tàbí láti wá nǹkan tó sọnù nípa rírí mọ́ ebí tàbí rírí àwọn awonfájí?",
+      "o": ["Ìmọ̀ Ẹ̀rọ", "Ìwádìí Ifá tàbí Dídá Ifá / Ayẹ̀wò", "Kíkọ̀wé sí ọlọ́pàá", "Sísùn ní sàréè", "Sísọ̀rọ̀ púpọ̀"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni òrìṣà tó jẹ́ òrìṣà iná, àrá, ati mọ̀nàmọ́ná ní ilẹ̀ Yoruba tí ó jẹ́ ọba Ọ̀yọ́ tẹ́lẹ̀ rí?",
+      "o": ["Ògún", "Ṣàngó", "Ọbàtálá", "Ọ̀ṣun", "Èṣù"],
+      "a": 1
+    },
+    {
+      "q": "Òrìṣà wo ni a mọ̀ sí òrìṣà irin, tí àwọn awakọ̀, alágbede, ati ọdẹ ń sìn láti rí ààbò?",
+      "o": ["Ṣàngó", "Ọbàtálá", "Ògún", "Yemọja", "Ifá"],
+      "a": 2
+    },
+    {
+      "q": "Kí ni orúkọ àkàwé tàbí ewì àbínibí ti dídá Ifá tí ó ní ẹsẹ mọ́kàndínlógún tàbí sẹ́ǹgẹ́ púpọ̀?",
+      "o": ["Ewì alákọ̀wé", "Odù Ifá (bi Ẹ̀jì-Ogbè, Ọ̀ṣẹ́-Òtúrá)", "Arofo asìkò", "Orin sákàrá", "Rárà ọdẹ"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni àṣà tí a ń lò láti fi kọ́ àwọn ọmọdé ní ìmọ̀, ọgbọ́n, ati títí orí kíkókó ní alẹ́ lẹ́yìn iṣẹ́ oko?",
+      "o": ["Alo apamo ati Alo apagbe", "Tẹlifíṣọ̀n wíwò", "Kíkàwé gẹ̀ẹ́sì", "Gígún iṣu", "Ìjà gbangba"],
+      "a": 0
+    },
+    {
+      "q": "Nínú àlọ́ àpamọ̀ yìí: 'Ọmọ kéré púpọ̀ ó gbé àgbà lulẹ̀', kí ni ìtumọ̀ rẹ̀?",
+      "o": ["Ejo", "Ìyàwó", "Èèkàn-èéfín tàbí títasẹ̀ / Ìgboro tàbí Ìyàngbò", "Madò tàbí Ìgboro / Ìfọ̀sẹ̀ (Ìkọ̀sẹ̀)", "Òkú"],
+      "a": 3
+    },
+    {
+      "q": "Nínú àlọ́ àpamọ̀: 'Oko rẹtẹrẹtẹ kò kún agbọ̀n, kò kún àjíkà', kí ni ìtumọ̀ tọ́?",
+      "o": ["Irun orí", "Àtẹ́lẹwọ́", "Iyanrin lẹ́bà odò", "Èso tòmátì", "Fìlà ọba"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni ìtumọ̀ òpó òwe Yoruba yìí: 'Ilé ọba tò jò, ẹwà rẹ̀ ló bù kún'?",
+      "o": ["Nǹkan burúkú le yípadà di nǹkan rere tàbí àǹfààní lẹ́yìn-ọ̀la", "Kí ọba bọ́ sínú omi", "Kí a dáná sun àfin", "Ọba kò ní owó mọ́", "Ilé kíkọ kò sunwọ̀n"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni ìtumọ̀ òwe yìí: 'Ìmado mọ̀ ń jà, ó ní òun mọ̀ ọ́n gùn-ún nínú igbó'?",
+      "o": ["Ẹni tí kò mọ nǹkan rárá tó ń ṣe fari asán", "Kíkọrin fún ẹlẹ́wà", "Sísọ̀rọ̀ nípa iṣẹ́ ọdẹ", "Rírí ẹlẹ́dẹ igbó mú", "Kò sí ìtumọ̀ kankan"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni a ń pe litireso tágàbà tàbí litireso tí a kọ sínú ìwé láti ọwọ́ àwọn òǹkọ̀wé òde-òní?",
+      "o": ["Litireso Àfohùnsọ (Oral literature)", "Litireso Apasẹ̀", "Litireso Àkọsílẹ̀ (Written literature)", "Litireso Òfò", "Litireso Gírábà"],
+      "a": 2
+    },
+    {
+      "q": "Ìwé ìtàn àwòfẹ́ tàbí litireso àkọ́sílẹ̀ àkọ́kọ́ nínú èdè Yoruba tí D.O. Fagunwa kọ ni ________.",
+      "o": ["Ogbójú Ọdẹ nínú Igbó Irúnmalẹ̀", "Irinkerindo nínú Igbó Elegbeje", "Ìgbìyàwó Àkọ́kọ́", "Adìbàbá", "Igbo Olodumare"],
+      "a": 0
+    },
+    {
+      "q": "Kí ni orúkọ ewì àbínibí tí àwọn obìnrin máa ń kọ tàbí sọ nígbà tí wọ́n bá ń fẹ́ kúrò ní ilé baba wọn lọ sí ilé ọọkọ?",
+      "o": ["Igbá títayọ", "Ewì Ẹkún Ìyáwó (Rara Ìyáwó)", "Ewì Ìjálá Ọdẹ", "Ewì Èṣù", "Orin Ìreke"],
+      "a": 1
+    },
+    {
+      "q": "Ewì àfohùnsọ wo ni ó rọ mọ́ àwọn ọdẹ ati àwọn tí wọ́n ń sìn òrìṣà Ògún ní ilẹ̀ Yoruba?",
+      "o": ["Rárà Ìyáwó", "Ìjálá (Ìjálá Ọdẹ)", "Ẹ̀sà Egúngún", "Ofò", "Ìyẹ̀rẹ̀ Ifá"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni orúkọ ewì àfohùnsọ tí ó mọ nìkan fún àwọn olóòṣà Egúngún tàbí tí wọ́n ń sọ lẹ́nu pápá nígbà odún egúngún?",
+      "o": ["Ìjálá", "Ẹ̀sà Egúngún (Iwì Egúngún)", "Rárà", "Olele", "Sáká-orin"],
+      "a": 1
+    },
+    {
+      "q": "Ọ̀nà-èdè tàbí ewì tí a ń lò pẹ̀lú ọ̀rọ̀ agbára láti fi ṣàṣà tàbí mú nǹkan ṣẹ nínú fídí ohun abàmì ni ________.",
+      "o": ["Àpèjúwe", "Ofò / Ọ̀gẹ̀dẹ̀ / Àásán", "Àlọ́", "Òwe", "Orin arò"],
+      "a": 1
+    },
+    {
+      "q": "Kí ni orúkọ ìwé eré-oníṣe (drama) tí a kọ láti fi sọ̀rọ̀ nípa ìtàn ìgbésí ayé tàbí láti fi ṣàlàyé nǹkan lórí pákó ìpariwo?",
+      "o": ["Eré-oníṣe àkọ́sílẹ̀", "Ìwé àròkọ", "Ìwé àmì-ohùn", "Àlọ́ apagbe", "Kò sí rárá"],
+      "a": 0
+    },
+    {
+      "q": "Àwọn wo ni a mọ̀ sí òǹkọ̀wé ewì àkọ́sílẹ̀ òde-òní tí wọ́n kọ ìwé 'A ròfọ̀ Yoruba'?",
+      "o": ["D.O. Fagunwa", "Adebayọ Faleti ati J.F. Odunjọ", "Wọle Soyinka", "Chinua Achebe", "Prof. Olábímtán"],
+      "a": 1
+    },
+    {
+      "q": "Nínú àṣà litireso, èwo nínú àwọn yìí ni kì í ṣe fídí litireso àfohùnsọ (oral literature)?",
+      "o": ["Àlọ́", "Òwe", "Ìwé Eré-oníṣe kíkà (Novel reading)", "Ìjálá", "Ẹ̀sà Egúngún"],
+      "a": 2
+    },
+    {
+      "q": "Kí ni a mọ̀ sí èròńgbà pàtàkì tàbí ẹ̀kọ́ tí òǹkọ̀wé rò láti fún gbogbo àwùjọ nínú ìwé rẹ̀?",
+      "o": ["Kókó Ìtàn (Theme / Lesson)", "Àmì-ohùn", "Alfabẹ́ẹ̀tì", "Àròkọ kíkọ", "Ìpajẹ sílẹ́bù"],
+      "a": 0
+    }
+  ]
+}
