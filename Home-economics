@@ -1,0 +1,304 @@
+{
+  "Home Economics": [
+    {
+      "q": "The specialized field of study that teaches individuals how to manage personal, family, and community resources effectively for healthy living is ________.",
+      "o": ["Social Studies", "Home Economics", "Agricultural Science", "Civic Education", "Economics"],
+      "a": 1
+    },
+    {
+      "q": "Which branch of Home Economics focuses explicitly on textile fibers, sewing techniques, and fashion design parameters?",
+      "o": ["Foods and Nutrition", "Home Management", "Clothing and Textiles", "Child Development", "Consumer Education"],
+      "a": 2
+    },
+    {
+      "q": "The core cell of society consisting of a group of people closely related by blood, marriage, or adoption living together is the ________.",
+      "o": ["School", "Peer group", "Family", "Community", "Clergic union"],
+      "a": 2
+    },
+    {
+      "q": "A family pattern where a husband lives with a single wife and their biological or adopted children is classified as a ________ family.",
+      "o": ["Extended", "Polygamous", "Nuclear", "Blended", "Communal"],
+      "a": 2
+    },
+    {
+      "q": "The physiological or developmental stage in a young individual's life when their body undergoes rapid sexual and physical maturation is ________.",
+      "o": ["Adulthood", "Infancy", "Puberty", "Toddlerhood", "Senescence"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following represents a primary physical sign of puberty specifically in adolescent girls?",
+      "o": ["Deepening of the vocal pitch", "Development of broad shoulders", "Onset of the menstruation cycle", "Growth of prominent facial beards", "Rapid enlargement of the jawline"],
+      "a": 2
+    },
+    {
+      "q": "The periodic shedding of the uterine lining and blood from the body of a mature female adolescent is termed ________.",
+      "o": ["Ovulation", "Menstruation", "Fertilization", "Gestation", "Lactation"],
+      "a": 1
+    },
+    {
+      "q": "Which hygienic practice is essential for an adolescent girl during her active menstrual flow period?",
+      "o": ["Avoiding taking standard body baths", "Changing sanitary pads frequently and washing hands regularly", "Using unsterilized old rags repeatedly", "Applying heavy body perfumes directly to wounds", "Refusing to consume normal water liquids"],
+      "a": 1
+    },
+    {
+      "q": "The collective things, assets, or human traits that a family possesses and deploys to achieve its targeted goals are family ________.",
+      "o": ["Desires", "Resources", "Manifestos", "Luxuries", "Capitals"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following family resources is classified strictly as a non-human or material resource?",
+      "o": ["Intelligence and problem-solving skills", "Physical strength and energy", "Family money, house property, and equipment", "Technical baking skills", "Creative design talents"],
+      "a": 2
+    },
+    {
+      "q": "A prominent human resource that is uniform for all individuals across the globe, limited to 24 hours daily, is ________.",
+      "o": ["Money", "Energy", "Time", "Intelligence", "Skill"],
+      "a": 2
+    },
+    {
+      "q": "The structural administrative process of deciding beforehand what the family needs to achieve and how to execute it is ________.",
+      "o": ["Planning", "Organizing", "Controlling", "Evaluating", "Budgeting"],
+      "a": 0
+    },
+    {
+      "q": "The post-operational management step that involves reviewing an executed plan to see if the goals were met successfully is ________.",
+      "o": ["Planning", "Implementation", "Evaluation", "Budgeting", "Organizing"],
+      "a": 2
+    },
+    {
+      "q": "An official financial document or plan that itemizes a family's estimated income alongside its projected expenditures over a specific period is a/an ________.",
+      "o": ["Invoice", "Receipt", "Budget", "Ledger sheet", "Balance statement"],
+      "a": 2
+    },
+    {
+      "q": "An individual who purchases, uses, and consumes commercial goods and services to satisfy personal or family needs is a/an ________.",
+      "o": ["Producer", "Wholesaler", "Consumer", "Distributor", "Retailer"],
+      "a": 2
+    },
+    {
+      "q": "The practice of buying goods and services on impulse without pre-planning or considering actual household needs is ________.",
+      "o": ["Bulk buying", "Impulse buying", "Window shopping", "Market surveying", "Credit buying"],
+      "a": 1
+    },
+    {
+      "q": "The protective structure or building that provides security, privacy, and shelter against harsh environmental weather elements for a family is a ________.",
+      "o": ["Factory", "House (Home)", "Office block", "Warehouse", "Market square"],
+      "a": 1
+    },
+    {
+      "q": "A dedicated room within a modern household designed primarily for resting, relaxation, and sleeping is the ________.",
+      "o": ["Kitchen", "Dining room", "Bedroom", "Sitting room (Lounge)", "Store room"],
+      "a": 2
+    },
+    {
+      "q": "Which room in a family house is specifically designated for preparing, cooking, and plating meals?",
+      "o": ["Bathroom", "Laundry room", "Kitchen", "Veranda", "Living room"],
+      "a": 2
+    },
+    {
+      "q": "A simple manual cleaning tool constructed with bundle fibers attached to a long wooden shaft, used for sweeping solid floors is a ________.",
+      "o": ["Mop", "Broom", "Duster", "Scrubber", "Vacuum filter"],
+      "a": 1
+    },
+    {
+      "q": "The dynamic scientific study of food substances and how the human body processes them to sustain life, health, and growth is ________.",
+      "o": ["Biology", "Nutrition", "Gastronomy", "Biochemistry", "Dietetics"],
+      "a": 1
+    },
+    {
+      "q": "Chemical substances present in food items that provide energy, build body tissues, and protect the system against illnesses are ________.",
+      "o": ["Enzymes", "Nutrients", "Hormones", "Additives", "Preservatives"],
+      "a": 1
+    },
+    {
+      "q": "Which class of food nutrients serves as the body's primary source of fuel and metabolic energy for daily physical work?",
+      "o": ["Proteins", "Carbohydrates", "Vitamins", "Minerals", "Water"],
+      "a": 1
+    },
+    {
+      "q": "An example of a local Nigerian food item that is highly rich in bodybuilding proteins is ________.",
+      "o": ["Cassava fufu", "Cowpea (Beans)", "Yam slices", "White sugar", "Palm olein oil"],
+      "a": 1
+    },
+    {
+      "q": "A severe nutritional deficiency disease in infants caused by a chronic lack of adequate protein in their daily diet is ________.",
+      "o": ["Scurvy", "Rickets", "Kwashiorkor", "Beriberi", "Night blindness"],
+      "a": 2
+    },
+    {
+      "q": "The nutritional deficiency illness characterized by soft, weak, or bowed leg bones in growing children due to a lack of Vitamin D or Calcium is ________.",
+      "o": ["Pellagra", "Rickets", "Anemia", "Goiter", "Scurvy"],
+      "a": 1
+    },
+    {
+      "q": "A balanced diet is defined as a standard meal that contains ________.",
+      "o": ["Large volumes of meat items exclusively", "All six classes of nutrients in their correct structural proportions", "Mostly sugary carbohydrates to boost speed", "Processed canned foods only", "Zero fat or oil contents"],
+      "a": 1
+    },
+    {
+      "q": "The severe medical condition caused by consuming food items contaminated with toxic bacteria, viruses, or chemical poisons is ________.",
+      "o": ["Malnutrition", "Food poisoning", "Indigestion", "Allergic rash", "Dehydration"],
+      "a": 1
+    },
+    {
+      "q": "Which kitchen practice helps to prevent the crossover contamination of dangerous microbes during cooking operations?",
+      "o": ["Using the same unwashed cutting board for raw chicken and fresh salad leaves", "Washing hands with soap and hot water before handling foods", "Leaving perishable raw milk bottles uncovered in warm rooms", "Storing chemical detergents on the same shelf as food seasoning packs", "Allowing domestic pets to walk across active kitchen counters"],
+      "a": 1
+    },
+    {
+      "q": "A small kitchen utensil equipped with sharp perforated ridges, designed for shredding food items like carrots and cheese into tiny bits is a/an ________.",
+      "o": ["Colander", "Grater", "Whisk tool", "Spatula", "Peeler"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following kitchen tools is best suited for separating liquid water from boiled pasta sheets or washed vegetables?",
+      "o": ["Frying pan", "Colander (Strainer)", "Mixing bowl", "Measuring pitcher", "Ladle spoon"],
+      "a": 1
+    },
+    {
+      "q": "A large household appliance powered by electricity used to keep food resources chilled at low temperatures to slow down spoilage is a ________.",
+      "o": ["Microwave cooker", "Refrigerator", "Blender machine", "Toaster module", "Food dehydrator"],
+      "a": 1
+    },
+    {
+      "q": "The basic method of cooking food materials completely immersed in high-intensity boiling water molecules at $100^\circ\text{C}$ is ________.",
+      "o": ["Baking", "Boiling", "Frying", "Roasting", "Steaming"],
+      "a": 1
+    },
+    {
+      "q": "A dry-heat cooking method conducted inside an enclosed heated structural oven unit, commonly used for making bread, cakes, and meat pies is ________.",
+      "o": ["Grilling", "Baking", "Stewing", "Poaching", "Sauteing"],
+      "a": 1
+    },
+    {
+      "q": "The process of cooking food items submersed inside hot vegetable oils or fat liquids is termed ________.",
+      "o": ["Boiling", "Frying", "Steaming", "Braising", "Simmering"],
+      "a": 1
+    },
+    {
+      "q": "The scientific method of treating food items to prevent or delay their decay and spoilage parameters over a long duration is food ________.",
+      "o": ["Processing", "Preservation", "Adulteration", "Consumption", "Fortification"],
+      "a": 1
+    },
+    {
+      "q": "Which food preservation technique involves removing almost all water molecules from food crops via solar radiation or hot air chambers?",
+      "o": ["Freezing", "Drying (Dehydration)", "Canning", "Pickling", "Pasteurization"],
+      "a": 1
+    },
+    {
+      "q": "A traditional method of preserving fish and meat items by exposing them to thermal heat and wood smoke gases is ________.",
+      "o": ["Salting", "Smoking", "Fermentation", "Irradiation", "Refrigeration"],
+      "a": 1
+    },
+    {
+      "q": "The fundamental raw hair-like structures or strands from which textile yarns and fabrics are subsequently spun and woven are ________.",
+      "o": ["Threads", "Fibers", "Stitches", "Seams", "Selvedges"],
+      "a": 1
+    },
+    {
+      "q": "An example of a natural textile fiber harvested from the boll structures of a plant crop is ________.",
+      "o": ["Nylon", "Cotton", "Polyester", "Acrylic", "Rayon"],
+      "a": 1
+    },
+    {
+      "q": "Which natural textile fiber is produced directly by spinning protein fluids harvested from the cocoons of a specialized insect silkworm?",
+      "o": ["Wool", "Silk", "Flax (Linen)", "Jute", "Asbestos"],
+      "a": 1
+    },
+    {
+      "q": "A prominent example of a purely synthetic or man-made chemical polymer textile fiber developed in industrial labs is ________.",
+      "o": ["Cotton", "Nylon", "Wool", "Linen", "Silk"],
+      "a": 1
+    },
+    {
+      "q": "A small sewing tool worn safely on the tip of a tailor's finger to protect it from painful needle pricks during hand stitching is a ________.",
+      "o": ["Tape measure", "Thimble", "Bodkin", "Stitch ripper", "Pin cushion"],
+      "a": 1
+    },
+    {
+      "q": "Which sewing equipment is designed with a flexible marked tape profile, used to measure body frames and fabric sizes accurately?",
+      "o": ["Tailor's chalk", "Tape measure", "Metre rule", "Tracing wheel", "Shears"],
+      "a": 1
+    },
+    {
+      "q": "A cutting tool with large, sharp blades designed explicitly for cutting out fabric pieces evenly without causing fraying edge defects is ________.",
+      "o": ["Paper scissors", "Pinking shears", "Razor blades", "Seam rippers", "Pocket knives"],
+      "a": 1
+    },
+    {
+      "q": "The simple sewing tool used to transfer marking pattern design lines from template sheets directly onto clothing fabrics using carbon papers is a ________.",
+      "o": ["Tailor's chalk", "Tracing wheel", "Sewing needle", "Thimble cap", "Safety pin"],
+      "a": 1
+    },
+    {
+      "q": "The structural unit of sewing formed when a threaded needle passes repeatedly into and out of a textile fabric sheet is a/an ________.",
+      "o": ["Seam", "Stitch", "Hem", "Pleat", "Dart"],
+      "a": 1
+    },
+    {
+      "q": "A type of temporary hand stitch used to hold fabric edges together loosely before the final machine sewing line is executed is the ________.",
+      "o": ["Backstitch", "Basting (Tacking) stitch", "Running stitch", "Hemming stitch", "Chain stitch"],
+      "a": 1
+    },
+    {
+      "q": "Which permanent hand stitch is remarkably strong and neat, mirroring the exact structural look of a standard mechanical sewing machine stitch line?",
+      "o": ["Basting stitch", "Backstitch", "Overcasting stitch", "Blanket stitch", "Satin stitch"],
+      "a": 1
+    },
+    {
+      "q": "The process of joining two or more fabric pieces together permanently using a structural line of secure stitches is defined as a ________.",
+      "o": ["Hem", "Seam", "Gather", "Tuck", "Facing"],
+      "a": 1
+    },
+    {
+      "q": "The simplest and most common type of seam used in garment construction, made by stitching along a straight line on the wrong side of fabrics is the ________.",
+      "o": ["French seam", "Plain seam", "Run-and-fell seam", "Overlaid seam", "Double-stitched seam"],
+      "a": 1
+    },
+    {
+      "q": "An absolute edge finish configuration achieved by folding the raw boundary of a fabric piece twice and stitching it down flat is a ________.",
+      "o": ["Dart", "Hem", "Facing", "Pleat", "Placket"],
+      "a": 1
+    },
+    {
+      "q": "The specialized design feature or fold stitched into garments to control excess fullness and make the dress fit human body curves neatly is a ________.",
+      "o": ["Pocket", "Dart", "Collar", "Frill", "Cuff"],
+      "a": 1
+    },
+    {
+      "q": "The structural opening made in a garment that allows the wearer to put on or take off the dress easily and comfortably is a ________.",
+      "o": ["Seam line", "Placket", "Hemline", "Gusset block", "Flounce ribbon"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following items represents a standard functional garment fastener component used to close openings securely?",
+      "o": ["Lace ribbon", "Zipper (Zip)", "Embroidery thread", "Bias binding", "Interlining fabric"],
+      "a": 1
+    },
+    {
+      "q": "The fundamental daily maintenance process of washing, cleaning, starching, and pressing soiled clothes to keep them neat and presentable is ________.",
+      "o": ["Dry cleaning", "Laundry", "Textile finishing", "Garment styling", "Weaving"],
+      "a": 1
+    },
+    {
+      "q": "The specialized laundry chemical compound formulated to lower surface tension and remove tough dirt particles from soiled fabrics during washing is a/an ________.",
+      "o": ["Starch liquid", "Detergent (Soap)", "Bleaching agent", "Fabric softener", "Dye powder"],
+      "a": 1
+    },
+    {
+      "q": "A highly flammable household chemical substance that must be stored safely away from children, used for refueling kitchen pressure stoves is ________.",
+      "o": ["Vegetable oil", "Kerosene", "Liquid water", "Vinegar solution", "Liquid detergent"],
+      "a": 1
+    },
+    {
+      "q": "The post-laundry equipment powered by electricity or charcoal heat used to smoothen wrinkles out of dry, rumpled clothing materials is a ________.",
+      "o": ["Washing machine", "Smoothing iron", "Drying rack", "Tailor's board", "Steamer unit"],
+      "a": 1
+    },
+    {
+      "q": "A simple first-aid measure that can be applied immediately to soothe a minor kitchen burn skin injury before medical attention arrives is to ________.",
+      "o": ["Apply thick hot grease over the wound", "Pour cold running water over the affected burn spot gently", "Rub intense pepper powders on the skin blister", "Pierce the fluid skin blister with a sharp dirty needle", "Cover the burn spot with tight adhesive tape packs"],
+      "a": 1
+    }
+  ]
+}
