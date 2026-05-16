@@ -1,0 +1,304 @@
+{
+  "Basic Science & Tech": [
+    {
+      "q": "Which of the following safety signs indicates a mandatory action that must be taken in the workshop?",
+      "o": ["Red triangle", "Blue circle", "Green rectangle", "Yellow diamond", "Red circle with a slash"],
+      "a": 1
+    },
+    {
+      "q": "The process of giving immediate care and support to an injured person before professional medical help arrives is ________.",
+      "o": ["Rescue operation", "First aid", "Safety drill", "Medical checkup", "Accident report"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a major cause of workshop accidents?",
+      "o": ["Using sharp hand tools", "Wearing safety boots", "Operating machinery without permission", "Keeping the floor dry", "Following safety guidelines"],
+      "a": 2
+    },
+    {
+      "q": "Wood obtained from coniferous trees that possess needle-like leaves is generally classified as ________.",
+      "o": ["Hardwood", "Softwood", "Veneer", "Plywood", "Plank"],
+      "a": 1
+    },
+    {
+      "q": "The process of reducing the moisture content of timber to make it suitable for engineering construction is called ________.",
+      "o": ["Felling", "Conversion", "Seasoning", "Preservation", "Barking"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following defects in timber is caused by natural growth forces rather than poor seasoning?",
+      "o": ["Bow", "Cup", "Twist", "Knot", "Check"],
+      "a": 3
+    },
+    {
+      "q": "Metals that do not contain any iron elements in their composition are known as ________.",
+      "o": ["Ferrous metals", "Alloys", "Non-ferrous metals", "Pure metals", "Heavy metals"],
+      "a": 2
+    },
+    {
+      "q": "An alloy of copper and zinc fused together to create a durable workshop material is called ________.",
+      "o": ["Bronze", "Steel", "Duralumin", "Brass", "Solder"],
+      "a": 3
+    },
+    {
+      "q": "The property of a metal that allows it to be hammered or rolled into thin sheets without breaking is ________.",
+      "o": ["Ductility", "Malleability", "Elasticity", "Brittleness", "Hardness"],
+      "a": 1
+    },
+    {
+      "q": "Plastics that can be softened by heating and remolded into new shapes repeatedly are classified as ________.",
+      "o": ["Thermosetting plastics", "Thermoplastics", "Elastomers", "Polymers", "Synthetic rubbers"],
+      "a": 1
+    },
+    {
+      "q": "The chemical process of heating raw rubber with sulfur to improve its strength and elasticity is called ________.",
+      "o": ["Polymerization", "Vulcanization", "Seasoning", "Smelting", "Refining"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following drawing instruments is specifically used for drawing horizontal straight lines?",
+      "o": ["Set square", "T-square", "Protractor", "Pair of compasses", "Divider"],
+      "a": 1
+    },
+    {
+      "q": "A set square combination can be utilized by a draftsman to draw angles at intervals of ________ degrees.",
+      "o": ["10", "15", "20", "25", "50"],
+      "a": 1
+    },
+    {
+      "q": "The type of line used in technical drawing to show hidden details or outlines of an object is the ________.",
+      "o": ["Thin continuous line", "Thick continuous line", "Thin short dashes line", "Long chain line", "Continuous wavy line"],
+      "a": 2
+    },
+    {
+      "q": "An angle that measures exactly more than 90 degrees but less than 180 degrees is classified as a/an ________ angle.",
+      "o": ["Acute", "Right", "Obtuse", "Reflex", "Straight"],
+      "a": 2
+    },
+    {
+      "q": "A triangle that has all three of its sides unequal in length profile is called a ________ triangle.",
+      "o": ["Equilateral", "Isosceles", "Scalene", "Right-angled", "Acute-angled"],
+      "a": 2
+    },
+    {
+      "q": "A polygon with exactly six straight structural boundary lines is known as a ________.",
+      "o": ["Pentagon", "Hexagon", "Heptagon", "Octagon", "Decagon"],
+      "a": 1
+    },
+    {
+      "q": "A straight line drawn from the center of a circle to touch any point on its outer circumference is the ________.",
+      "o": ["Diameter", "Radius", "Chord", "Tangent", "Segment"],
+      "a": 1
+    },
+    {
+      "q": "In orthographic projection, the view obtained when looking directly down at the object from above is the ________.",
+      "o": ["Front elevation", "End elevation", "Plan", "Isometric view", "Oblique view"],
+      "a": 2
+    },
+    {
+      "q": "The angle of projection where the object view is positioned between the observer and the plane of projection is ________.",
+      "o": ["First angle projection", "Second angle projection", "Third angle projection", "Fourth angle projection", "Oblique projection"],
+      "a": 2
+    },
+    {
+      "q": "Which type of drawing view showcases an object in a three-dimensional layout with one face parallel to the drawing plane?",
+      "o": ["Isometric drawing", "Oblique drawing", "Perspective drawing", "Orthographic drawing", "Sectional drawing"],
+      "a": 1
+    },
+    {
+      "q": "The standard metric drawing sheet designated as 'A4' measures exactly ________ mm.",
+      "o": ["420 x 594", "297 x 420", "210 x 297", "148 x 210", "594 x 841"],
+      "a": 2
+    },
+    {
+      "q": "Which woodcarving tool is specifically designed for cutting mortise joints or deep structural holes in timber?",
+      "o": ["Jack plane", "Mortise chisel", "Rip saw", "Crosscut saw", "Spoke shave"],
+      "a": 1
+    },
+    {
+      "q": "The hand tool used to smooth and flatten the surface of a wooden board during processing is the ________.",
+      "o": ["Scraper", "Jack plane", "Rasp file", "Chisel", "Mallet"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following saw types is optimized for cutting intricate curves in thin plywood templates?",
+      "o": ["Rip saw", "Tenon saw", "Coping saw", "Panel saw", "Hand saw"],
+      "a": 2
+    },
+    {
+      "q": "The workshop driving tool used to hit the wooden handle of a chisel safely without causing cracks is a ________.",
+      "o": ["Claw hammer", "Ball-pein hammer", "Mallet", "Sledge hammer", "Screwdriver"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following metalworking tools is used for marking circular lines on sheet metals?",
+      "o": ["Scriber", "Center punch", "Dividers", "Odd-leg calipers", "Try-square"],
+      "a": 2
+    },
+    {
+      "q": "The hand tool used to cut metal rods, bars, and sheets in the workshop is a ________.",
+      "o": ["Tenon saw", "Hacksaw", "Coping saw", "Fret saw", "Crosscut saw"],
+      "a": 1
+    },
+    {
+      "q": "Which tool is applied to verify if a wooden surface is perfectly square or at a right angle (90°) context?",
+      "o": ["Steel rule", "Try-square", "Sliding bevel", "Spirit level", "Micrometer"],
+      "a": 1
+    },
+    {
+      "q": "The operational process of making a clean hole in a metal plate using a drilling machine is ________.",
+      "o": ["Boring", "Drilling", "Reaming", "Tapping", "Countersinking"],
+      "a": 1
+    },
+    {
+      "q": "Which component of a building structure forms the base barrier constructed below ground level to distribute weight evenly?",
+      "o": ["Floor", "Wall", "Lintel", "Foundation", "Roof"],
+      "a": 3
+    },
+    {
+      "q": "The horizontal structural concrete beam cast across window and door openings to support walls above is a ________.",
+      "o": ["Pillar", "Lintel", "Foundation footing", "Rafter", "Slab"],
+      "a": 1
+    },
+    {
+      "q": "A mixture of cement, sand, gravel, and water combined together forms a durable building matrix called ________.",
+      "o": ["Mortar", "Concrete", "Mud paste", "Plaster", "Grout"],
+      "a": 1
+    },
+    {
+      "q": "Which type of drive system transmits power between two parallel shafts separated by a considerable distance using pulleys?",
+      "o": ["Gear drive", "Belt drive", "Chain drive", "Clutch drive", "Coupling drive"],
+      "a": 1
+    },
+    {
+      "q": "To prevent a belt drive from slipping under a heavy load, workshop technicians apply ________ to the belt interface.",
+      "o": ["Engine oil", "Grease", "Belt dressing or resin", "Water", "Brake fluid"],
+      "a": 2
+    },
+    {
+      "q": "When two gears mesh directly together, the driven gear always rotates in a direction ________ to the driving gear.",
+      "o": ["Similar", "Opposite", "Parallel", "Vertical", "Perpendicular"],
+      "a": 1
+    },
+    {
+      "q": "Which gear configuration is specifically applied to convert rotational motion into linear motion layouts?",
+      "o": ["Spur gear", "Bevel gear", "Worm gear", "Rack and pinion", "Helical gear"],
+      "a": 3
+    },
+    {
+      "q": "The mechanical component used to connect two rotating shafts together to transmit power safely is a ________.",
+      "o": ["Clutch", "Brake", "Coupling", "Pulley", "Sprocket"],
+      "a": 2
+    },
+    {
+      "q": "Which mechanism is used in motor vehicles to temporarily disconnect engine power from the transmission system during gear changes?",
+      "o": ["Brake", "Clutch", "Gearbox", "Differential", "Axle"],
+      "a": 1
+    },
+    {
+      "q": "The primary function of a mechanical brake assembly on any moving vehicle system is to ________.",
+      "o": ["Increase vehicle velocity", "Change drive direction", "Slow down or stop movement", "Smooth out vibrations", "Engage the engine transmission"],
+      "a": 2
+    },
+    {
+      "q": "Which type of maintenance culture involves repairing a machine tool only after it fails completely?",
+      "o": ["Preventive maintenance", "Predictive maintenance", "Corrective (Breakdown) maintenance", "Routine maintenance", "Scheduled maintenance"],
+      "a": 2
+    },
+    {
+      "q": "Applying grease or lubricants to the moving parts of workshop machines primarily reduces ________.",
+      "o": ["Speed", "Power output", "Friction and wear", "Fuel consumption", "Operating pressure"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is a vital non-renewable energy source resource utilized globally?",
+      "o": ["Solar energy", "Biomass energy", "Petroleum (Crude oil)", "Wind energy", "Hydroelectric power"],
+      "a": 2
+    },
+    {
+      "q": "An electronic component that allows electric current to flow through it in only one direction is a/an ________.",
+      "o": ["Resistor", "Capacitor", "Diode", "Inductor", "Transformer"],
+      "a": 2
+    },
+    {
+      "q": "The electrical instrument used to measure the rate of electric current flow in a circuit loop is the ________.",
+      "o": ["Voltmeter", "Ammeter", "Ohmmeter", "Wattmeter", "Galvanometer"],
+      "a": 1
+    },
+    {
+      "q": "Which electronic component is primarily used to store electric charges within an operating circuit unit?",
+      "o": ["Transistor", "Resistor", "Capacitor", "Switch", "Fuse"],
+      "a": 2
+    },
+    {
+      "q": "The process of joining two metal pipes or wires together using a molten filler metal at low temperature is ________.",
+      "o": ["Welding", "Riveting", "Soldering", "Gluing", "Bolting"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following materials acts as an excellent electrical insulator?",
+      "o": ["Copper wire", "Aluminum sheet", "Rubber casing", "Iron rod", "Carbon block"],
+      "a": 2
+    },
+    {
+      "q": "The system that utilizes compressed air to transmit power and control mechanisms is called a ________ system.",
+      "o": ["Hydraulic", "Pneumatic", "Mechanical", "Electrical", "Thermal"],
+      "a": 1
+    },
+    {
+      "q": "A hydraulic system relies on the transmission of pressure through a/an ________ medium to execute mechanical work.",
+      "o": ["Compressed air", "Incompressible liquid (Oil/Water)", "Solid steel rod", "Magnetic field", "Gaseous vapor"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following plumbing fittings is used to close or terminate the dead end of a pipeline safely?",
+      "o": ["Elbow", "Tee", "Coupling", "Plug or Cap", "Union"],
+      "a": 3
+    },
+    {
+      "q": "The tool used by plumbers to cut internal or external threads on a metal pipe frame is a ________.",
+      "o": ["Pipe wrench", "Pipe cutter", "Stock and die", "Hacksaw", "Reamer"],
+      "a": 2
+    },
+    {
+      "q": "A simple device made of a coiled metal line that returns to its original shape after being compressed or stretched is a ________.",
+      "o": ["Lever", "Spring", "Gear", "Pulley", "Shaft"],
+      "a": 1
+    },
+    {
+      "q": "Which machine tool is widely referred to as the 'mother of all machine shops' because it shapes materials by rotating them against a cutter?",
+      "o": ["Drilling machine", "Shaping machine", "Lathe machine", "Milling machine", "Grinding machine"],
+      "a": 2
+    },
+    {
+      "q": "The primary function of walls in a building construction project includes all the following EXCEPT ________.",
+      "o": ["Enclosing the internal space", "Supporting the weight of the roof structure", "Dividing rooms", "Providing safety", "Serving as foundation footings"],
+      "a": 4
+    },
+    {
+      "q": "Which type of drawing view provides a split-open look at an internal layout as if the object was cut through with a saw blade?",
+      "o": ["Isometric view", "Sectional view", "Oblique view", "Orthographic view", "Perspective view"],
+      "a": 1
+    },
+    {
+      "q": "The property of a material that enables it to stretch under structural strain and return completely to its original dimensions when released is ________.",
+      "o": ["Plasticity", "Elasticity", "Brittleness", "Hardness", "Ductility"],
+      "a": 1
+    },
+    {
+      "q": "Which structural member forms the inclined timber frame pieces that support the roofing sheets directly?",
+      "o": ["Purlins", "Rafters", "Wall plates", "Tie beams", "Ridge caps"],
+      "a": 1
+    },
+    {
+      "q": "The system of transport that moves heavy quantities of fluid assets or gas across long geographical expanses is ________ transport.",
+      "o": ["Rail", "Road", "Pipeline", "Air", "Water"],
+      "a": 2
+    },
+    {
+      "q": "An protective item that must be worn to safeguard the eyes when executing electric arc welding operations is ________.",
+      "o": ["Clear reading glasses", "Welding shield or helmet", "Dust mask", "Leather gloves", "Ear muffs"],
+      "a": 1
+    }
+  ]
+}
