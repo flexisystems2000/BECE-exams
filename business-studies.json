@@ -1,0 +1,304 @@
+{
+  "Business Studies": [
+    {
+      "q": "Any structural room, building, or location where the clerical and administrative activities of an organization are handled is a/an ________.",
+      "o": ["Factory floor", "Office", "Warehouse", "Market stall", "Workshop"],
+      "a": 1
+    },
+    {
+      "q": "Which type of office structure consists of a large, single open floor room where many workers perform their duties together without solid walls?",
+      "o": ["Closed office", "Open office", "Mobile office", "Virtual office", "Private suite"],
+      "a": 1
+    },
+    {
+      "q": "An advantage of a closed or traditional cellular office layout over an open office layout is that it provides ________.",
+      "o": ["Maximum visual supervision of all workers", "Greater privacy and less noise distraction", "Lowest structural construction cost", "Easy sharing of simple office machines", "Unrestricted conversation loops"],
+      "a": 1
+    },
+    {
+      "q": "The first point of physical contact for visitors entering a business organization, where inquiries are handled, is the ________.",
+      "o": ["Accounts section", "Reception desk", "Boardroom", "Registry department", "Mail room"],
+      "a": 1
+    },
+    {
+      "q": "An official book kept by a receptionist to record the personal names, purpose of visit, and arrival times of guests is the ________.",
+      "o": ["Stock book", "Visitor's book", "Cash book", "Attendance register", "Assets ledger"],
+      "a": 1
+    },
+    {
+      "q": "Which department in a large commercial organization is primarily responsible for recruiting, training, and managing staff welfare?",
+      "o": ["Production department", "Human Resources (Personnel) department", "Marketing department", "Purchasing department", "Accounts section"],
+      "a": 1
+    },
+    {
+      "q": "The specific office department tasked with preparing invoices, processing wages, and recording financial cash flows is the ________.",
+      "o": ["Sales section", "Finance and Accounts department", "Legal department", "Public relations unit", "Transport department"],
+      "a": 1
+    },
+    {
+      "q": "A specialized book used to record small, everyday office cash expenses like transport fares, postage stamps, and cleaning soaps is the ________.",
+      "o": ["Sales journal", "Petty cash book", "General ledger", "Purchase day book", "Stock sheet"],
+      "a": 1
+    },
+    {
+      "q": "The systematic process of preserving essential office letters, contracts, and documents safely for easy retrieval when needed is ________.",
+      "o": ["Mailing", "Filing", "Duplicating", "Indexing", "Scanning"],
+      "a": 1
+    },
+    {
+      "q": "Which method of filing involves arranging document folders into cabinets sequentially from letter A to letter Z based on names?",
+      "o": ["Numerical filing", "Alphabetical filing", "Geographical filing", "Subject filing", "Chronological filing"],
+      "a": 1
+    },
+    {
+      "q": "An office machine designed to produce exact replica copies of a paper document using optical scanning and thermal toner heat is a ________.",
+      "o": ["Perforator", "Photocopier", "Shredder", "Guillotine", "Laminator"],
+      "a": 1
+    },
+    {
+      "q": "Which office equipment is used to slice highly confidential or discarded paper documents into tiny unreadable shreds for security?",
+      "o": ["Trimming board", "Paper shredder", "Stapling machine", "Typewriter", "Adding machine"],
+      "a": 1
+    },
+    {
+      "q": "The direct economic process of buying, selling, and distributing goods and services to fulfill human wants is defined as ________.",
+      "o": ["Sociology", "Commerce", "Industry", "Agriculture", "Politics"],
+      "a": 1
+    },
+    {
+      "q": "The primary branch of commerce that deals exclusively with the direct buying and selling of goods and services is ________.",
+      "o": ["Insurance", "Trade", "Banking", "Advertising", "Warehousing"],
+      "a": 1
+    },
+    {
+      "q": "A type of trade that involves buying and selling commodities strictly within the national boundaries of a single country is ________.",
+      "o": ["Foreign trade", "Home (Domestic) trade", "International trade", "Entrepot trade", "Bilateral trade"],
+      "a": 1
+    },
+    {
+      "q": "A trader who purchases massive quantities of products directly from manufacturers and sells them in smaller bulk quantities to retailers is a/an ________.",
+      "o": ["Consumer", "Wholesaler", "Broker", "Hawker", "Agent"],
+      "a": 1
+    },
+    {
+      "q": "International or foreign trade involves the exchange of goods and services between ________.",
+      "o": ["A local wholesaler and a local retailer", "Two or more distinct sovereign countries", "Different states within the same nation", "A manufacturer and a local consumer", "Two corporate departments"],
+      "a": 1
+    },
+    {
+      "q": "When a nation buys or brings in commercial commodities from foreign markets into its own domestic markets, it is practicing ________.",
+      "o": ["Exporting", "Importing", "Entrepot trade", "Retail distribution", "Barter swap"],
+      "a": 1
+    },
+    {
+      "q": "Commercial activities that provide essential support frameworks to make trade smooth, efficient, and reliable are termed ________.",
+      "o": ["Industrial operations", "Aids to trade", "Production chains", "Clerical duties", "Vocational tracks"],
+      "a": 1
+    },
+    {
+      "q": "Which aid to trade is specifically concerned with providing financial loans, safeguarding monetary deposits, and clearing business checks?",
+      "o": ["Insurance", "Banking", "Transport", "Advertising", "Warehousing"],
+      "a": 1
+    },
+    {
+      "q": "The commercial aid to trade that provides financial compensation and peace of mind against unforeseen business risks, fires, or losses is ________.",
+      "o": ["Communication", "Insurance", "Advertising", "Tourism", "Transportation"],
+      "a": 1
+    },
+    {
+      "q": "Which aid to trade bridges the geographical gap between the production factory points and the final location of consumers?",
+      "o": ["Warehousing", "Transportation", "Banking", "Market research", "Insurance"],
+      "a": 1
+    },
+    {
+      "q": "The public creation of awareness to inform potential consumers about the existence, qualities, and prices of a new product is ________.",
+      "o": ["Filing", "Advertising", "Warehousing", "Bookkeeping", "Transportation"],
+      "a": 1
+    },
+    {
+      "q": "The aid to trade that involves storing surplus manufactured goods inside a secure building until they are actively demanded by the market is ________.",
+      "o": ["Communication", "Warehousing", "Insurance", "Advertising", "Banking"],
+      "a": 1
+    },
+    {
+      "q": "The legal form of business ownership that is set up, funded, managed, and fully controlled by a single individual who bears all risks is a ________.",
+      "o": ["Partnership", "Sole proprietorship", "Public limited company", "Cooperative society", "State corporation"],
+      "a": 1
+    },
+    {
+      "q": "A minimum of ________ and a maximum of twenty people can legally form a standard business partnership configuration.",
+      "o": ["Two", "Five", "Ten", "Fifty", "One hundred"],
+      "a": 0
+    },
+    {
+      "q": "The systemic process of identifying, recording, and summarizing clear financial transactions of a business organization in a set of books is ________.",
+      "o": ["Filing", "Bookkeeping", "Advertising", "Public relations", "Auditing"],
+      "a": 1
+    },
+    {
+      "q": "A fundamental rule of the double-entry bookkeeping system states that for every financial debit entry made, there must be a corresponding ________.",
+      "o": ["Asset addition", "Credit entry", "Cash receipt", "Expense voucher", "Ledger balanced"],
+      "a": 1
+    },
+    {
+      "q": "An official commercial document sent by a seller to a buyer itemizing the quantities, descriptions, and total prices of goods supplied on credit is a/an ________.",
+      "o": ["Receipt", "Invoice", "Debit note", "Credit note", "Purchase order"],
+      "a": 1
+    },
+    {
+      "q": "Which source document is issued as an acknowledgment or proof that cash money has been paid and received successfully in a transaction?",
+      "o": ["Invoice", "Receipt", "Delivery note", "Purchase requisition", "Statement of account"],
+      "a": 1
+    },
+    {
+      "q": "A document issued by a seller to correct an overcharge mistake on an original invoice, thereby reducing the customer's debt is a/an ________.",
+      "o": ["Debit note", "Credit note", "Invoice block", "Cash receipt", "Cheque leaf"],
+      "a": 1
+    },
+    {
+      "q": "The Book of Original Entry used to record all everyday transactions involving the immediate receipt or payment of cash or bank check resources is the ________.",
+      "o": ["Sales journal", "Cash book", "Purchases journal", "General journal", "Petty cash voucher"],
+      "a": 1
+    },
+    {
+      "q": "The column layout structure of a standard Two-Column Cash Book tracks ________.",
+      "o": ["Cash items and credit items", "Cash transactions and bank transactions", "Discount allowed and discount received", "Capital accounts and drawing accounts", "Assets and liabilities"],
+      "a": 1
+    },
+    {
+      "q": "A specialized book of original entry used strictly to record all credit sales of merchandise to various corporate customers is the ________.",
+      "o": ["Sales journal (Sales Day Book)", "Purchases day book", "Cash account", "Returns inward journal", "General journal"],
+      "a": 0
+    },
+    {
+      "q": "The permanent and final book of accounts containing all individual accounts where double-entry postings are systematically grouped is the ________.",
+      "o": ["Invoice folder", "Ledger", "Journal book", "Source paper", "Daybook list"],
+      "a": 1
+    },
+    {
+      "q": "The left-hand side of a standard 'T-shaped' ledger account format represents the ________ side.",
+      "o": ["Credit", "Debit", "Balance", "Asset", "Liability"],
+      "a": 1
+    },
+    {
+      "q": "An account that tracks tangible, physical properties owned by a business, such as buildings, motor vehicles, and machinery packs, is a/an ________.",
+      "o": ["Nominal account", "Real account", "Personal account", "Expense account", "Income ledger"],
+      "a": 1
+    },
+    {
+      "q": "Accounts opened to track intangible financial things like rent expenses, electricity bills, and salaries are classified as ________.",
+      "o": ["Real accounts", "Nominal accounts", "Personal accounts", "Asset accounts", "Capital balances"],
+      "a": 1
+    },
+    {
+      "q": "A statement or list of all ledger account balances extracted at a specific date, used to verify the mathematical accuracy of double-entry postings is the ________.",
+      "o": ["Balance sheet", "Trial balance", "Trading account", "Profit and loss account", "Cash flow statement"],
+      "a": 1
+    },
+    {
+      "q": "If an office machine is purchased for cash, which double-entry ledger balancing posting should be executed correctly?",
+      "o": ["Debit cash account; Credit machine account", "Debit machine account; Credit cash account", "Debit capital account; Credit asset account", "Credit bank account; Debit purchases account", "Debit machinery account; Credit vendor account"],
+      "a": 1
+    },
+    {
+      "q": "The electronic data machine capable of accepting raw input data, processing it logically, and producing meaningful output information is a/an ________.",
+      "o": ["Typewriter", "Computer", "Adding machine", "Calculus tool", "Telegraph station"],
+      "a": 1
+    },
+    {
+      "q": "The physical, touchable components of a computer setup like the monitor screen, system unit chassis, and motherboard circuits are ________.",
+      "o": ["Softwares", "Hardwares", "Firmwares", "Malwares", "Data packets"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following computer hardware units is classified strictly as an input device module?",
+      "o": ["Cathode monitor", "Keyboard", "Laser printer", "Audio speaker", "Projector screen"],
+      "a": 1
+    },
+    {
+      "q": "The core internal microchip of a computer that handles all data processing calculations and execution logic is the ________.",
+      "o": ["Random Access Memory (RAM)", "Central Processing Unit (CPU)", "Hard Disk Drive (HDD)", "Power Supply Unit (PSU)", "Graphics Processing Unit (GPU)"],
+      "a": 1
+    },
+    {
+      "q": "The primary arrangement layout of letters and keys on a standard professional computer keyboard is the ________ configuration.",
+      "o": ["AZERTY", "QWERTY", "DVORAK", "MALTRON", "ABCDEF"],
+      "a": 1
+    },
+    {
+      "q": "The central row of keys on a standard keyboard where a typist rests their fingers dynamically before beginning typing strokes is the ________ row.",
+      "o": ["Top row", "Home row", "Bottom row", "Numeric row", "Function row"],
+      "a": 1
+    },
+    {
+      "q": "Which specific keys represent the primary home row resting station for the left hand fingers on a keyboard?",
+      "o": ["Q W E R", "A S D F", "J K L ;", "Z X C V", "Y U I O"],
+      "a": 1
+    },
+    {
+      "q": "Which keys represent the primary home row resting station for the right hand fingers on a standard keyboard layout?",
+      "o": ["A S D F", "J K L ;", "U I O P", "M N B V", "G H J K"],
+      "a": 1
+    },
+    {
+      "q": "The largest button on a computer keyboard, pressed down with either thumb finger to insert blanks between text characters is the ________.",
+      "o": ["Enter key", "Spacebar", "Shift key", "Backspace key", "Caps lock key"],
+      "a": 1
+    },
+    {
+      "q": "The specialized keyboard button pressed concurrently alongside an alphabet key to print its capital letter variant is the ________.",
+      "o": ["Alt key", "Shift key", "Tab key", "Control key", "Escape key"],
+      "a": 1
+    },
+    {
+      "q": "The keyboard operating button pressed down to lock all typed alphabet characters permanently into capital letters is the ________.",
+      "o": ["Spacebar", "Caps Lock key", "Tab key", "Num lock", "Delete key"],
+      "a": 1
+    },
+    {
+      "q": "The process of typing text without looking at the physical keyboard buttons, depending entirely on muscle memory is ________.",
+      "o": ["Sight typing", "Touch typing", "Speed copying", "Blind scanning", "Drafting stroke"],
+      "a": 1
+    },
+    {
+      "q": "The correct body sitting posture for an office computer operator or typist requires them to sit with a ________.",
+      "o": ["Severely slouched spine leaning forward", "Straight back and feet resting flat on the floor", "Head tilted heavily backward towards walls", "One leg crossed completely over desk spaces", "Arms stretched horizontally straight up"],
+      "a": 1
+    },
+    {
+      "q": "The unit of measuring text typing speed or velocity parameters across an exam track is ________.",
+      "o": ["Lines Per Minute (LPM)", "Words Per Minute (WPM)", "Bits Per Second (BPS)", "Pages Per Hour (PPH)", "Strokes Per Second (SPS)"],
+      "a": 1
+    },
+    {
+      "q": "An electronic software program designed to create, edit, format, and print structured paper documents is a/an ________.",
+      "o": ["Spreadsheet compiler", "Word processor", "Database manager", "Operating system", "Antivirus software"],
+      "a": 1
+    },
+    {
+      "q": "The collective set of rules, behaviors, and moral principles that govern how individuals interact and conduct business transactions is business ________.",
+      "o": ["Politics", "Ethics", "Profits", "Tariffs", "Logistics"],
+      "a": 1
+    },
+    {
+      "q": "A negative behavior pattern that completely violates corporate business ethics and destroys consumer brand trust is ________.",
+      "o": ["Honesty in scale measurements", "Deceptive advertising and product adulteration", "Prompt payment of staff salaries", "Maintaining product hygiene parameters", "Fair pricing across open markets"],
+      "a": 1
+    },
+    {
+      "q": "An individual who identifies a unique market opportunity, brings in financial resources, and takes risks to establish a new business venture is a/an ________.",
+      "o": ["Clerical officer", "Entrepreneur", "Bursar agent", "Stock keeper", "Auditor"],
+      "a": 1
+    },
+    {
+      "q": "An official check that is drawn across its front face with two parallel vertical lines can only be paid directly into a ________.",
+      "o": ["Cash counter spot", "Bank account", "Post office drawer", "Registry cabinet", "Insurance safe"],
+      "a": 1
+    },
+    {
+      "q": "The specific internal document issued by an inventory storekeeper to request the purchase department to restock missing goods is a/an ________.",
+      "o": ["Invoice sheet", "Purchase requisition form", "Receipt voucher", "Delivery docket", "Credit statement"],
+      "a": 1
+    }
+  ]
+}
