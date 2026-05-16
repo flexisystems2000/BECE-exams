@@ -1,0 +1,304 @@
+{
+  "Computer Studies": [
+    {
+      "q": "The early mechanical counting device consisting of a wooden frame with parallel rods and sliding beads, invented by the Chinese, is the ________.",
+      "o": ["Napier's Bones", "Abacus", "Pascaline", "Analytical Engine", "Slide Rule"],
+      "a": 1
+    },
+    {
+      "q": "Which historical mathematical device, consisting of rods carved from bones, was invented by John Napier to perform multiplication and division calculations?",
+      "o": ["Abacus", "Pascaline", "Napier's Bones", "Difference Engine", "Leibniz Calculator"],
+      "a": 2
+    },
+    {
+      "q": "The first mechanical adding machine capable of performing addition and subtraction directly using a complex system of interlocking gears and wheels was invented by Blaise Pascal and named the ________.",
+      "o": ["Analytical Engine", "Pascaline", "Step Reckoner", "Difference Engine", "ENIAC"],
+      "a": 1
+    },
+    {
+      "q": "Who is globally recognized as the 'Father of the Modern Computer' due to his design blueprints for the Difference and Analytical Engines?",
+      "o": ["Blaise Pascal", "Charles Babbage", "John von Neumann", "Alan Turing", "Herman Hollerith"],
+      "a": 1
+    },
+    {
+      "q": "The prominent electronic components that served as the primary switching circuits inside First-Generation computers like the ENIAC were ________.",
+      "o": ["Transistors", "Vacuum tubes", "Integrated Circuits (ICs)", "Microprocessors", "Biochips"],
+      "a": 1
+    },
+    {
+      "q": "Second-Generation computers replaced bulky vacuum tubes with a much smaller, faster, and more energy-efficient component called a/an ________.",
+      "o": ["Resistor", "Capacitor", "Transistor", "Integrated Circuit", "Silicon chip"],
+      "a": 2
+    },
+    {
+      "q": "The defining electronic breakthrough that characterized Third-Generation computing frameworks from 1964 to 1971 was the ________.",
+      "o": ["Vacuum tube cylinder", "Transistor layout", "Integrated Circuit (IC)", "Microprocessor core", "Artificial Intelligence loop"],
+      "a": 2
+    },
+    {
+      "q": "Fourth-Generation computers, which are widely used today, utilize which electronic component to house millions of transistors on a single silicon chip?",
+      "o": ["Vacuum tubes", "Integrated Circuits (ICs)", "Microprocessors (VLSI/ULSI)", "Magnetic core rings", "Thermionic valves"],
+      "a": 2
+    },
+    {
+      "q": "Fifth-Generation computing research and development frameworks focus primarily on integrating which technology into machines?",
+      "o": ["Vacuum tubes", "Transistors", "Integrated Circuits", "Artificial Intelligence (AI)", "Magnetic drums"],
+      "a": 3
+    },
+    {
+      "q": "A type of computer designed specifically to process continuous physical measurements, such as temperature, pressure, and voltage fluctuations, is a/an ________.",
+      "o": ["Digital computer", "Analog computer", "Hybrid computer", "Mainframe computer", "Microcomputer"],
+      "a": 1
+    },
+    {
+      "q": "Computers that process information strictly in discrete, binary forms using digits 0 and 1 are classified as ________.",
+      "o": ["Analog computers", "Digital computers", "Hybrid systems", "Mechanical counters", "Slide arrays"],
+      "a": 1
+    },
+    {
+      "q": "The largest, most powerful, and exceptionally expensive class of computers used by global weather agencies and nuclear research centers to process complex calculations is a/an ________.",
+      "o": ["Microcomputer", "Minicomputer", "Mainframe computer", "Supercomputer", "Workstation"],
+      "a": 3
+    },
+    {
+      "q": "An example of a microcomputer designed to be compact enough to fit flat on top of a standard office desk space is a ________.",
+      "o": ["Supercomputer core", "Mainframe node", "Desktop personal computer (PC)", "Server rack", "Minicomputer unit"],
+      "a": 2
+    },
+    {
+      "q": "Any physical part of a computer system that you can touch, see, and handle with your hands is collectively termed computer ________.",
+      "o": ["Software", "Hardware", "Firmware", "Malware", "Liveware"],
+      "a": 1
+    },
+    {
+      "q": "The electronic data processing system relies on an operational loop. What does the acronym 'GIGO' stand for in computing?",
+      "o": ["Garbage In, Garbage Out", "General Input, General Output", "Global Interface, Global Operation", "Gateway In, Gateway Out", "Good Input, Good Output"],
+      "a": 0
+    },
+    {
+      "q": "Which of the following computer hardware devices functions strictly as an input module used to feed raw text alphanumeric data into the system unit?",
+      "o": ["Cathode monitor", "Laser printer", "Computer keyboard", "Audio speaker", "Multimedia projector"],
+      "a": 2
+    },
+    {
+      "q": "A handheld pointing device equipped with a tracking sensor and buttons, used to navigate and click items on a graphical interface, is the ________.",
+      "o": ["Joystick", "Mouse", "Keyboard", "Scanner", "Microphone"],
+      "a": 1
+    },
+    {
+      "q": "Which computer input device acts like an electronic photocopier by converting printed physical paper documents or photos into digital image files?",
+      "o": ["Printer", "Plotter", "Scanner", "Monitor", "Speaker"],
+      "a": 2
+    },
+    {
+      "q": "An input device commonly used by video gamers to steer aircraft or control characters inside simulation gaming software layouts is a ________.",
+      "o": ["Trackball", "Light pen", "Joystick", "Barcoder", "Microphone"],
+      "a": 2
+    },
+    {
+      "q": "The primary computer output hardware device designed to display processing results visually as soft-copy images or text screens is the ________.",
+      "o": ["Keyboard", "Printer", "Monitor (Visual Display Unit)", "Plotter module", "Scanner track"],
+      "a": 2
+    },
+    {
+      "q": "An output hardware device used to translate digital files from a computer into hard-copy paper prints using ink or toner powders is a ________.",
+      "o": ["Scanner", "Printer", "Digitizer", "Mouse", "Microphone"],
+      "a": 1
+    },
+    {
+      "q": "Which type of heavy-duty printer is specifically engineered to print large-scale architectural blueprints, engineering designs, and massive maps?",
+      "o": ["Inkjet printer", "Dot-matrix printer", "Laser printer", "Plotter", "Thermal printer"],
+      "a": 3
+    },
+    {
+      "q": "The main electronic circuit board inside the computer system unit housing the CPU, RAM sockets, and expansion slots is the ________.",
+      "o": ["Hard drive plate", "Motherboard (System board)", "Power supply unit", "Chassis box", "Sound card module"],
+      "a": 1
+    },
+    {
+      "q": "The central processing unit (CPU) is often described structurally as the ________ of the computer system.",
+      "o": ["Heart", "Brain", "Eyes", "Spine", "Hands"],
+      "a": 1
+    },
+    {
+      "q": "Which specific component of the Central Processing Unit (CPU) executes all mathematical calculations and logical comparisons?",
+      "o": ["Control Unit (CU)", "Arithmetic and Logic Unit (ALU)", "Main Memory Unit (MMU)", "Register file", "Cache module"],
+      "a": 1
+    },
+    {
+      "q": "The internal component of the Central Processing Unit (CPU) responsible for directing and coordinating data signals across all hardware units is the ________.",
+      "o": ["Arithmetic Unit", "Control Unit", "Hard drive plate", "RAM slot", "BIOS chip"],
+      "a": 1
+    },
+    {
+      "q": "The volatile internal primary memory of a computer that stores active files and programs currently being processed by the CPU is ________.",
+      "o": ["Read Only Memory (ROM)", "Random Access Memory (RAM)", "Hard Disk Drive (HDD)", "Flash Drive", "Compact Disc (CD)"],
+      "a": 1
+    },
+    {
+      "q": "Why is a computer's Random Access Memory (RAM) classified strictly as a volatile storage medium?",
+      "o": ["It cannot hold large alphanumeric text files", "It loses all its stored data instantly when power supply is turned off", "It can only be read from but never written to", "It is built entirely from physical moving glass disks", "It is permanently welded inside the processor chip"],
+      "a": 1
+    },
+    {
+      "q": "The non-volatile primary memory chip containing pre-recorded, permanent startup instructions (BIOS) written by factory manufacturers is ________.",
+      "o": ["Random Access Memory (RAM)", "Read Only Memory (ROM)", "Cache memory", "Virtual memory", "Hard disk partition"],
+      "a": 1
+    },
+    {
+      "q": "The smallest unit of measuring digital data inside a computer system, representing a single binary state of 0 or 1, is a ________.",
+      "o": ["Byte", "Bit", "Nibble", "Kilobyte", "Megabyte"],
+      "a": 1
+    },
+    {
+      "q": "A cluster of exactly ________ consecutive bits forms one single Byte of data storage.",
+      "o": ["Four", "Eight", "Sixteen", "Thirty-two", "Sixty-four"],
+      "a": 1
+    },
+    {
+      "q": "How many individual bits are contained within a single data unit structurally known as a 'Nibble'?",
+      "o": ["2 bits", "4 bits", "8 bits", "16 bits", "24 bits"],
+      "a": 1
+    },
+    {
+      "q": "The primary high-capacity internal magnetic secondary storage device housed inside the system unit to store files permanently is the ________.",
+      "o": ["Floppy diskette", "Hard Disk Drive (HDD)", "RAM module", "ROM chip", "Smart card tray"],
+      "a": 1
+    },
+    {
+      "q": "The collection of electronic instructions, programs, and data configurations that tell computer hardware exactly what to do and how to do it is computer ________.",
+      "o": ["Hardware", "Software", "Firmware", "Liveware", "Bus wire"],
+      "a": 1
+    },
+    {
+      "q": "Computer software is broadly divided into two major functional categories: ________ software and ________ software.",
+      "o": ["Input, Output", "System, Application", "Primary, Secondary", "Hardware, Liveware", "Digital, Analog"],
+      "a": 1
+    },
+    {
+      "q": "The core background system software program that acts as an intermediary layer between hardware circuits and users, managing all files, is the ________.",
+      "o": ["Word Processor", "Operating System (OS)", "Database application", "Web browser module", "Spreadsheet utility"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following computer software items represents a popular and modern desktop graphical operating system platform?",
+      "o": ["Microsoft Word", "Microsoft Windows", "Microsoft Excel", "Microsoft PowerPoint", "Microsoft Access"],
+      "a": 1
+    },
+    {
+      "q": "An example of a specialized utility software program engineered to scan, detect, quarantine, and eliminate malicious viruses from computer storage is a/an ________.",
+      "o": ["Web browser tool", "Antivirus software", "Device driver patch", "Text editor application", "Disk compiler"],
+      "a": 1
+    },
+    {
+      "q": "Software programs created explicitly to help users perform distinct tasks like typing office letters, playing music tracks, or drawing shapes are ________.",
+      "o": ["System softwares", "Application softwares", "Operating frameworks", "Firmware drivers", "Boot scripts"],
+      "a": 1
+    },
+    {
+      "q": "Which application software program is best suited for designing promotional flyers, typing essays, and formatting official letters?",
+      "o": ["Spreadsheet package", "Word Processor (e.g., Microsoft Word)", "Database software", "Media player layout", "Presentation slide builder"],
+      "a": 1
+    },
+    {
+      "q": "An application software package organized in rows and columns, designed primarily to handle complex accounting balances and mathematical charts, is a ________.",
+      "o": ["Word Processor", "Spreadsheet package (e.g., Microsoft Excel)", "Graphics editor application", "Desktop publishing tool", "Database compiler"],
+      "a": 1
+    },
+    {
+      "q": "The entire systematic administrative process of switching on a computer system from a completely powered-off state until it loads up the desktop screen is ________.",
+      "o": ["Shutting down", "Booting", "Logging out", "Restarting", "Hibernating"],
+      "a": 1
+    },
+    {
+      "q": "What specific type of booting occurs when a user powers on a computer that was completely turned off by pressing its physical power button?",
+      "o": ["Warm booting", "Cold booting", "Soft booting", "Hard crashing", "Reboot sequence"],
+      "a": 1
+    },
+    {
+      "q": "A 'Warm Boot' refers to the process of resetting or restarting an active computer system that is already running, which can be triggered using the hotkeys ________.",
+      "o": ["Ctrl + Shift + Esc", "Ctrl + Alt + Delete", "Alt + F4 + Enter", "Windows Key + L", "Ctrl + Alt + Shift"],
+      "a": 1
+    },
+    {
+      "q": "The basic keyboard operation or shortcut combination utilized to safely 'Copy' a highlighted text block or file into memory is ________.",
+      "o": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + Z", "Ctrl + S"],
+      "a": 2
+    },
+    {
+      "q": "Which keyboard shortcut combination is pressed down to paste an originally copied file or text segment into a new location?",
+      "o": ["Ctrl + P", "Ctrl + X", "Ctrl + V", "Ctrl + N", "Ctrl + A"],
+      "a": 2
+    },
+    {
+      "q": "The fundamental keyboard shortcut combination used to save an ongoing file project inside most application software windows is ________.",
+      "o": ["Ctrl + O", "Ctrl + S", "Ctrl + P", "Ctrl + W", "Ctrl + I"],
+      "a": 1
+    },
+    {
+      "q": "A cluster or collection of two or more independent computer machines linked together electronically using cables or wireless channels to share files is a/an ________.",
+      "o": ["Operating array", "Computer network", "Database system", "Software bundle", "Processor grid"],
+      "a": 1
+    },
+    {
+      "q": "Which type of computer network configuration covers a small, localized geographical area like a single office room, house, or school building?",
+      "o": ["Local Area Network (LAN)", "Metropolitan Area Network (MAN)", "Wide Area Network (WAN)", "Global Area Network (GAN)", "Personal Network (PAN)"],
+      "a": 0
+    },
+    {
+      "q": "The vast, public worldwide interconnection of computer networks spanning across continents to share data globally is the ________.",
+      "o": ["Intranet", "Internet", "Local Area Network", "Server room link", "Ethernet channel"],
+      "a": 1
+    },
+    {
+      "q": "An electronic software application program used exclusively to access, open, and navigate web page contents on the World Wide Web is a/an ________.",
+      "o": ["Search engine index", "Web browser (e.g., Google Chrome)", "Operating system engine", "Email client patch", "Word processor view"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following websites serves as a powerful search engine platform designed to hunt down and index public information based on keywords?",
+      "o": ["www.wikipedia.org", "www.google.com", "www.microsoft.com", "www.adobe.com", "www.whatsapp.com"],
+      "a": 1
+    },
+    {
+      "q": "The electronic communication service that allows internet users to compose, send, transmit, and receive digital mail letters over networks instantly is ________.",
+      "o": ["Teletext", "Facsimile (Fax)", "Electronic Mail (E-mail)", "Blogging post", "Broadcasting stream"],
+      "a": 2
+    },
+    {
+      "q": "In a formal email address profile like `student@laseb.gov.ng`, what functional component does the text segment `@` represent?",
+      "o": ["The prefix host tag", "The 'At' symbol separating the username from the domain name", "The extension code locator", "The structural password key", "The encryption verification marker"],
+      "a": 1
+    },
+    {
+      "q": "The malicious, harmful software program intentionally written by cybercriminals to damage files and disrupt computer operations is a computer ________.",
+      "o": ["Utility script", "Virus (Malware)", "Firmware code", "Freeware bundle", "Shareware installer"],
+      "a": 1
+    },
+    {
+      "q": "A fraudulent practice where cybercriminals send deceptive emails mimicking legitimate banks to trick users into revealing secret passwords or PIN details is ________.",
+      "o": ["Spamming", "Phishing", "Hacking", "Snooping", "Cracking"],
+      "a": 1
+    },
+    {
+      "q": "An electronic or software security barrier setup engineered to monitor incoming and outgoing network traffic to protect systems against hackers is a ________.",
+      "o": ["Server farm", "Firewall", "Router node", "Proxy hub", "Switch plate"],
+      "a": 1
+    },
+    {
+      "q": "The technical practice of breaking up a computational task across multiple physical microprocessors working simultaneously to accelerate processing speed is ________.",
+      "o": ["Batch processing", "Parallel processing", "Time sharing", "Multiprogramming", "Sequential access"],
+      "a": 1
+    },
+    {
+      "q": "Any computer hardware layout configuration that can handle user touch inputs natively on its screen surface without keyboards is a ________.",
+      "o": ["Cathode tube display", "Touchscreen panel", "Liquid plasma monitor", "Laser tracker face", "Plotter layout interface"],
+      "a": 1
+    },
+    {
+      "q": "The personal computer components, human operators, and designers who build and command computational workflows are classified as ________.",
+      "o": ["Hardware parts", "Software assets", "Liveware (Peopleware)", "Firmware structures", "Malware links"],
+      "a": 2
+    }
+  ]
+}
