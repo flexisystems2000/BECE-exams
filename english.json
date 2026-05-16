@@ -1,0 +1,304 @@
+{
+  "English Studies": [
+    {
+      "q": "Choose the option that is <b>opposite in meaning</b> to the underlined word: The manager expects the workers to be <u>diligent</u> in their duties.",
+      "o": ["lazy", "careful", "obedient", "honest", "rude"],
+      "a": 0
+    },
+    {
+      "q": "Choose the option that is <b>nearest in meaning</b> to the underlined word: The teacher gave a <u>lucid</u> explanation of the poem.",
+      "o": ["vague", "clear", "long", "boring", "difficult"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence with the most suitable option: Neither the principal nor the teachers ________ present at the meeting yesterday.",
+      "o": ["was", "were", "is", "are", "have been"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence with the most suitable option: The students had hardly entered the classroom ________ the bell rang.",
+      "o": ["than", "when", "then", "while", "before"],
+      "a": 1
+    },
+    {
+      "q": "Identify the part of speech of the underlined word: The boy ran <u>fast</u> to catch the school bus.",
+      "o": ["Noun", "Adjective", "Adverb", "Verb", "Preposition"],
+      "a": 2
+    },
+    {
+      "q": "Choose the correct spelling from the options below.",
+      "o": ["Accomodation", "Accommodation", "Acomodation", "Acommodation", "Accomodasion"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: If I ________ a bird, I would fly across the Atlantic Ocean.",
+      "o": ["am", "was", "were", "are", "have been"],
+      "a": 2
+    },
+    {
+      "q": "Choose the option that best explains the underlined idiom: Tunde was told to <u>let sleeping dogs lie</u>.",
+      "o": ["wake up the dogs", "avoid disturbing a past dispute", "buy a new pet", "tell a lie to save a friend", "be cautious of animals"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The standard of education in the country has ________ drastically over the last decade.",
+      "o": ["fallen", "fell", "felled", "fall", "falling"],
+      "a": 0
+    },
+    {
+      "q": "Choose the correct question tag to complete the sentence: You haven't finished your homework assignment, ________?",
+      "o": ["did you", "haven't you", "have you", "had you", "don't you"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: Kemi is the ________ of the two sisters.",
+      "o": ["tall", "taller", "tallest", "more taller", "most tallest"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that is <b>opposite in meaning</b> to the underlined word: The execution of the contract was handled in a <u>clandestine</u> manner.",
+      "o": ["secret", "open", "careless", "illegal", "rapid"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The police officer asked the driver to pull ________ at the checkpoint.",
+      "o": ["over", "down", "off", "by", "through"],
+      "a": 0
+    },
+    {
+      "q": "What literary device is used in the phrase: 'The wind whispered secrets through the trees'?",
+      "o": ["Metaphor", "Simile", "Personification", "Irony", "Onomatopoeia"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: The security guards shared the recovered items ________ the five affected students.",
+      "o": ["between", "among", "with", "for", "amidst"],
+      "a": 1
+    },
+    {
+      "q": "Choose the correct passive voice version of: 'The boy kicked the football.'",
+      "o": ["The football is kicked by the boy.", "The football was being kicked by the boy.", "The football was kicked by the boy.", "The football had been kicked by the boy.", "The football kicked the boy."],
+      "a": 2
+    },
+    {
+      "q": "Choose the option that is <b>nearest in meaning</b> to the underlined word: The old empire was completely <u>annihilated</u> during the civil crisis.",
+      "o": ["rebuilt", "destroyed", "expanded", "protected", "remembered"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: John prefers reading novels ________ watching television sports programs.",
+      "o": ["than", "more than", "to", "instead", "from"],
+      "a": 2
+    },
+    {
+      "q": "Identify the option with a different vowel sound from the others.",
+      "o": ["feet", "meat", "sit", "read", "seat"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: The news of the accident ________ broadcasted across all network channels last night.",
+      "o": ["were", "was", "are", "have been", "is"],
+      "a": 1
+    },
+    {
+      "q": "Choose the correct plural form of the word 'Criterion'.",
+      "o": ["Criterions", "Criterias", "Criteria", "Criteriones", "Criteriates"],
+      "a": 2
+    },
+    {
+      "q": "Choose the option that best explains the underlined idiom: Funmi decided to <u>call it a day</u> after working for ten straight hours.",
+      "o": ["start a new job", "stop working for the day", "name the calendar date", "call her supervisor", "take a short nap"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: Emeka went to the market to buy a ________ of bread.",
+      "o": ["loaf", "slice", "block", "bunch", "packet"],
+      "a": 0
+    },
+    {
+      "q": "What literary device is an exaggeration used for emphasis or dramatic effect?",
+      "o": ["Alliteration", "Oxymoron", "Hyperbole", "Puns", "Metaphor"],
+      "a": 2
+    },
+    {
+      "q": "Choose the alternative that safely replaces the underlined phrase: The administrative board decided to <u>put off</u> the final mock exam session.",
+      "o": ["cancel", "postpone", "accelerate", "announce", "inspect"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The young man was accused ________ stealing the school laboratory equipment.",
+      "o": ["for", "of", "with", "on", "by"],
+      "a": 1
+    },
+    {
+      "q": "Choose the correct spelling from the options provided below.",
+      "o": ["Maintenance", "Maintenence", "Maintanance", "Maintainance", "Maintanence"],
+      "a": 0
+    },
+    {
+      "q": "What is a poem written to mourn or lament the passing of a deceased individual called?",
+      "o": ["Sonnet", "Epic", "Elegy", "Ode", "Ballad"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: This secret must remain strictly between you and ________.",
+      "o": ["I", "me", "myself", "we", "mine"],
+      "a": 1
+    },
+    {
+      "q": "Choose the correct option: The three business partners constantly argue with ________.",
+      "o": ["each other", "one another", "themselves", "ourselves", "yourselves"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The principal gave an ________ order that all latecomers must clean the school field.",
+      "o": ["expressive", "explicit", "implicit", "intended", "implied"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that contains a silent letter in its pronunciation context.",
+      "o": ["Doctor", "Comb", "Market", "Basket", "Laptop"],
+      "a": 1
+    },
+    {
+      "q": "Identify the figure of speech used here: 'The classroom was a boiling cauldron of noise during recess.'",
+      "o": ["Simile", "Metaphor", "Synecdoche", "Euphemism", "Irony"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The head teacher was highly impressed by the student's ________ behavior.",
+      "o": ["exemplary", "exampled", "exempted", "exhumed", "exemplified"],
+      "a": 0
+    },
+    {
+      "q": "Choose the correct pronoun: Every student must submit ________ project file before Friday afternoon.",
+      "o": ["their", "his or her", "its", "our", "theirs"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that is <b>nearest in meaning</b> to the underlined word: The governor's visit to our school community is <u>imminent</u>.",
+      "o": ["delayed", "about to happen", "impossible", "unimportant", "secret"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The traveler packed all his ________ into the trunk of the commercial vehicle.",
+      "o": ["luggage", "luggages", "luggage items", "bundles of luggage", "pieces of luggages"],
+      "a": 0
+    },
+    {
+      "q": "Choose the correct option: The boy is ________ young to understand these complex administrative principles.",
+      "o": ["to", "two", "too", "so", "very"],
+      "a": 2
+    },
+    {
+      "q": "What is the name given to the main opponent or rival of the hero in a literary work drama?",
+      "o": ["Protagonist", "Antagonist", "Narrator", "Playwright", "Character"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that is <b>opposite in meaning</b> to the underlined word: The audience gave a <u>turbulent</u> reaction to the speaker's political comments.",
+      "o": ["noisy", "peaceful", "violent", "angry", "confused"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The internal audit team came to check the school account ________.",
+      "o": ["books", "papers", "files", "ledgers", "statements"],
+      "a": 0
+    },
+    {
+      "q": "Complete the sentence: Audu is looking forward to ________ his maternal grandparents next weekend.",
+      "o": ["visit", "visiting", "visited", "be visiting", "have visited"],
+      "a": 1
+    },
+    {
+      "q": "Choose the correct word option: The industrial noise from the factory floor does not ________ my concentration levels.",
+      "o": ["effect", "affect", "affects", "effects", "effected"],
+      "a": 1
+    },
+    {
+      "q": "What punctuation mark is used to indicate a sudden break or an abrupt change of thought in a structural text line?",
+      "o": ["Comma", "Colon", "Dash", "Hyphen", "Semicolon"],
+      "a": 2
+    },
+    {
+      "q": "Identify the word that has the same consonant sound as the underlined letters in: <u>Ch</u>urch.",
+      "o": ["Character", "Chef", "Match", "Chaos", "Chorus"],
+      "a": 2
+    },
+    {
+      "q": "Choose the option that best explains the underlined expression: The assignment was <u>a piece of cake</u> for the brilliant scholar.",
+      "o": ["very difficult", "very sweet", "very easy", "expensive", "unnecessary"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: The driver drove the vehicle cautiously ________ the heavy downpour.",
+      "o": ["despite", "in spite", "although", "even though", "despite of"],
+      "a": 0
+    },
+    {
+      "q": "Identify the expression that represents an <b>oxymoron</b> structure from the options listed below.",
+      "o": ["The man is as brave as a lion.", "We found a sweet sorrow in parting.", "Time wait for no single individual.", "The sun smiled down on our graduation.", "He has a heart of gold."],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: Chinedu split the remaining fruit juice ________ into two clean containers.",
+      "o": ["half", "halves", "equally", "fairly", "midway"],
+      "a": 2
+    },
+    {
+      "q": "Choose the word with the correct spelling pattern.",
+      "o": ["Privilege", "Priviledge", "Privelege", "Priveledge", "Privilage"],
+      "a": 0
+    },
+    {
+      "q": "What is the resolution or final outcome of a complex plot structure in a dramatic play format called?",
+      "o": ["Climax", "Exposition", "Denouement", "Conflict", "Prologue"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: The JSS3 students are currently sitting ________ their final exams.",
+      "o": ["for", "at", "on", "in", "by"],
+      "a": 0
+    },
+    {
+      "q": "Choose the option that is <b>nearest in meaning</b> to the underlined word: Her performance in the sporting finals was <u>exquisite</u>.",
+      "o": ["poor", "excellent", "average", "terrible", "boring"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that best indicates a correct application of punctuation parameters.",
+      "o": ["Where are you going asked the bursar.", "Where are you going? asked the bursar.", "\"Where are you going?\" asked the bursar.", "\"Where are you going,\" asked the bursar?", "Where are you going asked the bursar?"],
+      "a": 2
+    },
+    {
+      "q": "Complete the sentence: I have been studying in this educational facility ________ five years.",
+      "o": ["since", "for", "from", "during", "ago"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that is <b>opposite in meaning</b> to the underlined word: The local community praised the young leader's <u>altruistic</u> actions.",
+      "o": ["selfish", "generous", "kind", "patriotic", "careless"],
+      "a": 0
+    },
+    {
+      "q": "Complete the sentence: The old man walked slow ________ steadily down the narrow village path.",
+      "o": ["and", "but", "or", "so", "because"],
+      "a": 1
+    },
+    {
+      "q": "What is a short, witty speech or poem spoken directly at the end of a dramatic theatrical play production?",
+      "o": ["Prologue", "Epilogue", "Soliloquy", "Monologue", "Dialogue"],
+      "a": 1
+    },
+    {
+      "q": "Complete the sentence: The continuous rainfall has prevented the crop fields ________ drying up completely.",
+      "o": ["for", "from", "to", "against", "by"],
+      "a": 1
+    },
+    {
+      "q": "Choose the option that best explains the underlined idiom: The principal advised the students not to <u>put all their eggs in one basket</u>.",
+      "o": ["carry eggs carelessly", "depend entirely on a single plan asset", "waste agricultural produce", "argue during study hours", "cook meals altogether"],
+      "a": 1
+    }
+  ]
+    }
