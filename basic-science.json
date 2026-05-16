@@ -1,0 +1,304 @@
+{
+  "Basic Science & Tech": [
+    {
+      "q": "Which of the following cellular components is found <b>only</b> in plant cells?",
+      "o": ["Cell membrane", "Cytoplasm", "Cell wall", "Mitochondrion", "Nucleus"],
+      "a": 2
+    },
+    {
+      "q": "The fundamental unit of life in all living organisms is classified as the ________.",
+      "o": ["Tissue", "Organ", "System", "Cell", "Organism"],
+      "a": 3
+    },
+    {
+      "q": "Which of the following blood groups is known as the universal donor?",
+      "o": ["Group A", "Group B", "Group AB", "Group O+", "Group O-"],
+      "a": 4
+    },
+    {
+      "q": "The process by which green plants manufacture their own food using sunlight energy is called ________.",
+      "o": ["Respiration", "Transpiration", "Photosynthesis", "Osmosis", "Plasmolysis"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is a non-metal that exists as a liquid at standard room temperature?",
+      "o": ["Mercury", "Bromine", "Chlorine", "Iodine", "Sodium"],
+      "a": 1
+    },
+    {
+      "q": "The S.I. unit for measuring thermodynamic temperature parameters is ________.",
+      "o": ["Degree Celsius", "Fahrenheit", "Kelvin", "Joules", "Watts"],
+      "a": 2
+    },
+    {
+      "q": "A deficiency of Vitamin C in a human diet track leads to a deficiency disease called ________.",
+      "o": ["Rickets", "Scurvy", "Beriberi", "Kwashiorkor", "Night blindness"],
+      "a": 1
+    },
+    {
+      "q": "Which organ in the human body system is primarily responsible for pumping blood?",
+      "o": ["Lungs", "Kidney", "Liver", "Heart", "Stomach"],
+      "a": 3
+    },
+    {
+      "q": "The physical change of a substance directly from its solid state to a gaseous state without liquefying is called ________.",
+      "o": ["Evaporation", "Condensation", "Sublimation", "Melting", "Freezing"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following represents a dynamic chemical change?",
+      "o": ["Melting of candle wax", "Dissolving sugar in water", "Rusting of an iron nail", "Evaporation of methylated spirit", "Freezing of water into ice cubes"],
+      "a": 2
+    },
+    {
+      "q": "The form of energy associated with the continuous movement of particles within a body is ________.",
+      "o": ["Potential energy", "Kinetic energy", "Chemical energy", "Thermal (Heat) energy", "Nuclear energy"],
+      "a": 3
+    },
+    {
+      "q": "Which of the following is a major greenhouse gas responsible for global warming concerns?",
+      "o": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen", "Argon"],
+      "a": 2
+    },
+    {
+      "q": "The system of organs responsible for the removal of metabolic waste products from the human body body frame is the ________ system.",
+      "o": ["Digestive", "Excretory", "Respiratory", "Circulatory", "Nervous"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following disease vectors transmits the parasite responsible for Yellow Fever?",
+      "o": ["Female Anopheles mosquito", "Aedes mosquito", "Culex mosquito", "Tsetse fly", "Housefly"],
+      "a": 1
+    },
+    {
+      "q": "An atom that has lost or gained one or more electrical electrons becomes a/an ________.",
+      "o": ["Molecule", "Ion", "Isotope", "Element", "Compound"],
+      "a": 1
+    },
+    {
+      "q": "The atmospheric layer closest to the Earth's surface where weather elements occur is the ________.",
+      "o": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere", "Exosphere"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is an example of a first-class lever layout mechanism?",
+      "o": ["Wheelbarrow", "Pair of scissors", "Sugar tongs", "Fishing rod", "Nutcracker"],
+      "a": 1
+    },
+    {
+      "q": "The constant structural movement of solvent molecules from a region of low solute concentration to high concentration through a semi-permeable membrane is ________.",
+      "o": ["Diffusion", "Osmosis", "Plasmolysis", "Evaporation", "Filtration"],
+      "a": 1
+    },
+    {
+      "q": "Which human tooth type profile is specifically adapted for tearing meat and tough food components?",
+      "o": ["Incisor", "Canine", "Premolar", "Molar", "Wisdom tooth"],
+      "a": 1
+    },
+    {
+      "q": "The chemical formula representing water molecule compounds is ________.",
+      "o": ["CO&sub2;", "H&sub2;O", "NaCl", "HCl", "NaOH"],
+      "a": 1
+    },
+    {
+      "q": "Which planet is located closest to the sun within our solar system structural model?",
+      "o": ["Venus", "Earth", "Mars", "Mercury", "Jupiter"],
+      "a": 3
+    },
+    {
+      "q": "The practice of planting trees in an area where there was no previous tree cover is called ________.",
+      "o": ["Deforestation", "Afforestation", "Reforestation", "Desertification", "Bush burning"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a vital non-renewable energy source asset?",
+      "o": ["Solar energy", "Crude oil (Petroleum)", "Wind energy", "Biomass energy", "Hydroelectric energy"],
+      "a": 1
+    },
+    {
+      "q": "The female reproductive cell (gamete) in human reproductive dynamics is the ________.",
+      "o": ["Spermatozoon", "Ovum (Egg)", "Zygote", "Embryo", "Foetus"],
+      "a": 1
+    },
+    {
+      "q": "A substance with a clean pH value metric scaling at 2.0 is classified as a ________.",
+      "o": ["Strong acid", "Weak acid", "Neutral substance", "Weak base", "Strong base"],
+      "a": 0
+    },
+    {
+      "q": "Which of the following methods is most suitable for separating a mixture of common salt and water?",
+      "o": ["Filtration", "Decantation", "Evaporation to dryness", "Sieving", "Magnetic separation"],
+      "a": 2
+    },
+    {
+      "q": "The process of maintaining a stable internal body environment despite external environmental shifts is ________.",
+      "o": ["Metabolism", "Homeostasis", "Osmoregulation", "Excretion", "Irritability"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following elements is required for the healthy formation of bones and teeth?",
+      "o": ["Iron", "Calcium", "Iodine", "Sodium", "Potassium"],
+      "a": 1
+    },
+    {
+      "q": "The product of an object's total mass value and its acceleration parameters defines ________.",
+      "o": ["Work done", "Power", "Force", "Pressure", "Momentum"],
+      "a": 2
+    },
+    {
+      "q": "Which type of blood vessel carries oxygenated blood away from the heart to other body segments?",
+      "o": ["Vein", "Artery", "Capillary", "Venule", "Vena Cava"],
+      "a": 1
+    },
+    {
+      "q": "The instrument used to measure atmospheric air pressure levels is a ________.",
+      "o": ["Thermometer", "Hygrometer", "Barometer", "Anemometer", "Hydrometer"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is a contagious viral disease attacking human respiratory lines?",
+      "o": ["Malaria", "Cholera", "Influenza (Flu)", "Tuberculosis", "Ringworm"],
+      "a": 2
+    },
+    {
+      "q": "The process where a gas directly cools down and changes state to become a liquid fluid is called ________.",
+      "o": ["Evaporation", "Melting", "Vaporization", "Condensation", "Freezing"],
+      "a": 3
+    },
+    {
+      "q": "What type of reflection occurs when light hits a rough or uneven surface area?",
+      "o": ["Regular reflection", "Diffuse (Irregular) reflection", "Total internal reflection", "Refraction", "Dispersion"],
+      "a": 1
+    },
+    {
+      "q": "The male reproductive organ of a flowering plant structure is known as the ________.",
+      "o": ["Carpel", "Pistil", "Stamen", "Petal", "Sepal"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is a chemical substance used to kill or control unwanted weeds in farmland systems?",
+      "o": ["Insecticide", "Pesticide", "Herbicide", "Fertilizer", "Rodenticide"],
+      "a": 2
+    },
+    {
+      "q": "The central core part of an atom which contains protons and neutrons is the ________.",
+      "o": ["Electron cloud", "Orbit", "Shell", "Nucleus", "Valence layer"],
+      "a": 3
+    },
+    {
+      "q": "Which component of human blood is primarily charged with fighting infections and foreign pathogens?",
+      "o": ["Red blood cells", "White blood cells", "Blood platelets", "Plasma", "Hemoglobin"],
+      "a": 1
+    },
+    {
+      "q": "An object covers a total distance tracking loop of 200 meters within 10 seconds. Calculate its speed metric.",
+      "o": ["20 m/s", "2,000 m/s", "0.05 m/s", "190 m/s", "210 m/s"],
+      "a": 0
+    },
+    {
+      "q": "Which of the following is classified as a synthetic (man-made) material resource?",
+      "o": ["Wood", "Cotton", "Nylon", "Rubber", "Leather"],
+      "a": 2
+    },
+    {
+      "q": "The structural property of a liquid that makes it resist flowing freely is called ________.",
+      "o": ["Surface tension", "Capillarity", "Viscosity", "Density", "Buoyancy"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following elements is a primary causative agent for water pollution leading to Eutrophication?",
+      "o": ["Crude oil spills", "Chemical fertilizers containing nitrates", "Plastic materials dumped", "Heavy metal particles", "Industrial smoke residues"],
+      "a": 1
+    },
+    {
+      "q": "The type of joints found between the bones of the human skull are classified as ________ joints.",
+      "o": ["Ball and socket", "Hinge", "Immovable (Fixed)", "Gliding", "Pivot"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following vitamins is synthesized when human skin receives direct exposure to sunlight energy?",
+      "o": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D", "Vitamin E"],
+      "a": 3
+    },
+    {
+      "q": "The temporary memory storage element within a computer systems processor environment is ________.",
+      "o": ["Hard Disk Drive", "ROM", "RAM", "Flash Memory Card", "Compact Disc"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following substances will turn blue litmus paper directly into a red color profile?",
+      "o": ["Lime juice", "Soap solution", "Pure distilled water", "Lime water", "Caustic soda solution"],
+      "a": 0
+    },
+    {
+      "q": "The fundamental process by which living things release energy from digested food elements is ________.",
+      "o": ["Excretion", "Digestion", "Respiration", "Ingestion", "Egestion"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following items represents a clean application of an electromagnet device setup?",
+      "o": ["Electric pressing iron", "Electric door bell", "Clinical thermometer", "Simple magnifying glass", "Kerosene stove cooker"],
+      "a": 1
+    },
+    {
+      "q": "The standard device used by medical professionals to check the exact body temperature metrics of patients is the ________.",
+      "o": ["Laboratory thermometer", "Clinical thermometer", "Six's maximum and minimum thermometer", "Digital barometer", "Anemometer"],
+      "a": 1
+    },
+    {
+      "q": "The primary pulling force that holds planetary bodies in orbital trajectories round the sun space is ________.",
+      "o": ["Magnetic force", "Frictional force", "Gravitational force", "Electrostatic force", "Centrifugal force"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following food categories is highly enriched with proteins for growth restoration?",
+      "o": ["Yam slices", "Cassava flour", "Soybeans", "Palm oil fluids", "Ripe oranges"],
+      "a": 2
+    },
+    {
+      "q": "The transfer of heat energy through a vacuum space environment without any material medium is labeled as ________.",
+      "o": ["Conduction", "Convection", "Radiation", "Insulation", "Absorption"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following elements can be recycled to limit environmental pollution indexes?",
+      "o": ["Food waste scraps", "Aluminum beverage cans", "Dry leaves", "Used wood elements", "Animal dung residues"],
+      "a": 1
+    },
+    {
+      "q": "The loss of water vapor from the leaves and aerial portions of a plant structure is known as ________.",
+      "o": ["Guttation", "Evaporation", "Transpiration", "Respiration", "Infiltration"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following is a standard physiological symptom indicating an adolescent stage growth development transition?",
+      "o": ["Loss of milk teeth", "Deepening of voice in boys", "Increase in parsing memory metrics", "Graying of hair strands", "Development of wrinkles"],
+      "a": 1
+    },
+    {
+      "q": "The unit used to state the frequency metric of a vibrating sound wave system is ________.",
+      "o": ["Decibels", "Metres", "Seconds", "Hertz", "Newtons"],
+      "a": 3
+    },
+    {
+      "q": "All of the following are examples of sexually transmitted infections (STIs) EXCEPT ________.",
+      "o": ["Gonorrhea", "Syphilis", "Chlamydia", "Cholera", "HIV/AIDS"],
+      "a": 3
+    },
+    {
+      "q": "The process by which an organism reacts to an environmental change or sudden shock showcases the characteristic of ________.",
+      "o": ["Reproduction", "Excretion", "Irritability (Sensitivity)", "Movement", "Nutrition"],
+      "a": 2
+    },
+    {
+      "q": "Which of the following conditions is necessary for a seed planting setup to germinate successfully?",
+      "o": ["Carbon dioxide, warm soils, dark spaces", "Water, oxygen, and optimum temperature warmth", "Fertilizers, chemical soils, heavy water", "Sunlight, glucose elements, mud components", "Dry spaces, open air, nitrogen gases"],
+      "a": 1
+    },
+    {
+      "q": "The absolute mixture of two or more metals fused together to achieve stronger asset qualities is called a/an ________.",
+      "o": ["Compound", "Alloy", "Isotope", "Polymer", "Suspension"],
+      "a": 1
+    }
+  ]
+}
