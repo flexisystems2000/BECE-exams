@@ -1,0 +1,304 @@
+{
+  "Security Education": [
+    {
+      "q": "The state of being completely free from danger, fear, anxiety, or threat to one's life and property is defined as ________.",
+      "o": ["Freedom", "Security", "Peace", "Anarchy", "Justice"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a primary duty of every resident in maintaining neighborhood security?",
+      "o": ["Arresting suspects with weapons", "Staying vigilant and reporting suspicious movements", "Locking up public roads", "Conducting illegal night raids", "Ignoring strange sounds at night"],
+      "a": 1
+    },
+    {
+      "q": "The dynamic habit of paying close attention to your immediate surroundings to identify potential safety risks is known as ________.",
+      "o": ["Security awareness", "Curiosity", "Gossiping", "Prying", "Interference"],
+      "a": 0
+    },
+    {
+      "q": "Which of the following constitutes an immediate threat to national security parameters?",
+      "o": ["Building modern interstate rails", "Boko Haram terrorism and banditry", "Organizing cross-cultural festivals", "Increasing the annual school budget", "Planting high-yield food crops"],
+      "a": 1
+    },
+    {
+      "q": "The acronym 'NSCDC' stands for which Nigerian national security agency?",
+      "o": ["National Secret Crime Defense Corps", "Nigeria Security and Civil Defence Corps", "Nigerian Social Crime Detection Council", "National Safety and Civil Defense Commission", "Nigeria Security and Criminal Defense Centre"],
+      "a": 1
+    },
+    {
+      "q": "Which government security agency is primarily charged with maintaining internal law and order on a daily basis?",
+      "o": ["The Nigerian Army", "The Nigeria Police Force", "The Nigerian Navy", "The State Security Service", "The Defence Intelligence Agency"],
+      "a": 1
+    },
+    {
+      "q": "The specialized security agency responsible for gathering internal intelligence to protect the state against domestic subversion is the ________.",
+      "o": ["Federal Road Safety Corps", "Department of State Services (DSS)", "Nigerian Customs Service", "Nigerian Correctional Service", "National Drug Law Enforcement Agency"],
+      "a": 1
+    },
+    {
+      "q": "The violent and unlawful seizure of an aircraft, vehicle, or ship by force while in transit is called ________.",
+      "o": ["Burglary", "Hijacking", "Shoplifting", "Vandalism", "Smuggling"],
+      "a": 1
+    },
+    {
+      "q": "The criminal act of breaking into a residential building at night with the intent to steal valuable items is ________.",
+      "o": ["Robbery", "Burglary", "Pickpocketing", "Arson", "Extortion"],
+      "a": 1
+    },
+    {
+      "q": "The illegal act of deliberately setting fire to public structures, houses, or vehicles is classified as ________.",
+      "o": ["Vandalism", "Arson", "Burglary", "Assault", "Trespassing"],
+      "a": 1
+    },
+    {
+      "q": "The crime that involves taking a human being away by force or trickery to demand money for their release is ________.",
+      "o": ["Abduction", "Kidnapping", "Human trafficking", "Hostage negotiation", "Assassination"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a safe personal security habit when returning home late at night?",
+      "o": ["Walking down dark, isolated alleyways", "Having your entrance keys ready in your hand before reaching the door", "Wearing heavy noise-cancelling headphones", "Accepting free rides from friendly strangers", "Leaving your home perimeter gates wide open"],
+      "a": 1
+    },
+    {
+      "q": "The secret, illegal groups within educational setups whose operations are hidden and dangerous to the student body are ________.",
+      "o": ["Scout groups", "Cult groups", "Debate societies", "Drama clubs", "Jet clubs"],
+      "a": 1
+    },
+    {
+      "q": "Spreading unverified, false, or fabricated information online to cause public panic or violence is a cyber threat called ________.",
+      "o": ["Cyber bullying", "Fake news (Misinformation)", "Hacking", "Phishing", "Identity theft"],
+      "a": 1
+    },
+    {
+      "q": "If you notice a strange, unclaimed bag left unattended at a busy public transit terminal, your immediate reaction should be to ________.",
+      "o": ["Open it to check for valuables", "Alert security officials or the police immediately", "Kick it out of the pathway", "Carry it home to your parents", "Ignore it completely"],
+      "a": 1
+    },
+    {
+      "q": "The legal code or identifier unique to every mobile phone that security agencies use to track stolen devices globally is the ________.",
+      "o": ["PIN code", "IMEI number", "IP address", "SIM card serial", "PUK code"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following national security arms is constitutionally responsible for defending Nigeria's territorial boundaries against external aggression on land?",
+      "o": ["The Nigeria Police Force", "The Nigerian Army", "The Nigerian Navy", "The Nigerian Air Force", "The Civil Defence Corps"],
+      "a": 1
+    },
+    {
+      "q": "The security threat where a person uses digital systems or the internet to steal funds, defraud individuals, or compromise servers is ________.",
+      "o": ["Armed robbery", "Cybercrime", "Vandalism", "Burglary", "Intellectual theft"],
+      "a": 1
+    },
+    {
+      "q": "The emergency phone number deployed in Lagos State to reach emergency response units (Police, Fire Service, Ambulance) directly is ________.",
+      "o": ["111", "767 or 112", "999", "100", "001"],
+      "a": 1
+    },
+    {
+      "q": "The intentional destruction, theft, or defacement of critical public infrastructure like oil pipelines or railway tracks is ________.",
+      "o": ["Sabotage", "Vandalism", "Burglary", "Smuggling", "Trespassing"],
+      "a": 1
+    },
+    {
+      "q": "The system of neighborhood security where residents voluntarily take turns patrolling their streets at night to prevent crime is a ________.",
+      "o": ["Secret service branch", "Vigilante group (Neighborhood watch)", "Military task force", "Civil rights movement", "Private security company"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following signs indicates that an internet website link might be secure and encrypted for entering personal data?",
+      "o": ["The text color is bright red", "The URL starts with 'https://' alongside a padlock icon", "The link has multiple pop-up ads", "The website opens very slowly", "The URL starts with 'http://' without any icons"],
+      "a": 1
+    },
+    {
+      "q": "The illegal act of bringing banned goods, contraband, or weapons into a country without paying custom duties or passing border checks is ________.",
+      "o": ["Laundering", "Smuggling", "Stealing", "Racketeering", "Vending"],
+      "a": 1
+    },
+    {
+      "q": "Which government security agency is responsible for checking travelers at border posts to control illegal immigration loops?",
+      "o": ["The Nigeria Police Force", "The Nigeria Immigration Service (NIS)", "The Nigerian Customs Service", "The State Security Service", "The National Intelligence Agency"],
+      "a": 1
+    },
+    {
+      "q": "The social vice that involves an individual using physical violence or intimidation to extort money or lunch items from weaker classmates is ________.",
+      "o": ["Cultism", "Bullying", "Truancy", "Gambling", "Flirting"],
+      "a": 1
+    },
+    {
+      "q": "An official, mandatory instruction issued by the government restricting citizens from leaving their homes within specific hours to restore security order is a ________.",
+      "o": ["Decree", "Curfew", "Injunction", "Prohibition", "Manifesto"],
+      "a": 1
+    },
+    {
+      "q": "The dynamic process of training school students and staff on how to evacuate a building safely during an emergency like a fire outbreak is a ________.",
+      "o": ["Security meeting", "Safety drill", "Physical exercise", "Lockdown procedure", "Assembling queue"],
+      "a": 1
+    },
+    {
+      "q": "The unlawful entry onto a person's private land or property without explicit permission or legal right is called ________.",
+      "o": ["Burglary", "Trespassing", "Arson", "Vandalism", "Encroachment"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following is a primary psychological effect of insecurity on victims within a community?",
+      "o": ["Increased productivity index", "Severe trauma, anxiety, and fear", "Improved social trust networks", "Rapid economic development", "High political engagement"],
+      "a": 1
+    },
+    {
+      "q": "The federal security agency primarily tasked with preventing financial crimes, money laundering, and economic corruption in Nigeria is ________.",
+      "o": ["ICPC", "EFCC", "NDLEA", "NAPTIP", "DSS"],
+      "a": 1
+    },
+    {
+      "q": "A security device installed in modern buildings that captures live video recordings of activities around the perimeter is a ________.",
+      "o": ["Biometric sensor", "CCTV camera", "Smoke detector", "Motion alarm trigger", "Digital intercom"],
+      "a": 1
+    },
+    {
+      "q": "The criminal act of forging another person's signature or manipulating official security documents for illegal financial gain is ________.",
+      "o": ["Theft", "Forgery", "Burglary", "Smuggling", "Extortion"],
+      "a": 1
+    },
+    {
+      "q": "If an active fire outbreak occurs in your school classroom, your immediate security action should be to ________.",
+      "o": ["Hide under the laboratory desks", "Shout to alert others and exit calmly using the designated fire escape route", "Gather your text books into your bag first", "Lock the classroom doors to block smoke", "Run to the highest floor of the building"],
+      "a": 1
+    },
+    {
+      "q": "The security problem that involves a person demanding money or favors from a victim by threatening to leak their private secrets online is ________.",
+      "o": ["Assault", "Blackmail (Extortion)", "Kidnapping", "Cyber bullying", "Phishing"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following represents a dangerous personal habit regarding online security?",
+      "o": ["Using strong, unique passwords for every account", "Sharing your bank login details and passwords with online friends", "Enabling two-factor authentication (2FA)", "Verifying links before clicking them", "Keeping your security software updated"],
+      "a": 1
+    },
+    {
+      "q": "The deliberate act of targeting and murdering a prominent political, social, or royal leader for ideological or financial reasons is ________.",
+      "o": ["Manslaughter", "Assassination", "Homicide", "Abduction", "Execution"],
+      "a": 1
+    },
+    {
+      "q": "The government agency responsible for inspecting and regulating the safety of processed food, water, and drug products in Nigeria is ________.",
+      "o": ["NDLEA", "NAFDAC", "SON", "NAPTIP", "CPC"],
+      "a": 1
+    },
+    {
+      "q": "The physical altercations, rioting, or armed conflicts between different communities or tribes over land borders represents ________.",
+      "o": ["Political debate", "Inter-communal clash", "Civil strike action", "Industrial dispute", "Social socialization"],
+      "a": 1
+    },
+    {
+      "q": "The defensive measures used to verify the unique biological traits (like fingerprints or iris patterns) of an individual before granting access to a secure facility are ________.",
+      "o": ["Password hashes", "Biometrics", "Barcodes", "Digital signatures", "RFID tags"],
+      "a": 1
+    },
+    {
+      "q": "The continuous tracking, following, or monitoring of a person's movements without their consent, causing them to feel unsafe, is a crime called ________.",
+      "o": ["Assault", "Stalking", "Harassment", "Trespassing", "Spying"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following actions is the safest choice if you are caught outdoors during a violent gun battle between security forces and criminals?",
+      "o": ["Stand tall to record the event on your phone", "Lie flat on the ground immediately and seek solid concrete cover", "Run across the open street to get home fast", "Shout loudly to identify yourself to the gunmen", "Confront the nearest armed individual"],
+      "a": 1
+    },
+    {
+      "q": "The federal security body responsible for patrolling maritime borders, territorial waters, and suppressing piracy issues in Nigeria is the ________.",
+      "o": ["Nigerian Army", "Nigerian Navy", "Nigerian Air Force", "Customs Maritime Unit", "Marine Police Division"],
+      "a": 1
+    },
+    {
+      "q": "The criminal action that involves modifying scientific software algorithms or breaking into databases to steal data properties is ________.",
+      "o": ["Software piracy", "Hacking", "Digital encoding", "Data entry", "Phishing"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following actions represents a standard corporate safety technique against random fire hazards in storage rooms?",
+      "o": ["Stacking paper items near power panels", "Installing working smoke detectors and fire extinguishers", "Keeping windows permanently sealed", "Using loose, uninsulated electrical wires", "Storing kerosene near wooden shelves"],
+      "a": 1
+    },
+    {
+      "q": "The physical violence or threat of harm used by law enforcement personnel or criminals to force a suspect to confess to a crime is ________.",
+      "o": ["Interrogation", "Coercion (Torture)", "Due process", "Arraignment", "Detention"],
+      "a": 1
+    },
+    {
+      "q": "The security problem that involves a person tricking a victim into sending money by posing as a legitimate business operator online is ________.",
+      "o": ["Identity theft", "Advance Fee Fraud (419)", "Burglary", "Blackmail", "Smuggling"],
+      "a": 1
+    },
+    {
+      "q": "Which government security agency focuses heavily on searching cargo entries to prevent the importation of toxic chemical waste or illegal firearms?",
+      "o": ["The Nigeria Police Force", "The Nigeria Customs Service", "The Federal Road Safety Corps", "The National Security Council", "The State Civil Service Council"],
+      "a": 1
+    },
+    {
+      "q": "The social vice that involves an growing child escaping from school premises without permission during active lesson hours is ________.",
+      "o": ["Vagranism", "Truancy", "Delinquency", "Expulsion", "Suspension"],
+      "a": 1
+    },
+    {
+      "q": "The psychological condition characterized by deep stress, recurrent nightmares, and panic attacks suffered by survivors of violent crimes is labeled ________.",
+      "o": ["Amnesia", "Post-Traumatic Stress Disorder (PTSD)", "Schizophrenia", "Claustrophobia", "Insomnia"],
+      "a": 1
+    },
+    {
+      "q": "A simple protective structure installed on residential windows and doors made of welded metal grids to slow down intruder break-ins is a ________.",
+      "o": ["Curtain rod link", "Burglar proof proofing grid", "Venetian blind panel", "Aluminium frame grid", "Glass shutter bar"],
+      "a": 1
+    },
+    {
+      "q": "The criminal act of receiving, hiding, or converting properties that you know were stolen by armed robbers makes you a/an ________.",
+      "o": ["Eyewitness to the event", "Accessory to the crime (Receiver of stolen property)", "Bail guarantor", "Private investigator", "Victim asset manager"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following signs indicates that a neighborhood residential area might be targeted by a robbery ring?",
+      "o": ["The street lights are working brightly", "Strange markings or chalk codes appearing on perimeter walls and gates", "Children playing football outside during daytime", "Neighbors fixing new security locks", "Regular garbage disposal trucks visiting"],
+      "a": 1
+    },
+    {
+      "q": "The international policing organization that links the security networks of different countries to track fleeing global criminals is ________.",
+      "o": ["Amnesty Council", "Interpol", "ECOWAS Task Force", "United Nations Guards", "State Intelligence Network"],
+      "a": 1
+    },
+    {
+      "q": "The practice of using hidden camera lenses or recorders to spy on a country's classified military or economic infrastructure is ________.",
+      "o": ["Vandalism", "Espionage (Spying)", "Sabotage", "Subversion", "Mutiny"],
+      "a": 1
+    },
+    {
+      "q": "Which security agency is directly responsible for checking vehicle road-worthiness parameters and controlling speeding drivers on roads?",
+      "o": ["The Nigeria Police Force", "The Federal Road Safety Corps (FRSC)", "The Civil Defence Corps", "The Nigerian Army Division", "The Department of State Services"],
+      "a": 1
+    },
+    {
+      "q": "The security problem that involves an organized rebellion by military personnel against their commanding officers or the state authority is a ________.",
+      "o": ["Coup d'état", "Mutiny", "Referendum", "Civil strike", "Boycott"],
+      "a": 1
+    },
+    {
+      "q": "The protective item that must be safely checked and worn by every vehicle driver and front passenger to secure life during collision impacts is the ________.",
+      "o": ["Leather hand gloves", "Seat belt", "Crash helmet", "Sun visor shield", "Safety boot pair"],
+      "a": 1
+    },
+    {
+      "q": "The illegal activity where an individual uses intimidation, force, or institutional authority to collect illegal money collections from traders or drivers is ________.",
+      "o": ["Bargaining", "Extortion", "Taxation", "Sponsorship", "Fundraising"],
+      "a": 1
+    },
+    {
+      "q": "Which of the following attributes helps to build strong community security frameworks against sudden criminal infiltrations?",
+      "o": ["Indifference to new faces", "Mutual neighborhood trust, unity, and open intelligence sharing", "Total isolation of individual household families", "Fear of criticizing criminal elements", "Ignoring local security meeting sessions"],
+      "a": 1
+    },
+    {
+      "q": "The formal security code of action that commands a building to be locked down completely with people remaining inside rooms away from windows due to active external danger is a ________.",
+      "o": ["Evacuation call", "Lockdown order", "Safety drill step", "Curfew declaration", "Assembling alert"],
+      "a": 1
+    }
+  ]
+    }
